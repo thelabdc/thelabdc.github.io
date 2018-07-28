@@ -19,7 +19,7 @@ gulp.task('browserSync', function () {
 });
 
 gulp.task('image', function () {
-  return gulp.src('source/images/**/*')
+  return gulp.src('src/images/**/*')
     .pipe(imagemin())
     .pipe(gulp.dest('_site/images'));
 });
@@ -60,7 +60,7 @@ gulp.task('jekyll-rebuild', ['jekyll'], function () {
 });
 
 gulp.task('watch', function () {
-  gulp.watch('source/**/*.*', ['jekyll-rebuild']);
+  gulp.watch('src/**/*.*', ['jekyll-rebuild']);
 });
 
 gulp.task('default', function (callback) {
