@@ -4,7 +4,7 @@ This is the source code for our website, which you can find at [http://thelab.dc
 
 ## Build
 
-This is a [https://jekyllrb.com/](jekyll)-based website hosted on GitHub pages.
+This is a [jekyll](https://jekyllrb.com/-based website hosted on GitHub pages.
 It relies on having both ruby and node installed. We build the site with the
 [https://hub.docker.com/r/circleci/ruby](ruby) Docker image from CircleCI. If
 you would like to build the site yourself, you can use:
