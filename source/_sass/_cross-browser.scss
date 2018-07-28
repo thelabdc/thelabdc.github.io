@@ -1,0 +1,25 @@
+// crossbrowser styles
+@mixin browser($browsers: Mozilla) {
+  @each $browser in $browsers {
+    html[data-browser*="#{$browser}"] & {
+      @content;
+    }
+  }
+}
+
+
+
+@mixin cross-browser-select {
+  &::before { display: none;}
+  appearance: none;
+  -o-appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 0.01px;
+  text-overflow: '';
+  background-image: url("../images/icons/ic_keyboard_arrow_down_white_24px.svg");
+  background-repeat: no-repeat;
+  background-position: 98% center;
+
+  option { color: black; background-color: white;}
+}

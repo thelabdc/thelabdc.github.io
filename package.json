@@ -1,0 +1,25 @@
+{
+  "name": "gulp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "git+https://github.com/tekd/gulp-gh-pages",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "gift": "^0.10.1"
+  }
+}

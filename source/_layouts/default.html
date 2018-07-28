@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>{{page.title}}</title>
+    
+    <link rel="stylesheet" href="{{ '/vendor/foundation.min.css' | relative_url}}">
+    <!-- <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url}}"> -->
+    <link rel="stylesheet" href="./css/styles.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,200i,300,300i,400,400i,500,500i,600,600i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+
+  <body>
+    <header class="top-bar">
+      <span class="top-bar__button js-trigger-menu">menu</span>
+      <nav class="main-menu js-target-menu main-menu--left">
+        <div class="main-menu--left__close-menu"><i class="material-icons button">clear</i></div>
+        <a href="{{'/index.html#who-we-are' | relative_url}}">Who we are</a>
+        <a href="{{'/index.html#what-we-do' | relative_url}}">What we do</a>
+        <a href="{{'/index.html#team' | relative_url}}">Team</a>
+        <a href="{{'/index.html#get-involved' | relative_url}}">Get Involved</a>
+        <a href="{{'/jobs.html' | relative_url}}">Jobs</a>
+        <a href="mailto:thelab@dc.gov">Contact</a>
+      </nav>
+      <a class="top-bar__logo" href="./"><img src="./images/lab-at-dc-wordmark.svg" alt="Lab at DC"></a>
+    </header>
+
+    {{content}}
+    <footer class="footer">
+      <div class="footer__wrapper">
+        <div class="footer__column footer--slim">
+          <nav class="footer-menu">
+            <h4>Sections</h4>
+            <a href="{{'/index.html#who-we-are' | relative_url}}">Who We Are</a>
+            <a href="{{'/index.html#what-we-do' | relative_url}}">What We Do</a>
+            <a href="{{'/index.html#team' | relative_url}}">Team</a>
+            <a href="{{'/alumni.html' | relative_url }}">Alumni</a>
+          </nav>
+        </div>
+        <div class="footer__column footer--slim">
+          <nav class="footer-menu">
+            <h4>&nbsp;</h4>
+            <a href="{{'/index.html#get-involved' | relative_url}}">Get Involved</a>
+            <a href="{{'/jobs.html' | relative_url}}">Jobs</a>
+            <a href="mailto:thelab@dc.gov">Contact</a>
+          </nav>
+        </div>
+        <div class="footer__column">
+          <h4>&nbsp;</h4>
+          <p>DC residents deserve a government that asks questions, tests policies, and iteratively improves how it serves the community.</p>
+          <div class="call-to-action">
+            <a href="mailto:thelab@dc.gov" class="custom-icon" target="_blank"><i class="material-icons">email</i></a>
+            <a href="https://twitter.com/TheLab_DC" class="custom-icon custom-icon--twitter" target="_blank"></a>
+            <a href="https://soundcloud.com/user-768286365" class="custom-icon custom-icon--soundcloud" target="_blank"></a>
+            <a href="https://www.linkedin.com/company-beta/15174132/" class="custom-icon custom-icon--linkedin" target="_blank"></a>
+            <a href="https://osf.io/institutions/thelabatdc/" class="custom-icon custom-icon--osf" target="_blank"></a>
+            <a href="https://www.youtube.com/channel/UChM2e0AS9HSmvweyhjs7rxA" class="custom-icon custom-icon--youtube" target="_blank"></a>
+            <a href="https://github.com/thelabdc" class="custom-icon custom-icon--github" target="_blank"></a>
+          </div>
+        </div>
+        <div class="footer__column footer--slim">
+          <img src="./images/we-are-dc.svg" alt="We are DC">
+        </div>
+      </div>
+    </footer>
+    <div class="after-footer">
+      <p>John A. Wilson Building 1350 Pennsylvania Ave. NW Suite 533 Washington, DC 20004 | <a href="mailto:thelab@dc.gov">thelab@dc.gov</a></p>
+    </div>
+    <div id="overlay" class="js-overlay"></div>
+    <script src="{{'/vendor/jquery-2.1.4.min.js' | relative_url}}"></script>
+    <script src="{{'/vendor/slick.min.js' | relative_url}}"></script>
+    <script src="{{'/js/scripts.js' | relative_url}}"></script>
+    <script type="text/javascript">
+        $(function() {
+            // detect user browsers
+            document.documentElement.setAttribute("data-browser", navigator.userAgent);
+        });
+    </script>
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+      <script src="{{'/js/' | append: js_file | relative_url }}" type="text/javascript"></script>
+      {% endfor %}
+    {% endif %}
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-97040742-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+
+
+
+  </body>
+</html>

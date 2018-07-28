@@ -1,0 +1,68 @@
+// Let's Implement swipe gestures for mobile and tablet.
+// Ideally Swipe would be 1:1
+
+.main-menu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 100;
+    box-shadow: 0 0 20px rgba(black, .4);
+    background-color: $dark-blue;
+    -webkit-flex-flow: column;
+    flex-flow: column;
+    overflow-y: scroll;
+    @include breakpoint($medium) { left: -48%; }
+    @include breakpoint($large) { left: -28%; }
+
+    @extend .u-transition;
+
+    a {
+        display: block;
+        font-size: 18px;
+        padding: 30px;
+        color: rgba(white, .7);
+        
+        border-bottom: 1px solid rgba(white, .1);
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 1px;
+
+        &:hover { 
+            background-color: rgba(black, .1); 
+            color: white;
+            text-decoration: none;
+        }
+    }
+
+     &--left { 
+        left: -100%;
+        right: 100%;
+
+        a { text-align: right; }
+
+        &.js-active-menu {
+            left: 0;
+            right: 70px;
+
+            @include breakpoint($medium) { right: 52%; }
+            @include breakpoint($large) { right: 72%; }
+        }
+    }
+
+    &--right {
+        right: -100%;
+        left: 100%;
+
+        a { text-align: left; }
+
+        &.js-active-menu {
+            right: 0;
+            left: 70px;
+
+            @include breakpoint($medium) { left: 52%; }
+            @include breakpoint($large) { left: 72%; }
+        }
+    }
+
+    
+}

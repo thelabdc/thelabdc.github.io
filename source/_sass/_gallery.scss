@@ -1,0 +1,212 @@
+.gallery {
+  &__title {
+    background-color: $dark-blue;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  &__content {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+}
+
+.gallery-item {
+  @include browser(Firefox) {
+    min-height: 300px;
+    min-width: 25%;
+    @include breakpoint($medium) {
+      min-height: 350px;
+      min-width: 50%;
+    }
+    @include breakpoint($small-only) {
+      min-height: 20px;
+      height: 125px;
+      min-width: 100%;
+      background-size: 44%;
+      background-position: -15% 20%;
+      &__info {
+        max-width: 70%;
+        margin-left: 30%;
+      }
+      // @media (max-width: 320px) {
+      //   background-size: 0;
+      //   &__info {
+      //     max-width: 100%;
+      //     margin-left: 0;
+      //   }
+      // }
+    }
+  }
+  @include browser(Edge) {
+    min-height: 300px;
+    min-width: 25%;
+    @include breakpoint($medium) {
+      min-height: 350px;
+      min-width: 50%;
+    }
+    @include breakpoint($small-only) {
+      min-height: 20px;
+      height: 125px;
+      min-width: 100%;
+      background-size: 44%;
+      background-position: -15% 20%;
+      &__info {
+        max-width: 70%;
+        margin-left: 30%;
+      }
+      // @media (max-width: 320px) {
+      //   background-size: 0;
+      //   &__info {
+      //     max-width: 100%;
+      //     margin-left: 0;
+      //   }
+      // }
+    }
+  }
+  @include breakpoint($small-only) {
+    width: 100%;
+    padding-bottom: 25%;
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: left center;
+
+    &__info {
+      background-color: $washed-blue;
+      max-width: 76%;
+      margin-left: 24%;
+      height: 100%;
+    }
+
+    &:nth-of-type(even) .gallery-item__info { background-color: rgba($washed-blue, .95) !important; }
+  }
+  //get rid of images on very small screens
+  @media (max-width: 320px) {
+    background-size: 0;
+    height: 100px;
+    &__info {
+      max-width: 100%;
+      margin-left: 0;
+    }
+  }
+
+  @include breakpoint($medium) {
+    width: 50%;
+    padding-bottom: 50%;
+  }
+
+  width: 25%;
+  height: 0;
+  // height: auto;
+  padding-bottom: 25%;
+  background-size: cover;
+  position: relative;
+
+  &__info {
+    @include breakpoint($medium-up) { background-color: rgba($washed-blue, .6); }
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    color: white;
+    width: 100%;
+
+    h4, p { margin: 0; }
+    p { font-size: .9rem; }
+
+    h4 {
+      font-weight: 500;
+      letter-spacing: .6px;
+    }
+  }
+
+  &--join {
+    background-color: $washed-blue;
+    text-align: center;
+    color: white;
+
+    .material-icons {
+      margin-top: 60px;
+      font-size: 9rem;
+      opacity: .2;
+    }
+
+    h4 {
+      font-size: 2rem;
+      margin: 0;
+      text-transform: uppercase;
+      font-weight: 300;
+    }
+
+    @include breakpoint($small-only) {
+      text-align: center;
+      background-color: $red;
+
+      .material-icons { 
+        font-size: 4rem; 
+        margin: 15px;
+        margin-left: -15px;
+      }
+
+      h4 { 
+        vertical-align: top;
+        margin-top: 7%;
+        display: inline-block; 
+        font-size: 1.6rem;
+      }
+    }
+  }
+
+  // Treating each case of the Join Us square
+  @mixin alt-join-us {
+      width: 100% !important;
+      padding-bottom: 65px !important;
+    > a {
+      display: inline-block;
+      padding: 10px 40px;
+      margin-top: 10px;
+      background-color: $red;
+      box-shadow: 2px 2px 4px rgba(black, .2);
+     }
+     .material-icons { display: none; }
+     h4 { font-size: 1rem;}
+  }
+  // only item in the row
+  &--join:nth-child(4n+1) {
+    // divisible by 4
+    @include alt-join-us;
+  }
+
+  // 2nd item
+  &--join:nth-child(4n+2) { 
+    width: 75% !important;
+    padding-bottom: 25% !important;
+    @include breakpoint($medium) {
+      width: 50% !important;
+      padding-bottom: 50% !important;
+    }
+    @include breakpoint($small-only) {
+      @include alt-join-us;
+    }
+  }
+
+  // 3rd item
+  &--join:nth-child(4n+3) {
+    width: 50% !important;
+    padding-bottom: 25% !important;
+    @include breakpoint($medium) {
+      @include alt-join-us;
+    }
+    @include breakpoint($small-only) {
+      @include alt-join-us;
+    }
+
+  }
+
+}

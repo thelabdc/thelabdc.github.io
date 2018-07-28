@@ -1,0 +1,57 @@
+.top-bar {
+    width: 100%;
+    z-index: 200;
+    background-color: $dark-blue;
+    @extend .u-clearfix;
+    text-align: center;
+    height: 50px;
+    display: flex;
+
+    &__button {
+        @extend .u-material-icons;
+        color: white;
+        padding: 12px 15px;
+        cursor: pointer;
+
+        &:hover { background-color: rgba(white, .1); }
+    }
+
+    &__logo {
+        flex: 1;
+        padding: 8px;
+        margin: 0;
+        display: inline-block;
+        height: 100%;
+    }
+
+    &__logo img {
+        height: 100%;
+    }
+
+    &--transparent {
+      background-color: rgba(black, .2);
+      position: relative;
+      z-index: 100;
+    }
+    // menu overrides
+    .main-menu a {
+        display: block;
+        font-size: 18px;
+        padding: 26px;
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+
+    .main-menu--left a {
+        text-align: left;
+        padding-left: 5em;
+    }
+
+    .main-menu--left__close-menu {
+      text-align: left;
+      .button {
+        border: none;
+      }
+    }
+
+}

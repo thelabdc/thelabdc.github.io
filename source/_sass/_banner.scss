@@ -1,0 +1,51 @@
+.top-bar {
+  &--index {
+    &__sticky {
+          z-index: 1;
+      @extend .u-transition;
+      text-align: center;
+      @include breakpoint($medium) {
+        text-align: left;
+      }
+      @include breakpoint($small-only) {
+        text-align: left;
+      }
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0;
+      color: white;
+      font-size: 1rem;   
+      font-weight: 400;
+      background-color: rgba($washed-blue, .85);
+      i {
+        margin-left: 15px;
+      }
+      a {
+
+        border-bottom: 1px solid $light-blue;
+        text-decoration: none;
+        &:hover {
+          border-bottom: 2px solid $light-blue;
+        }
+      }
+      p {
+        padding: 0 auto;
+        @include breakpoint($medium) {
+          margin-left: 20px;
+          margin-right: 40px;
+        }
+        @include  breakpoint($small-only) {
+          margin-left: 10px;
+          margin-right: 20px;
+        }
+      }
+      .sticky__close {
+        position: absolute;
+        right: 15px;
+        top: 18px;
+      }
+    }
+  }
+}
+

@@ -1,0 +1,119 @@
+#get-involved-panel {
+  background-image: url("../images/background/index2.jpg");
+}
+
+#get-involved-content-panel {
+  background-image: url('../images/contact.jpg');
+  background-size: cover;
+  @include breakpoint($medium-up) {
+    background-size: 0;
+  }
+}
+#hero-panel {
+  background-image: url("../images/background/index1.jpg");
+
+  h2 {
+    color: $red;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    letter-spacing: 0;
+  }
+
+  p {
+    color: $blue;
+  }
+}
+
+#services-panel {
+  background-image: url("../images/background/index3.jpg");
+  @include breakpoint($medium-up) {
+    .panel__content {
+      padding-top: 140px;
+    }
+  }
+
+  @include breakpoint($small-only) {
+    h1 {
+      letter-spacing: 0;
+    }
+  }
+}
+
+#services-2-panel {
+  background-image: url("../images/background/index4.jpg");
+  @include breakpoint($medium-up) {
+    .panel__content {
+      padding-top: 120px;
+    }
+  }
+}
+
+#about-panel,
+#no-jobs-panel {
+  background-image: url("../images/background/jobs1.jpg") !important;
+}
+
+#team-panel {
+}
+
+#get-involved-form-panel {
+  background-image: url('../images/contact.jpg');
+  @include breakpoint($small-only) {
+    background-size: cover !important;
+    background-position: center bottom;
+    // height: 442px;
+  }
+  @include breakpoint($medium-up) {
+    .panel__title {
+      margin-top: 140px;
+    }
+  }
+
+  .panel__content {
+    text-align: left;
+  }
+}
+
+#jobs-panel {
+  .panel__content {
+    text-align: right;
+  }
+  .panel:nth-of-type(3n) {
+
+  }
+  .panel:nth-of-type(3n + 1) {
+
+  }
+  .panel--no-jobs {
+    background-image: url("../images/frank-mckenna-132739.jpg") !important;
+  }
+
+  .job-posting:nth-of-type(odd) {
+    .panel__content:nth-of-type(2) {
+      order: -1;
+    }
+  }
+}
+
+.watermark {
+  @include breakpoint($small-only) {
+    display: none;
+  }
+  width: 126px;
+  img {
+    max-height: 140px;
+    opacity: 0.3;
+  }
+  position: relative;
+  z-index: 1;
+  left: 125%;
+  @media (max-width: 900px) {
+    left: 135%;
+  }
+  @media (max-width: 760px) {
+    left: 140%;
+  }
+  @media (max-width: 760px) {
+    left: 145%;
+  }
+}

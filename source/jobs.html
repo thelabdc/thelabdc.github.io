@@ -1,0 +1,60 @@
+---
+layout: default
+title: The Lab @ DC - Work with Us
+header: true
+---
+
+<main role="main"> <!-- main content starts here -->
+
+<section id="no-jobs-panel" class="panel">
+  <div class="panel__content panel--title">
+    <h1 class="panel__title">
+      <span class="panel--red">Jobs</span>
+    </h1>
+  </div>
+  <div class="panel__content panel--blue">
+    <p>Our team is made of Data Scientists, Social Scientists, and Operations Analysts from a variety of disciplines, as well as Fellows based at agencies. At this time we have no open positions.</p>
+  </div>  
+</section>
+
+<section id="jobs-panel">
+  
+  <div class="">
+    {% if site.data.jobs.jobPostings %}
+      {% for i in site.data.jobs.jobPostings %}
+      <div class="job-posting panel" style="background-image: url({{i.jobImage.url}})">
+        {% assign odd = forloop.index | modulo: 2 %}
+        {% if odd == 0 %}
+        <div class="panel__content">
+          <h2 class="panel__title"><span class="panel--blue">{{i.jobTitle}}</span></h2>
+        </div>
+        {% endif %}
+        
+        <div class="panel__content panel--red">
+          <p>{{ i.shortDescription | markdownify }}</p>
+          <h3>Qualifications</h3>
+          <p>{{ i.qualifications | markdownify }}</p>
+          {%comment%}
+            <a class="button" href="{{ i.applicationUrl }}">Apply</a>
+          {%endcomment%}
+        </div>
+        
+        {% if odd == 1 %}
+        <div class="panel__content">
+          <h2 class="panel__title"><span class="panel--blue">{{i.jobTitle}}</span></h2>
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    {% else %}
+    <div class="job-posting panel panel--no-jobs">
+        <div class="panel__content">
+        </div>
+        <div class="panel__content panel--blue">
+          <p>Our team is made of Data Scientist, Social Scientists, and Operations Analysts from a variety of disciplines. At this time, we have no open positions.</p>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</section>
+</main>

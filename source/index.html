@@ -1,0 +1,108 @@
+---
+layout: default
+title: The Lab @ DC
+custom_js:
+  - fadein-scroll.js
+---
+
+<main role="main"> <!-- main content starts here -->
+  {% include announcement.html %}
+<section id="hero-panel" class="panel">
+  <div class="panel__content panel--white">
+    <h1 class="main-logo"><img src="./images/lab-at-dc-logo.svg" alt="Lab at DC"></h1>
+    <h2>Stronger evidence for a stronger DC</h2>
+    <p>The Lab @ DC is a team in <a href="https://mayor.dc.gov/">Mayor Muriel Bowser's administration</a>. We are based in the Office of the <a href="https://oca.dc.gov/">City Administrator’s</a> Office of Budget and Performance Management and work with a wide range of agencies. The Lab uses scientific insights and methods to test and improve policies and provide timely, relevant, and high-quality analysis to inform the District's most important decisions. DC residents deserve a government that asks questions, tests policies, and iteratively improves how it serves the community.</p>
+    <p style="text-align: center"><img src="./images/mmb.svg" alt="Mayor Muriel Bowser" style="width: 50%"></p>
+  </div>
+</section>
+<section id="get-involved-panel" class="panel panel--title">
+<a id="get-involved"></a>
+  <div class="panel__content">
+    <h1 class="panel__title"><span class="panel--blue">Get Involved</span></h1>
+  </div>
+  <div class="panel__content panel--red">
+    <div class="call-to-action">
+      <h3>Connect</h3>
+      <p>Whether you're a District resident, District employee, researcher, or simply excited about evidence-based governance, we want to know you!</p>
+      <a href="./get-involved.html" class="button">Sign Up</a>
+    </div>
+    <div class="call-to-action">
+      <h3>Events</h3>
+      <p>From The Lunch @ DC to special events, we're always looking to spread ideas. Join us for The Lunch @ DC, our twice monthly, guest speaker series with leaders in their field. It’s a time to learn, discuss, and socialize!</p>
+      <a href="https://www.eventbrite.com/o/the-lab-dc-office-of-the-city-administrator-12944306282" class="button">Upcoming</a>
+    </div>
+    <div class="call-to-action">
+      <h3>The Podcast @ DC</h3>
+      <p>Join Director Yokum as he brings researchers and practitioners together to discuss the most pressing questions for our city. Subscribe wherever you listen to podcasts.</p>
+      <a href="https://soundcloud.com/user-768286365" class="button">Listen</a>
+    </div>
+    <div class="call-to-action">
+      <h3>Follow</h3>
+      <p>Stay up-to-date on The Lab’s latest projects, <br>partnerships, and events.</p>
+      <a href="mailto:the.lab@dc.gov" class="custom-icon" target="_blank"><i class="material-icons">email</i></a>
+      <a href="https://twitter.com/TheLab_DC" class="custom-icon custom-icon--twitter" target="_blank"></a>
+      <a href="https://soundcloud.com/user-768286365" class="custom-icon custom-icon--soundcloud" target="_blank"></a>
+      <a href="https://www.linkedin.com/company-beta/15174132/" class="custom-icon custom-icon--linkedin" target="_blank"></a>
+      <a href="https://osf.io/institutions/thelabatdc/" class="custom-icon custom-icon--osf" target="_blank"></a>
+      <a href="https://www.youtube.com/channel/UChM2e0AS9HSmvweyhjs7rxA" class="custom-icon custom-icon--youtube" target="_blank"></a>
+      <a href="https://github.com/thelabdc" class="custom-icon custom-icon--github" target="_blank"></a>
+    </div>
+  </div>
+</section>
+
+<section id="services-panel" class="panel">
+<a id="who-we-are"></a>
+  <div class="panel__content panel--blue">
+    <p>The Lab is supported by a generous $3.2 million grant from the Laura and John Arnold Foundation. We work with a wide range of agencies, universities, industry, non-profits, and other community groups. Our team comes from diverse professional backgrounds – public sector, private sector, military, and academia – and areas of expertise – public policy, psychology, economics, political science, data science, public health and law to name a few. Our common bond is our passion for public service and evidence. Collectively, we have decades of applied experience tackling important policy questions at the local, state, and federal level, and plan to earn decades more experience in DC.</p>
+  </div>
+  <div class="panel__content panel--title">
+    <h1 class="panel__title">
+      <span class="panel--red">Translate research</span>
+      <br>
+      <span class="panel--red">into actionable policy</span>
+    </h1>
+  </div>
+</section>
+
+<section id="services-2-panel" class="panel">
+<a id="what-we-do"></a>
+  <div class="panel__content panel--title">
+    <h1 class="panel__title">
+      <span class="panel--blue">What We Do</span>
+    </h1>
+  </div>
+  <div class="panel__content panel--red">
+    <h3>The Lab @ DC collaborates with District agencies to:</h3> <br>
+    <p>Design policy and program interventions that are tailored to the District, based on theory and evidence from academic and industrial research, as well as analyses of available administrative data.</p>
+    <p>Conduct high-quality evaluations—including randomized evaluations and rapid, iterative experimentation—to learn how well things work and how to improve.</p>
+    <p>Foster a scientific community of practice, engaging and collaborating with experts and stakeholders across agencies, universities, and community groups.</p>
+    <h3>Our Projects</h3>
+    <p>We're working on a variety of projects, from body cameras to improve policing, to flexible rent programs to address homelessness, to a Form-a-Palooza to systematically improve all government forms. To learn more about these and other projects, visit our project pages on the Open Science Framework.</p>
+    <a href="https://osf.io/institutions/thelabatdc/" class="button">Projects</a>
+  </div>
+</section>
+<section class="gallery" id="team-panel">
+  <a id="team"></a>
+  <h1 class="gallery__title">Team</h1>
+  <div class="gallery__content">
+    {% assign team = site.data.people.people | sort: "lastName" %}
+    {% for i in team %}
+    {% unless i.isAlum %}
+    <a href="./{{i.firstName | slugify}}.html" class="gallery-item" style="background-image: url('{{i.profileImage.url}}')">
+      <div class="gallery-item__info">
+        <h4>{{i.firstName}} {{i.lastName}}</h4>
+        <p>{{i.title}} &nbsp;</p>
+      </div>
+    </a>
+    {% endunless %}
+    {% endfor %}
+    <div class="gallery-item gallery-item--join">
+      <a href="{{'/jobs.html' | relative_url }}">
+        <i class="material-icons">add_circle_outline</i>
+        <h4>Join Us</h4>
+      </a>
+    </div>
+  </div>
+</section>
+</main>
+

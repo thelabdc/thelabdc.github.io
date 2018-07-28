@@ -1,0 +1,260 @@
+// Form Reset
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+button,
+input[type="submit"],
+textarea {
+    border: 1px solid white;
+    background-color: transparent;
+    text-align: left;
+    border-radius: 0;
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    @extend .u-transition;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus {
+    @extend .u-transition;
+}
+
+textarea { 
+  resize: vertical; 
+  height: 130px;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    display: none;
+}
+
+input:disabled + label {
+    opacity: .4;
+}
+
+button,
+input[type='button'],
+input[type='reset'] {
+    @extend .button;
+    border: 1px solid white;
+}
+
+input[type="file"] { @extend .button; }
+
+button {
+    border-radius: 0;
+    width: auto;
+    background-color: transparent;
+}
+
+fieldset {
+  border: 0;
+  padding: 0;
+}
+
+legend {
+
+}
+
+
+form,
+.form {
+    padding: 10px 0;
+
+    ::-webkit-input-placeholder {
+        color: black;
+        text-align: left;
+    }
+    :-moz-placeholder {
+        color: black;
+        text-align: left;
+    } /* Firefox 18- */
+    ::-moz-placeholder {
+        color: black;
+        text-align: left;
+    } /* Firefox 19+ */
+    :-ms-input-placeholder {
+        color: black;
+        text-align: left;
+    }
+
+    &--negative {
+        input { color: white; }
+
+        input[type='text'], input[type='email'], input[type='submit'], textarea {
+            border: 1px solid white;
+            background-color: transparent;
+            @include placeholder {
+                color: white;
+            }
+            &:focus {
+                background-color: rgba(white, .1);
+                @extend .u-transition;
+            }
+        }
+
+        input[type="submit"]:hover {
+            background-color: rgba(white, .1);
+        }
+
+        ::-webkit-input-placeholder {
+            color: white;
+        }
+        :-moz-placeholder {
+            color: white;
+        } /* Firefox 18- */
+        ::-moz-placeholder {
+            color: white;
+        } /* Firefox 19+ */
+        :-ms-input-placeholder {
+            color: white;
+        }
+    }
+}
+
+fieldset { 
+  margin-bottom: 30px; 
+
+  > h4 { padding-top: 20px; }
+}
+
+
+.checkbox,
+.radio {
+    padding:7px 10px;
+    margin-bottom: 0;
+
+    input[type="checkbox"] + label:before,
+    input[type="radio"] + label:before {
+        vertical-align: -6px;
+        margin-right: 15px;
+    }
+
+    input[type="checkbox"] + label:before {
+        @extend .u-material-icons;
+        content: 'check_box_outline_blank';
+    }
+
+    input[type="checkbox"]:checked + label:before {
+        @extend .u-material-icons;
+        content: 'check_box';
+    }
+
+    input[type="radio"] + label:before {
+        @extend .u-material-icons;
+        content: 'radio_button_unchecked';
+    }
+
+    input[type="radio"]:checked + label:before {
+        @extend .u-material-icons;
+        content: 'radio_button_checked';
+    }
+}
+
+
+
+.select {
+    border: 1px solid white;
+    text-align: left;
+    padding: 0 15px;
+    margin-bottom: 15px;
+    position: relative;
+    @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+        /* IE10+ CSS styles go here */
+        position: inherit;
+        &::before {
+            display:none;
+        }
+        select option {
+            color: #000 !important;
+        }
+    }
+    @-moz-document url-prefix() {
+        position: inherit;
+        &::before {
+            display:none;
+        }
+    }
+    @extend .u-transition;
+
+    &::before {
+        display: none;
+        // @extend .u-material-icons;
+        // content: 'keyboard_arrow_down';
+        @include browser(Firefox) {
+            display: none;
+        }
+        position: absolute;
+        right: 0;
+        padding-top: 10px;
+        margin: 0 auto 0 auto;
+        width: 42px;
+        height: 32px;
+        color: black;
+        z-index: 1;
+        pointer-events: none;
+    }
+
+
+    select {
+
+        height: 42px;
+        border: 0;
+        border-radius: 0;
+        margin: 0;
+        background-color: transparent;
+        width: 100%;
+        -webkit-appearance: none;
+        background-image: none;
+        &:focus {
+        }
+        @include browser(Chrome) {
+            @include cross-browser-select; 
+        }
+        @include browser(Safari) {
+            @include cross-browser-select; 
+        }
+        @include browser(Firefox) {
+            @include cross-browser-select; 
+            &:-moz-focusring {
+                width: 100%;
+            }
+        }
+        @include browser(Windows) {
+            @include cross-browser-select; 
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            width: 100%;
+            &::-ms-expand {
+                display: none;
+            }
+        }
+        &::-ms-expand {
+            display: none;
+        }
+    }
+
+    &:hover {
+        background-color: rgba(white, .1);
+        @extend .u-transition;
+    }
+}
+
+.form--negative .select {
+  option { color: white; }
+  &::before { color: white; }
+  &:hover {  }
+}
+

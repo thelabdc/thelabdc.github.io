@@ -1,0 +1,27 @@
+---
+layout: default
+title: The Lab @ DC
+header: true
+---
+
+<main role="main"> <!-- main content starts here -->
+<section id="team-page-panel" class="panel panel--team">
+  <div class="panel__content" style="background-image: url('{{page.profileImage.url}}');">
+  </div>
+  <div class="panel__content panel--blue">
+    <h2>{{page.firstName}} {{page.lastName}} {% if page.degrees%} <em>{% for i in page.degrees %}{{i}}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</em></h2>
+    
+    <div>
+      {{page.bio | markdownify}}
+    </div>
+
+    <div class="panel__contacts">
+      {% unless page.isAlum %}{% if page.email %}<a href="mailto:{{page.email}}" class="custom-icon" target="_blank"><i class="material-icons">email</i></a>{% endif %}{% endunless %}
+      {% if page.linkedIn %}<a href="{{page.linkedIn}}" class="custom-icon custom-icon--linkedin" target="_blank"></a>{% endif %}
+    </div>
+  </div>
+</section>
+<section class="divider divider--red">
+  <a href="{{'/index.html#team' | relative_url }}" class="button">Back to Main page</a>
+</section>
+</main>

@@ -1,0 +1,492 @@
+---
+people:
+- sys:
+    id: 41CQK8BDXa8A4q4uyMSAii
+  firstName: Rachel
+  lastName: Breslin
+  degrees:
+  - MPM
+  title:
+  - Senior Operations Analyst
+  bio: "Rachel is a Senior Operations Analyst in The Lab @ DC. She works on matters
+    of lab operation as well as the planning, coordination, and execution of a suite
+    of projects. \n \nFor over a decade, Rachel served in a variety of operational
+    and strategic positions in the military. She organized and oversaw operations
+    and training involving thousands of U.S. military personnel and local nationals
+    in multiple multinational settings; managed the acquisition and maintenance of
+    millions of dollars in equipment; and commanded a unit of nearly 200 service-members.
+    \ As special assistant to the Chief of Staff of the Army (the most senior officer
+    in the U.S. Army), Rachel planned, prepared, and executed over 100 local, national,
+    and international strategic engagements; coordinated complex communications strategies;
+    and provided policy assessments on major issues (e.g. the integration of women
+    in combat and the retention of junior military officers).  \n\nRachel earned a
+    B.S. in International Politics from the U.S. Military Academy at West Point and
+    a Master of Policy Management from Georgetown University.  She is currently a
+    doctoral candidate in Public Policy and Public Administration at The George Washington
+    University.  Her research interests include public management, representative
+    bureaucracy, and policy implementation.  Having moved 11 times in the last 15
+    years Rachel is happy to have finally found home here in the D.C. area."
+  profileImage:
+    title: Breslin formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/4WDnIyiUNqiUIAK8EIWsc0/8323cb0c7c0b50df1552a451f09afa98/Breslin_formal.jpg"
+  email: Rachel.breslin@dc.gov
+  linkedIn: https://www.linkedin.com/in/rachelbreslin/
+  isAlum: false
+- sys:
+    id: 9u45ZvFE2s8WWGsAe2AiM
+  firstName: Donald
+  lastName: Braman
+  degrees:
+  - Ph.D.
+  - J.D.
+  title:
+  - Senior Social Scientist
+  bio: "Don is a Senior Social Scientist in The Lab @ DC. He is also an Associate
+    Professor of Law at The George Washington Law School and a member of the District
+    of Columbia Criminal Code Reform Commission.  Don conducts research on criminal
+    law, trust in government, and science communication.  He has conducted several
+    large-scale randomized control studies of public perceptions related to crime,
+    guns, policing, and trust in government.  He teaches classes on policing, public
+    safety policy, and criminal law.  Prior to joining The Lab, he co-lead the DC
+    Policy Labs Cross-Disciplinary Seminar, connecting researchers with public policy
+    evaluation in the District of Columbia.\n\nIn addition to journal articles, book
+    chapters, and commentaries, he is the author of *Doing Time on the Outside: Incarceration
+    and Family Life in Urban America*. \n\nDon holds a J.D. in law and Ph.D. in anthropology
+    from Yale University and a B.A. from Columbia University. He lives in Ward One
+    with his wife, Kitty, their two sons, Gabe and Liam, and approximately 300 ladybugs.
+    They enjoy trying to keep the plants in their garden alive."
+  profileImage:
+    title: Braman formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/3M30Ols7m02K8weKESaSgm/019e404792591631faac5503195878da/Braman_formal.jpg"
+  email: donald.braman@dc.gov
+  linkedIn: https://www.linkedin.com/in/donaldbraman/
+  isAlum: false
+- sys:
+    id: 3Y7ol6OyFayKYKUO8eKQk2
+  firstName: Peter
+  lastName: Casey
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Data Scientist
+  bio: "Peter is a Senior Data Scientist in The Lab @ DC. He is also a member of the
+    Office of the Chief Technology Officer (OCTO) team.  Peter helps shape the strategic
+    vision for data science at The Lab and develop the data science capacity of District
+    agencies. He creates predictive analyses to more effectively deliver government
+    services and to forecast the impact of proposed policy changes. As a part of both
+    OCTO’s Data Team and The Lab, Peter is instrumental in developing The Lab’s data
+    and analytics infrastructure and facilitating collaboration between the two teams.\n\nPeter
+    joined The Lab after serving as a Data Scientist with a national political campaign,
+    where he developed predictive models to guide decision-making and customize outreach
+    and engagement. He has experience collaborating with end-users from a wide range
+    of technical backgrounds to provide tools that are accessible and meet their needs.
+    Through his years of experience working with schools and social services, Peter
+    understands firsthand the challenges and opportunities facing local government
+    agencies. \n\nPeter earned a Ph.D. in Political Science from Washington University
+    in St. Louis and an MA in International Relations and a B.A. in Philosophy from
+    Creighton University. Peter lives with his wife in Ward 1. "
+  profileImage:
+    title: Casey formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/3bax9BKCbY4sGymGwq6y2/a66aa18c2b9931f3fdabe16ce8d50d8e/Casey_formal.jpg"
+  email: peter.casey@dc.gov
+  linkedIn: https://www.linkedin.com/in/peter-casey-05039679/
+  isAlum: false
+- sys:
+    id: 3etLo1fT9YYoSOE4yCI6I4
+  firstName: Andy
+  lastName: DeSoto
+  degrees:
+  - Ph.D.
+  title:
+  - Fellow
+  bio: |-
+    Andy is a Fellow in The Lab @ DC. Among other things, he connects researchers conducting basic science with applied behavioral scientists working in academia, industry, and government. He is also the Assistant Director for Policy at the Association for Psychological Science (APS), an international society dedicated to the advancement of scientific psychology and headquartered in Washington. In this role, he advocates for behavioral science and helps develop and advance APS’s government relations agenda.
+
+    Andy earned a Ph.D. in psychology from Washington University in St. Louis, MO, where he studied memory and decision making. His research has been published in *Science and Psychological Science* and featured in *The Washington Post, The New York Times*, and *Scientific American*. He is on the Editorial Board of Scientific Data and is a supporter of research openness and transparency.
+
+    Andy grew up in Fairfax, VA, received his B.S. from the College of William & Mary, and lives in Ward 2. His favorite time of year is when the St. Louis Cardinals are in town to play the Washington Nationals.
+  profileImage:
+    title: DeSoto formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/48bCuu2zzG4MYOmuMA8oW2/c0ecc381f5033cd38200e78f46770496/DeSoto_formal.jpg"
+  email: andy.desoto@dc.gov
+  linkedIn: https://www.linkedin.com/in/kadesoto/
+  isAlum: false
+- sys:
+    id: 1Mw0697eLGQqqwIG2CGqwQ
+  firstName: Karissa
+  lastName: Minnich
+  degrees:
+  - MPA
+  title:
+  - Operations Analyst
+  bio: "Karissa is an Operations Analyst in The Lab @ DC. She works on matters of
+    Lab operation as well as the planning, coordination, and execution of a suite
+    of projects including the revision of government forms. Karissa’s portfolio includes
+    budget and fundraising, partnership development, operational efficiency, and event
+    programming, as well as providing a unique perspective and guidance on the landscape
+    of D.C. stakeholder groups.\n \nKarissa joined OCA from DC Greens, a local nonprofit
+    that supports food education, food access, and food policy where she served as
+    the Director of Operations. In this role, Karissa oversaw many functions, including
+    the fundraising and budgeting process, onboarding and training of staff, the creation
+    of the office Operations Manual and Employee Handbook, and the organization of
+    meetings for the Board of Directors and stakeholders. She also produced three
+    annual reports, managed the company website, and maintained a Salesforce database
+    of partnership and project information.\n \nKarissa earned a B.A. in sociology
+    and political science from Muhlenberg College and a Masters of Public Administration
+    from The George Washington University. In her free time, she enjoys knitting,
+    yoga, and exploring her Ward 1 neighborhood with her husband, Nick."
+  profileImage:
+    title: Minnich formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/IRurI8Co6sAAmkAi4uIwU/3c3818e4ebf84b3418e20fbff78533ae/Minnich_formal.jpg"
+  email: karissa.minnich@dc.gov
+  linkedIn: https://www.linkedin.com/in/karissamccarthy/
+  isAlum: false
+- sys:
+    id: Wl8ZOG03MQkow6ucGqksk
+  firstName: Eric
+  lastName: Foster-Moore
+  degrees:
+  - MS
+  title:
+  - Data Scientist
+  bio: "Eric is a Data Scientist in The Lab @ DC. He is also a member of the Office
+    of the Deputy Mayor for Public Safety and Justice team. He works closely with
+    the city’s public safety and criminal justice agencies to bring an agile, scientific
+    approach to policy-setting and service delivery. Eric comes to local government
+    after working on a national political campaign’s data team in Detroit. \n\nBefore
+    that, he worked at a D.C. startup designing mobile data collection tools for public
+    health agencies and using those tools to survey displaced populations in Iraq.
+    He also worked at the World Bank, helping governments in sub-Saharan Africa modernize
+    weather forecasting and water resources management programs and building innovation
+    ecosystems in Africa’s fastest growing cities. \n\nEric received a Masters in
+    Geography from Oregon State University, where he studied the effects of large
+    dams on migration and agricultural productivity in China. He has a B.A. in Economics
+    and Chinese from Colby College. A Ward 1 resident, Eric has lived in D.C. for
+    five years and spends his free time rock climbing and whitewater kayaking.\n"
+  profileImage:
+    title: FosterMoore formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/6Pm8V8Axy00MQ08KcmmOgw/1aaa215e2f48a70e30cb9cfec9e5aefc/FosterMoore_formal.jpg"
+  email: eric.fostermoore@dc.gov
+  linkedIn: https://www.linkedin.com/in/efostermoore/
+  isAlum: false
+- sys:
+    id: A4CAOAimrI2Gws24EgYUw
+  firstName: Katie
+  lastName: Gan
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Social Scientist
+  bio: "Katie is a Senior Social Scientist in The Lab @ DC. She partners with agencies
+    to develop evidence-based policies and programs for the District. She helps agencies
+    learn what works by applying evidence to their work and by developing and implementing
+    projects to generate rigorous evidence they can learn from. \n\nKatie has over
+    decade of applied, academic, and instructional experience related to designing
+    and executing a wide range of experimental, quasi-experimental, and qualitative
+    program evaluations. In her previous work at Abt Associates, Katie led randomized
+    control trials and implementation evaluations of federal policies and programs
+    in the areas of job training, education, and youth development. She also shared
+    her expertise in evaluation, providing guidance and tools for designing, implementing,
+    and reporting on rigorous evaluations to researchers for over 150 innovative or
+    evidence-based interventions. At the forefront of all of Katie’s work- then and
+    now- is collaborating with government, nonprofit, for-profit, and academic partners
+    to design and implement evaluations, and then transforming research insights into
+    actionable policy and program interventions. \n\nKatie earned a B.A. in economics
+    and sociology from Trinity University and a Ph.D. in social policy and sociology
+    from Harvard University. A Ward 2 resident, Katie can often be found with her
+    husband and dog searching for their next good meal with friends."
+  profileImage:
+    title: Gan formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/5DftuMACqcsUsgC4iqq6Yc/56b93f7aa66e42aa42d368efbfb44cac/Gan_formal.jpg"
+  email: katherine.gan@dc.gov
+  linkedIn: https://www.linkedin.com/in/katherinengan/
+  isAlum: true
+- sys:
+    id: 5tu2p3lnmEWs6iAUIu0AoS
+  firstName: Chrysanthi
+  lastName: Hatzimasoura
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Social Scientist
+  bio: "Chrysanthi is a Senior Social Scientist in The Lab @ DC. She is also a Research
+    Professor at the GW Institute of Public Policy at The George Washington University.
+    She is currently leading evaluations related to youth and returning citizen programs.
+    \n\nPrior to joining The Lab, she co-directed an interdisciplinary university
+    seminar that brought together top researchers who are engaged in the experimental
+    design of policy both in the US and internationally. She is the co-founder of
+    the Washington Area Development Economics Symposium (WADES). \n\nBefore joining
+    The Lab @ DC, she was a Senior Research Associate at the Institute for International
+    Economic Policy. Her areas of expertise lie in measurement theory with applications
+    to randomized evaluations. She has developed measurement methodologies for ordinal
+    information in health economics. Chrysanthi has worked at the World Bank, where
+    she led the evaluation of a randomized controlled trial in Nicaragua on women’s
+    economic empowerment. Her previous experience includes work on DC’s vulnerable
+    youth’s aspirations and economic decision making, for which she was awarded the
+    Philip M. Dearborn Fellowship. As a professor and graduate student she has taught
+    courses in econometrics, development economics, and microeconomics.\n\nShe earned
+    a Ph.D. in economics from The George Washington University and a B.S. in statistics
+    and economics from the University of London, Birkbeck College. Chrysanthi also
+    trained as a concert pianist and holds a B.Mus. in piano performance, for which
+    she was unanimously awarded a distinction. She lives in Ward 2 with her lifelong
+    partner Philip and their 3-year old Athona who thankfully is a great traveler
+    and joins them in Greece every summer. "
+  profileImage:
+    title: Hatzimasoura formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/Lz9U9hlMC2EO6kqYmqSyo/bd0ff43735c064e4b7d5fe2b9d8effaa/Hatzimasoura_formal.jpg"
+  email: chrysanthi.hatzimasoura@dc.gov
+  linkedIn: https://www.linkedin.com/in/chrysanthi-hatzimasoura-37997868/
+  isAlum: false
+- sys:
+    id: 6Augo08mGICo24MSiSM8kM
+  firstName: Ryan
+  lastName: Moore
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Social Scientist
+  bio: "Ryan T. Moore is a Senior Social Scientist in The Lab @ DC. He is also Assistant
+    Professor of Government at American University.  \n\nRyan’s research interests
+    center around statistical political methodology, with applications in American
+    social policy.  Substantively, he is interested in the intersection of direct
+    democracy, federalism, and the politics of old age pensions and health care. He
+    develops and implements methods for political experiments, ecological data, missing
+    data, causal inference, and geolocated data.  Among his publications are twelve
+    peer-reviewed journal articles, a book chapter, and four software packages and
+    applications.  His work has appeared in *Political Analysis, The Lancet*, and
+    *the Journal of Policy Analysis and Management*, among other outlets.\n\nRyan
+    is an affiliate of the research network Evidence in Governance and Politics (EGAP)
+    and American University's Center for Congressional and Presidential Studies (CCPS).
+    \ At Harvard, he was a doctoral fellow of the Inequality and Social Policy program
+    and a graduate associate of the Institute for Quantitative Social Science (IQSS).
+    Between 2010 and 2012 he was Scholar in Health Policy Research at the University
+    of California, Berkeley.\n\nAs a professor and graduate student, Ryan has taught
+    graduate-level causal inference, mathematical modeling, introductory statistical
+    methods, linear modeling, hierarchical Bayesian modeling, statistical techniques
+    for litigation research, and American public and social policy.  He has also trained
+    post-bachelor fellows in health policy in a variety of advanced statistical topics.
+    \ He has advised seven honors undergraduate theses in American politics and policymaking
+    and served on four Ph.D. dissertation committees.\n\nRyan received his Ph.D. in
+    government and social policy from Harvard University.  While pursuing his Ph.D.,
+    he earned an A.M. in statistics.  His B.A. is from Yale University in political
+    science and mathematics.  Ryan lives in Ward 3 with his family, where he enjoys
+    cycling the length of the Ward border on the Capital Crescent Trail. "
+  profileImage:
+    title: Moore formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/4Jtmx1QSOkQ62OSO6SOqOW/5aab1c673e63ce874b3deb85260d2325/Moore_formal.jpg"
+  email: ryan.moore2@dc.gov
+  linkedIn: https://www.linkedin.com/in/ryan-moore-400ba54/
+  isAlum: false
+- sys:
+    id: 1EObFZYvDiwakuYiesWYa0
+  firstName: Sam
+  lastName: Quinney
+  degrees:
+  - MPP
+  bio: "Sam is part of the management and operations team in The Lab @ DC, shepherding
+    core functions such as data sharing, budgeting, personnel, and integration of
+    The Lab into the District policy making process. Sam also fulfills the responsibilities
+    of The Lab Director as needed. Sam also leads The Lab’s education portfolio in
+    addition to projects in the human services and government operations.\n \nPrior
+    to joining The Lab @ DC, Sam worked at the US Department of Education’s (ED) to
+    embed behavioral insights and rigorous testing into the Department’s outreach
+    to struggling student borrowers. In K-12 education, Sam informed the development
+    and analysis of numerous ED initiatives, including School Improvement Grants and
+    new regulations for teacher preparation programs.\n \nSam previously worked as
+    a Fellow under Chicago Mayor Rahm Emanuel, where he helped design a more cost-effective
+    use of commercial loading zones and a 311 data tool currently used to predict
+    and prevent outbreaks of rodent activity across the city. Prior to living in Chicago,
+    Sam was a 7th Grade U.S. History teacher in Philadelphia and a Coordinator for
+    a college readiness program serving low-income youth from neighborhood high schools.\n
+    \nSam was a 2013 Presidential Management Fellow and a 2007 Teach For America Corps
+    Member. Sam holds a B.A. in political science and writing from Villanova University,
+    a secondary teaching certification from University of Pennsylvania, and a Masters
+    of public policy from the University of Chicago. On the weekends you’ll find Sam
+    with his wife, Kelly, and dog, Nova, enjoying H Street NE, or exploring DC’s growing
+    craft beer and distilling industry."
+  profileImage:
+    title: Quinney formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/3TpYOT8PNmyOayAoIos8M0/4f2cd453bdb20660146b396652b35eb0/Quinney_formal.jpg"
+  email: sam.quinney@dc.gov
+  linkedIn: https://www.linkedin.com/in/sam-quinney-8715553b/
+  isAlum: false
+- sys:
+    id: 4yQLcOX0hWYGycWcQGGoYc
+  firstName: Anita
+  lastName: Ravishankar
+  title:
+  - Fellow
+  bio: "Anita is a Fellow in The Lab @ DC. She also serves as a member of the Metropolitan
+    Police Department (MPD) team. In this capacity, she manages several research initiatives
+    for MPD, including The Lab’s first project: a body-worn camera (BWC) randomized
+    controlled trial (RCT), one of the largest of its kind in the country. Anita has
+    led data collection efforts and supported the design and implementation of the
+    BWC RCT, and is working to further develop MPD’s research and innovation efforts.\n\nAnita
+    comes to The Lab @ DC with a background in policy-relevant research and program
+    evaluation. While at CNA’s Institute for Public Research, she served as a primary
+    evaluator for the Federal Emergency Management Agency’s National Exercise Program,
+    a contract team lead for multiple strategic requirements planning efforts for
+    the Department of Homeland Security, and a researcher on regional catastrophic
+    planning efforts. Over the course of these assignments, Anita worked on efforts
+    requiring coordination across multiple federal departments and agencies and at
+    multiple levels of government.   \n\nAnita is currently a doctoral candidate in
+    political science and public policy at the University of Michigan. Her research
+    addresses political trust and state legitimacy, public safety and policing, and
+    civilian attitudinal and behavioral responses to state violence. Her work takes
+    a multi-method approach, combining cross-national analyses with in-depth case
+    studies, surveys, and experiments. She also holds a B.S. in Foreign Service in
+    Science, Technology, and International Security from Georgetown University’s School
+    of Foreign Service.\n\nBorn and raised in the DC area, Anita now lives in Ward
+    6 with her husband, Clarence. In her free time, she enjoys hiking, traveling,
+    and testing out new recipes on willing family and friends. "
+  profileImage:
+    title: Ravishankar formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/47gyS62TXikUS2082Gkyc8/d6d343ce1aab29a28df9cd69aa542f08/Ravishankar_formal.jpg"
+  email: anita.ravishankar@dc.gov
+  linkedIn: https://www.linkedin.com/in/anitaravishankar/
+  isAlum: false
+- sys:
+    id: CwprNJHxFQ0ckAcU208qM
+  firstName: Kevin
+  lastName: Wilson
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Data Scientist
+  bio: |-
+    Kevin is a Senior Data Scientist in The Lab @ DC. He plays a leading role in envisioning and implementing The Lab’s data analytic standards and protocols, executing (and wherever possible automating) important data analytic tasks, and guiding the use of machine learning, as well as developing entirely novel uses of data that maximize how much we can learn from the District’s vast amount of administrative data.
+
+    Kevin brings years of experience in a wide array of data analytic topics, ranging from system and security architecture to advanced statistical techniques to the development of novel predictive models and commercial tools. As the Principal Data Scientist at Knewton -an education technology company- Kevin developed and implemented methods for drawing real time and retrospective insights from massive, complex datasets, and was especially involved in bridging the divide between classic techniques like psychometrics with the modern techniques of machine learning. Kevin also has experience explaining such complex topics to diverse audiences, ranging from small academic seminars to high school students. His work has appeared in such diverse venues as the *Journal of Combinatorial Theory and Educational Data Mining*, and some of his popular projects have been written up in the *Washington Post* and *Daily Kos*.
+
+    Kevin earned a B.S. in mathematics from University of Michigan and a Ph.D. in mathematics from Princeton University. He enjoys pondering the potential regression discontinuity experiments he could do near his home at the border of Wards 1 and 2.
+  profileImage:
+    title: Wilson formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/zAWHvBvB3UCayk4Y6MgQe/64219ae398ded93892ffe50913f55bea/Wilson_formal.jpg"
+  email: kevin.wilson@dc.gov
+  linkedIn: https://www.linkedin.com/in/kevinhayeswilson/
+  isAlum: false
+- sys:
+    id: 14ZNE1Y5lmuoO00U6YiQ2W
+  firstName: David
+  lastName: Yokum
+  degrees:
+  - J.D.
+  - Ph.D.
+  title:
+  - Director
+  bio: "David Yokum is Director of The Lab @ DC. Under his leadership, The Lab conducts
+    applied research projects to generate timely, relevant, and high-quality evidence
+    that informs the District's most important decisions. He hosts The Podcast @ DC,
+    conversations that attempt to bridge the gap between research and practice in
+    government. \n\nDavid was previously a founding member of the White House’s Social
+    & Behavioral Sciences Team and Director of its scientific delivery unit housed
+    at the U.S. General Services Administration. President Obama further institutionalized
+    the work in Executive Order 13707, “Using Behavioral Science Insights to Better
+    Serve the American People.”\n\nDavid’s expertise draws on the cognitive foundations
+    of judgment and decision making and, in particular, how that knowledge and associated
+    methodologies can be extended into applied settings. His public speaking, teaching,
+    and advocacy won the Excellence in Teaching Award from the University of Arizona
+    (UA) College of Science. His work has been published in journals such as *Health
+    Affairs, Journal of Empirical Legal Studies, American Journal of Law & Medicine*,
+    and *Law & Contemporary Problems* and received media coverage from outlets such
+    as *NPR, The New York Times, The New Yorker, The Wall Street Journal, Slate, USA
+    Today, Politico, Scientific American, Forbes, Huffington Post*, and elsewhere.
+    \n\nDavid earned a Ph.D. in psychology (with dual specialization in cognition
+    & neural systems and psychology, policy, & law) at UA, a law degree from the UA
+    James E. Rogers College of Law, a Masters degree in bioethics & medical humanities
+    from the University of South Florida, and a B.S. in biology from Birmingham-Southern
+    College. He lives in Ward 6 with his wife Sara, son Ethan, dog Tieto, cats Philo
+    and Mouse, and bunny Mr. Bubbles."
+  profileImage:
+    title: Yokum formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/1gDekhodBSuQKkqUYAkAUS/ee29bd414f04cd8e101772b00a9ce169/Yokum_formal.jpg"
+  email: david.yokum@dc.gov
+  linkedIn: https://www.linkedin.com/in/davidyokum/
+  isAlum: false
+- sys:
+    id: 5EL6y66jPaUGUGOKamkGua
+  firstName: Pierre
+  lastName: Vigilance
+  degrees:
+  - M.D.
+  - MPH
+  title:
+  - Senior Operations Analyst
+  bio: "Pierre is a Senior Operations Analyst inThe Lab @ DC. He is also the Associate
+    Dean for Practice and an Associate Professor at The Milken Institute School of
+    Public Health at The George Washington University.\n\nAs a former Director of
+    DC's Department of Health (DOH), Pierre is no stranger to District government.
+    \ During his time in that position, he led the Department’s promotion of health
+    and wellness through innovative physical activity and nutrition projects such
+    as community-level Ward Walks, the Healthy Corner Store Initiative, and Live Well
+    DC. He also supported the development of an ongoing HIV testing, education, and
+    prevention strategy called the Rubber Revolution. Pierre's focus on performance
+    management guided the Department in developing and implementing performance metrics
+    that address the District’s unique health needs, resulting in increased productivity
+    and accountability and improved health outcomes. He also increased the Department’s
+    capacity in data collection and analysis, which led to the publication of the
+    District’s first HIV/AIDS epidemiology reports, the Preventable Causes of Death
+    Report (the first city-level report ever produced), the Obesity Report, and the
+    Obesity Action Plan.\n \nPrior to joining the DC DOH, Pierre served as Director
+    of the Baltimore County Department of Health and as the Assistant Commissioner
+    for Health Promotion and Disease Prevention in Baltimore City.  As the city’s
+    Assistant Commissioner, Dr. Vigilance directed an aggressive HIV outreach and
+    education campaign called Live, Love, Be Safe, which resulted in increased awareness
+    of HIV/AIDS in Baltimore City.\n \nPierre's education includes a B.S. in biology
+    from The George Washington University, an M.D. from Johns Hopkins University School
+    of Medicine, and a Masters in public health from the Bloomberg School of Public
+    Health at Johns Hopkins University. Pierre is an is an avid soccer fan, promoter
+    of physical activity, and a lover of the arts, music and travel."
+  profileImage:
+    title: Vigilance-Pierre
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/28v4V78gYMgKIq4CqeA0gu/d4ec30fb183013034f6db533e8cb7555/Pierre_formal.jpg"
+  email: pierre.vigilance@dc.gov
+  linkedIn: https://www.linkedin.com/in/pierrevigilance/
+  isAlum: false
+- sys:
+    id: 2qBAEp4yv60sUikGGeUSOo
+  firstName: Paul
+  lastName: Testa
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Social Scientist
+  bio: "Paul Testa is a senior social scientist in the Lab @ D.C. He is also an assistant
+    professor of political science at Brown University where he teaches courses on
+    quantitative research methods at the graduate and undergraduate level.\n\nPaul's
+    research interests center around the applications of political methodology to
+    the studies of race and the criminal justice system. Broadly, his work explores
+    how interactions with the criminal justice system shape political behavior and
+    how these experiences in turn shape the way citizens think about issues of race
+    and justice in the U.S. His work has appeared in the American Journal of Political
+    Science, the Journal of Politics, and Political Research Quarterly. He chaired
+    the statistics subcommittee of a task force convened by the City of Urbana in
+    Illinois to examine racial disparities in traffic stops and has previously consulted
+    with Office of Evaluation Sciences in the U.S. General Services Administration
+    on the evaluation of a number of randomized controlled trials within the federal
+    government. \n\nPaul earned a B.A. in government and economics from Cornell University
+    and a Ph.D. in Political Science from the University of Illinois at Urbana-Champaign.
+    Born in D.C., Paul last lived in Ward 6 before heading off to graduate school.
+    He's run two marathons, very slowly, through D.C. and recommends declining the
+    beer offered to you at mile 22."
+  profileImage:
+    title: Testa
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/EphDbsHgsKiGy8wO2ousu/9dbea2f119dfc34b1eb60d7126361730/Testa_formal.jpg"
+  email: paul.testa@dc.gov
+  linkedIn: https://www.linkedin.com/in/paul-testa-5b92a810/
+  isAlum: false

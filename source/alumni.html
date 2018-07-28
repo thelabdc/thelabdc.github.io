@@ -1,0 +1,28 @@
+---
+layout: default
+title: The Lab @ DC - Alumni
+header: true
+---
+
+<main role="main"> <!-- main content starts here -->
+
+<section id="no-jobs-panel" class="panel">
+  <div class="panel__content panel--title">
+    <h1 class="panel__title">
+      <span class="panel--red">Alumni</span>
+    </h1>
+  </div>
+  <div class="panel__content panel--blue">
+    <p>The Lab @ DC has had incredible people work on projects throughout the District government. Some have come as full-time staff, others as research assistants and professors spending part of their time working on projects with immediate impact to the District's residents. We thank them for their service.</p>
+    <ul>
+      {% assign team = site.data.people.people | sort: "lastName" %}
+      {% for i in team %}
+      {% if i.isAlum %}
+      <li>
+        <a href="./{{i.firstName | slugify}}.html">{{i.firstName}} {{i.lastName}}, {{i.title}}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,56 @@
+version: 2
+jobs:
+  build:
+    branches:
+      only:
+        - source
+
+    docker:
+      - image: circleci/ruby:2.4.1-node-browsers
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "Gemfile.lock" }}-{{ checksum "package-lock.json" }}
+            # Fallback to most recent if nothing pops up
+            - v1-dependencies--
+
+      - run:
+          name: setup git name
+          command: git config --global user.name "Kevin Wilson (Bot)"
+
+      - run:
+          name: setup git email
+          command: git config --global user.email "kevin.wilson@dc.gov"
+
+      - run:
+          name: install ruby dependencies
+          command: |
+            bundle install --jobs=4 --retry=3 --path=vendor/bundle
+
+      - run:
+          name: install node dependencies
+          command: npm install
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+            - ./node_modules
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}-{{ checksum "package-lock.json" }}
+
+      # deploy
+      - run:
+          name: deploy
+          command: npm run gulp deploy
+
+      # collect reports
+      - store_test_results:
+          path: /tmp/test-results
+      - store_artifacts:
+          path: /tmp/test-results
+          destination: test-results
