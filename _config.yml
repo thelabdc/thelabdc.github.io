@@ -34,14 +34,14 @@ exclude:
 timezone: America/New_York
 
 # Folder Structure
-source: ./source
+source: ./src
 
 contentful:
   spaces:
     - people: # Jekyll _data folder identifier - Required
         space: ENV_CONTENTFUL_SPACE_ID
         access_token: ENV_CONTENTFUL_ACCESS_TOKEN
-        base_path: ./source         # Optional - Defaults to Current directory
+        base_path: ./src         # Optional - Defaults to Current directory
         destination: / # Optional - Defaults to _data/contentful/spaces
         all_entries: true
         cda_query:
@@ -50,13 +50,13 @@ contentful:
     - jobs: # Jekyll _data folder identifier - Required
         space: ENV_CONTENTFUL_SPACE_ID
         access_token: ENV_CONTENTFUL_ACCESS_TOKEN
-        base_path: ./source         # Optional - Defaults to Current directory
+        base_path: ./src # Optional - Defaults to Current directory
         destination: / # Optional - Defaults to _data/contentful/spaces
         all_entries: true
         cda_query:
           content_type: jobPostings
 
-# sass_dir: source/css
+# sass_dir: src/css
 
 page_gen:
   - data: 'people.people'
