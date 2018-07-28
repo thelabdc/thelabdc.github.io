@@ -1,6 +1,6 @@
 # The Lab @ DC's Website
 
-This is the source code for our website, which you can find at [http://thelab.dc.gov](thelab.dc.gov).
+This is the source code for our website, which you can find at [thelab.dc.gov](http://thelab.dc.gov).
 
 ## Build
 
