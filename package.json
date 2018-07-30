@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.13.0",
     "child_process": "^1.0.2",
     "gulp": "^3.9.1",
     "gulp-gh-pages": "git+https://github.com/tekd/gulp-gh-pages",

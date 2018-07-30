@@ -1,22 +1,13 @@
 var gulp            = require('gulp'),
     shell           = require('gulp-shell'),
-    ghPages         = require('gulp-gh-pages'), imagemin        = require('gulp-imagemin'),
-    browserSync     = require('browser-sync'),
+    ghPages         = require('gulp-gh-pages'),
+    imagemin        = require('gulp-imagemin'),
     cp              = require('child_process'),
     runSequence     = require('run-sequence').use(gulp);
 
 var messages = {
     jekyllBuild: 'building...'
 };
-
-// Browser Sync
-gulp.task('browserSync', function () {
-  browserSync({
-    server: {
-      baseDir: '_site'
-    }
-  });
-});
 
 gulp.task('image', function () {
   return gulp.src('src/images/**/*')
@@ -50,22 +41,6 @@ gulp.task('deploy', function (callback) {
     'circleci',
     'push-gh-source',
     'push-gh-pages',
-    callback
-  );
-});
-
-
-gulp.task('jekyll-rebuild', ['jekyll'], function () {
-    browserSync.reload();
-});
-
-gulp.task('watch', function () {
-  gulp.watch('src/**/*.*', ['jekyll-rebuild']);
-});
-
-gulp.task('default', function (callback) {
-  runSequence(
-    ['watch', 'browserSync'],
     callback
   );
 });
