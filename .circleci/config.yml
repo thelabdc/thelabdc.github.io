@@ -6,7 +6,7 @@ jobs:
         - source
 
     docker:
-      - image: circleci/ruby:2.4.1-node-browsers
+      - image: circleci/ruby:2.4.4-node-browsers
 
     working_directory: ~/repo
 
