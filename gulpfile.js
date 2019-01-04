@@ -8,21 +8,21 @@ const image = () => {
       .pipe(gulp.dest('_site/images'))
 }
 
-const contentful = () => cp.spawn('bundle', ['exec', 'jekyll', 'contentful'])
+const contentful = () => cp.spawn('bundle', ['exec', 'jekyll', 'contentful'], { stdio: 'inherit' })
 
 const circleci = () => {
   return gulp.src('.circleci/*')
     .pipe(gulp.dest('_site/.circleci'))
 }
 
-const pushGHSource = () => cp.spawn('git', ['push', 'origin', 'source'])
+const pushGHSource = () => cp.spawn('git', ['push', 'origin', 'source'], { stdio: 'inherit' })
 
 const pushGHPages = () => {
   return gulp.src('_site/**/*')
              .pipe(ghPages({ force: true, branch: 'master' }))
 }
 
-const build = () => cp.spawn('bundle', ['exec', 'jekyll', 'build'])
+const build = () => cp.spawn('bundle', ['exec', 'jekyll', 'build'], { stdio: 'inherit' })
 
 const deploy = gulp.series(contentful, build, image, circleci, pushGHSource, pushGHPages)
 
