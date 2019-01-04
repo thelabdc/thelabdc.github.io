@@ -24,7 +24,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 
 exclude:
@@ -56,10 +56,8 @@ contentful:
         cda_query:
           content_type: jobPostings
 
-# sass_dir: src/css
-
 page_gen:
   - data: 'people.people'
     template: 'team'
-    name: 'firstName'
+    name: 'first_name'
     dir: '/'
