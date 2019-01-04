@@ -1,5 +1,5 @@
 {
-  "name": "gulp3",
+  "name": "thelabdc-website",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "child_process": "^1.0.2",
-    "gulp": "^3.9.1",
-    "gulp-gh-pages": "git+https://github.com/tekd/gulp-gh-pages",
-    "gulp-imagemin": "^3.0.1",
-    "gulp-shell": "^0.5.2",
-    "gulp-util": "^3.0.7",
-    "run-sequence": "^1.2.2"
-  },
-  "dependencies": {
-    "gift": "^0.10.1"
+    "gulp": "^4.0.0",
+    "gulp-gh-pages": "git+https://github.com/shinnn/gulp-gh-pages#v0.6.0-6",
+    "gulp-imagemin": "^5.0.3"
   }
 }
