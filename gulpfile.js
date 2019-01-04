@@ -1,6 +1,7 @@
-const gulp = require('gulp')
-const imagemin = require('gulp-imagemin')
 const cp = require('child_process')
+const gulp = require('gulp')
+const ghPages = require('gulp-gh-pages')
+const imagemin = require('gulp-imagemin')
 
 const image = () => {
   return gulp.src('src/images/**/*')
