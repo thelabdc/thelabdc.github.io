@@ -24,6 +24,7 @@ const pushGHPages = () => {
 }
 
 const build = () => cp.spawn('bundle', ['exec', 'jekyll', 'build'], { stdio: 'inherit' })
+const serve = () => cp.spawn('bundle', ['exec', 'jekyll', 'serve'], { stdio: 'inherit' })
 
 const deploy = gulp.series(contentful, build, image, circleci, pushGHSource, pushGHPages)
 
@@ -34,5 +35,6 @@ module.exports = {
   pushGHSource,
   pushGHPages,
   build,
-  deploy
+  deploy,
+  serve
 }

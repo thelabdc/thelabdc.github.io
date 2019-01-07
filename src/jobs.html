@@ -22,26 +22,26 @@ header: true
   <div class="">
     {% if site.data.jobs.jobPostings %}
       {% for i in site.data.jobs.jobPostings %}
-      <div class="job-posting panel" style="background-image: url({{i.jobImage.url}})">
+      <div class="job-posting panel" style="background-image: url({{i.job_image.url}})">
         {% assign odd = forloop.index | modulo: 2 %}
         {% if odd == 0 %}
         <div class="panel__content">
-          <h2 class="panel__title"><span class="panel--blue">{{i.jobTitle}}</span></h2>
+          <h2 class="panel__title"><span class="panel--blue">{{i.job_title}}</span></h2>
         </div>
         {% endif %}
         
         <div class="panel__content panel--red">
-          <p>{{ i.shortDescription | markdownify }}</p>
+          <p>{{ i.short_description | markdownify }}</p>
           <h3>Qualifications</h3>
           <p>{{ i.qualifications | markdownify }}</p>
           {%comment%}
-            <a class="button" href="{{ i.applicationUrl }}">Apply</a>
+            <a class="button" href="{{ i.application_url }}">Apply</a>
           {%endcomment%}
         </div>
         
         {% if odd == 1 %}
         <div class="panel__content">
-          <h2 class="panel__title"><span class="panel--blue">{{i.jobTitle}}</span></h2>
+          <h2 class="panel__title"><span class="panel--blue">{{i.job_title}}</span></h2>
         </div>
         {% endif %}
       </div>

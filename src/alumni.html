@@ -15,11 +15,11 @@ header: true
   <div class="panel__content panel--blue">
     <p>The Lab @ DC has had incredible people work on projects throughout the District government. Some have come as full-time staff, others as research assistants and professors spending part of their time working on projects with immediate impact to the District's residents. We thank them for their service.</p>
     <ul>
-      {% assign team = site.data.people.people | sort: "lastName" %}
+      {% assign team = site.data.people.people | sort: "last_name" %}
       {% for i in team %}
-      {% if i.isAlum %}
+      {% if i.is_alum %}
       <li>
-        <a href="./{{i.firstName | slugify}}.html">{{i.firstName}} {{i.lastName}}, {{i.title}}</a>
+        <a href="./{{i.first_name | slugify}}.html">{{i.first_name}} {{i.last_name}}, {{i.title}}</a>
       </li>
       {% endif %}
       {% endfor %}

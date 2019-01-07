@@ -2,41 +2,52 @@
 people:
 - sys:
     id: 41CQK8BDXa8A4q4uyMSAii
-  firstName: Rachel
-  lastName: Breslin
+    created_at: !ruby/object:DateTime 2017-03-14 20:27:23.307000000 Z
+    updated_at: !ruby/object:DateTime 2018-09-13 22:42:54.701000000 Z
+    content_type_id: people
+    revision: 9
+  first_name: Rachel
+  last_name: Breslin
   degrees:
   - MPM
+  - PhD
   title:
-  - Senior Operations Analyst
-  bio: "Rachel is a Senior Operations Analyst in The Lab @ DC. She works on matters
-    of lab operation as well as the planning, coordination, and execution of a suite
-    of projects. \n \nFor over a decade, Rachel served in a variety of operational
-    and strategic positions in the military. She organized and oversaw operations
-    and training involving thousands of U.S. military personnel and local nationals
-    in multiple multinational settings; managed the acquisition and maintenance of
-    millions of dollars in equipment; and commanded a unit of nearly 200 service-members.
-    \ As special assistant to the Chief of Staff of the Army (the most senior officer
-    in the U.S. Army), Rachel planned, prepared, and executed over 100 local, national,
-    and international strategic engagements; coordinated complex communications strategies;
-    and provided policy assessments on major issues (e.g. the integration of women
-    in combat and the retention of junior military officers).  \n\nRachel earned a
-    B.S. in International Politics from the U.S. Military Academy at West Point and
-    a Master of Policy Management from Georgetown University.  She is currently a
-    doctoral candidate in Public Policy and Public Administration at The George Washington
-    University.  Her research interests include public management, representative
-    bureaucracy, and policy implementation.  Having moved 11 times in the last 15
-    years Rachel is happy to have finally found home here in the D.C. area."
-  profileImage:
+  - Fellow
+  bio: "Rachel is a volunteer Fellow with The Lab @ DC.\n \nFor over a decade, Rachel
+    served in a variety of operational and strategic positions in the military. She
+    organized and oversaw operations and training involving thousands of U.S. military
+    personnel and local nationals in multiple multinational settings; managed the
+    acquisition and maintenance of millions of dollars in equipment; and commanded
+    a unit of nearly 200 service-members.  As special assistant to the Chief of Staff
+    of the Army (the most senior officer in the U.S. Army), Rachel planned, prepared,
+    and executed over 100 local, national, and international strategic engagements;
+    coordinated complex communications strategies; and provided policy assessments
+    on major issues (e.g. the integration of women in combat and the retention of
+    junior military officers).  \n\nRachel earned a B.S. in International Politics
+    from the U.S. Military Academy at West Point and a Master of Policy Management
+    from Georgetown University.  She has her PhD in Public Policy and Public Administration
+    from The George Washington University.  Her research interests include public
+    management, representative bureaucracy, and policy implementation.  Having moved
+    11 times in the last 15 years Rachel is happy to have finally found home here
+    in the D.C. area."
+  profile_image:
+    sys:
+      id: 4WDnIyiUNqiUIAK8EIWsc0
+      created_at: !ruby/object:DateTime 2017-03-14 20:27:15.260000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 20:27:15.260000000 Z
     title: Breslin formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/4WDnIyiUNqiUIAK8EIWsc0/8323cb0c7c0b50df1552a451f09afa98/Breslin_formal.jpg"
-  email: Rachel.breslin@dc.gov
-  linkedIn: https://www.linkedin.com/in/rachelbreslin/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/rachelbreslin/
+  is_alum: false
 - sys:
     id: 9u45ZvFE2s8WWGsAe2AiM
-  firstName: Donald
-  lastName: Braman
+    created_at: !ruby/object:DateTime 2017-03-14 20:28:29.800000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:42:14.656000000 Z
+    content_type_id: people
+    revision: 7
+  first_name: Donald
+  last_name: Braman
   degrees:
   - Ph.D.
   - J.D.
@@ -56,17 +67,25 @@ people:
     from Yale University and a B.A. from Columbia University. He lives in Ward One
     with his wife, Kitty, their two sons, Gabe and Liam, and approximately 300 ladybugs.
     They enjoy trying to keep the plants in their garden alive."
-  profileImage:
+  profile_image:
+    sys:
+      id: 3M30Ols7m02K8weKESaSgm
+      created_at: !ruby/object:DateTime 2017-03-14 20:28:22.410000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 20:28:22.410000000 Z
     title: Braman formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/3M30Ols7m02K8weKESaSgm/019e404792591631faac5503195878da/Braman_formal.jpg"
   email: donald.braman@dc.gov
-  linkedIn: https://www.linkedin.com/in/donaldbraman/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/donaldbraman/
+  is_alum: false
 - sys:
     id: 3Y7ol6OyFayKYKUO8eKQk2
-  firstName: Peter
-  lastName: Casey
+    created_at: !ruby/object:DateTime 2017-03-14 20:30:27.011000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:41:12.424000000 Z
+    content_type_id: people
+    revision: 8
+  first_name: Peter
+  last_name: Casey
   degrees:
   - Ph.D.
   title:
@@ -87,17 +106,25 @@ people:
     agencies. \n\nPeter earned a Ph.D. in Political Science from Washington University
     in St. Louis and an MA in International Relations and a B.A. in Philosophy from
     Creighton University. Peter lives with his wife in Ward 1. "
-  profileImage:
+  profile_image:
+    sys:
+      id: 3bax9BKCbY4sGymGwq6y2
+      created_at: !ruby/object:DateTime 2017-03-14 20:30:22.408000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 20:30:22.408000000 Z
     title: Casey formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/3bax9BKCbY4sGymGwq6y2/a66aa18c2b9931f3fdabe16ce8d50d8e/Casey_formal.jpg"
   email: peter.casey@dc.gov
-  linkedIn: https://www.linkedin.com/in/peter-casey-05039679/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/peter-casey-05039679/
+  is_alum: false
 - sys:
     id: 3etLo1fT9YYoSOE4yCI6I4
-  firstName: Andy
-  lastName: DeSoto
+    created_at: !ruby/object:DateTime 2017-03-14 21:02:09.223000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:42:05.513000000 Z
+    content_type_id: people
+    revision: 7
+  first_name: Andy
+  last_name: DeSoto
   degrees:
   - Ph.D.
   title:
@@ -108,17 +135,109 @@ people:
     Andy earned a Ph.D. in psychology from Washington University in St. Louis, MO, where he studied memory and decision making. His research has been published in *Science and Psychological Science* and featured in *The Washington Post, The New York Times*, and *Scientific American*. He is on the Editorial Board of Scientific Data and is a supporter of research openness and transparency.
 
     Andy grew up in Fairfax, VA, received his B.S. from the College of William & Mary, and lives in Ward 2. His favorite time of year is when the St. Louis Cardinals are in town to play the Washington Nationals.
-  profileImage:
+  profile_image:
+    sys:
+      id: 48bCuu2zzG4MYOmuMA8oW2
+      created_at: !ruby/object:DateTime 2017-03-14 21:01:59.351000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:01:59.351000000 Z
     title: DeSoto formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/48bCuu2zzG4MYOmuMA8oW2/c0ecc381f5033cd38200e78f46770496/DeSoto_formal.jpg"
   email: andy.desoto@dc.gov
-  linkedIn: https://www.linkedin.com/in/kadesoto/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/kadesoto/
+  is_alum: false
+- sys:
+    id: 1j4MWR8HFiSwCcYASaU4s8
+    created_at: !ruby/object:DateTime 2017-03-14 21:03:59.392000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:59:52.490000000 Z
+    content_type_id: people
+    revision: 7
+  first_name: Jennifer
+  last_name: Doleac
+  degrees:
+  - Ph.D.
+  title:
+  - Senior Social Scientist
+  bio: "Jennifer is a Senior Social Scientist in The Lab @ DC. She is also an Assistant
+    Professor of Public Policy and Economics at the University of Virginia’s Batten
+    School, a Nonresident Fellow in Economic Studies at the Brookings Institution,
+    and a research affiliate with the University of Chicago Crime Lab.\n\nJennifer
+    is an applied microeconomist with particular interests in the economics of crime
+    and discrimination. She is an expert on how technology and surveillance affect
+    public safety, with past and current work addressing topics such as DNA databases,
+    gun violence, and prisoner re-entry. A common theme in much of her work is how
+    technology improves the quality and availability of crime-related data. Her research
+    has been supported by the National Institute of Justice, the Russell Sage Foundation,
+    and the Spencer Foundation, and has been published in leading academic journals
+    including the *Review of Economics and Statistics* and the *American Economic
+    Journal: Applied Economics*.\n\nPrior to coming to The Lab, Jennifer was an NBER/NSF
+    Crime Research Fellow, and worked at the Brookings Institution and the Congressional
+    Budget Office.\n\nJennifer holds a Ph.D. in Economics from Stanford University,
+    and a B.A. in Mathematics and Economics from Williams College. She lives in Charlottesville,
+    Virginia, and visits DC frequently. "
+  profile_image:
+    sys:
+      id: 5EWUSzzFRuKSUoEgC4aC2c
+      created_at: !ruby/object:DateTime 2017-03-14 21:03:31.665000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:03:31.665000000 Z
+    title: Doleac formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/5EWUSzzFRuKSUoEgC4aC2c/51f4ecadbeb31062a57149808d0459ba/Doleac_formal.jpg"
+  email: jennifer.doleac@dc.gov
+  linked_in: https://www.linkedin.com/in/jdoleac/
+  is_alum: true
+- sys:
+    id: 3ub3D8GAakUsSMC0qKMwa0
+    created_at: !ruby/object:DateTime 2017-03-14 21:05:31.554000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:59:40.268000000 Z
+    content_type_id: people
+    revision: 4
+  first_name: Bill
+  last_name: Egar
+  degrees:
+  - Ph.D.
+  title:
+  - Data Scientist
+  bio: "Bill is a Data Scientist in The Lab @ DC. Coordinating with a range of local
+    and federal law enforcement agencies, he oversees The Lab’s evaluation of DC’s
+    Crime Gun Intelligence Center grant program.\nPrior to joining The Lab, Bill served
+    on the Data Science team of a national political campaign, where he was responsible
+    for creating a number of predictive models, analyzing evidence from field experiments,
+    and finding ways to automate daily tasks.  He also served as a Social Science
+    Analyst at the U.S. Government Accountability Office, participating in a number
+    of audits and social science research projects relating to such varied topics
+    as the decision-making of SSA administrative judges, veterans’ claims for disability
+    benefits, the impact of broadband internet access on rural demand for USPS services,
+    and the effects of state-level election administration reforms.\n\nBill’s academic
+    research interests include Congress, political history, legislative procedure,
+    obstructionism, political parties, and elections. His dissertation focused on
+    how collective partisan electoral incentives and electoral expectations shape
+    the legislative behavior of the minority party in the U.S. House, and the minority
+    party’s role in exacerbating levels of polarization measured from the roll-call
+    record.  \n\nBill holds a B.A. in Political Science from Case Western Reserve
+    University, a MA in Political Science, and a Ph.D. in Political Science  from
+    University of Wisconsin-Madison. He spends his free time rooting for Cleveland
+    sports teams and trying to make the perfect smoked brisket from his home in Ward
+    6."
+  profile_image:
+    sys:
+      id: 31PtuR65NuyA6ii6AWiWQQ
+      created_at: !ruby/object:DateTime 2017-03-14 21:05:04.187000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:05:04.187000000 Z
+    title: Egar formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/31PtuR65NuyA6ii6AWiWQQ/1cad0de00a79fdbfd6edc16d319f53d1/Egar_formal.jpg"
+  email: bill.egar@dc.gov
+  linked_in: https://www.linkedin.com/in/billegar/
+  is_alum: true
 - sys:
     id: 1Mw0697eLGQqqwIG2CGqwQ
-  firstName: Karissa
-  lastName: Minnich
+    created_at: !ruby/object:DateTime 2017-03-14 21:06:41.825000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:41:21.034000000 Z
+    content_type_id: people
+    revision: 5
+  first_name: Karissa
+  last_name: Minnich
   degrees:
   - MPA
   title:
@@ -139,17 +258,25 @@ people:
     and political science from Muhlenberg College and a Masters of Public Administration
     from The George Washington University. In her free time, she enjoys knitting,
     yoga, and exploring her Ward 1 neighborhood with her husband, Nick."
-  profileImage:
+  profile_image:
+    sys:
+      id: IRurI8Co6sAAmkAi4uIwU
+      created_at: !ruby/object:DateTime 2017-03-14 21:06:17.854000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:06:17.854000000 Z
     title: Minnich formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/IRurI8Co6sAAmkAi4uIwU/3c3818e4ebf84b3418e20fbff78533ae/Minnich_formal.jpg"
   email: karissa.minnich@dc.gov
-  linkedIn: https://www.linkedin.com/in/karissamccarthy/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/karissamccarthy/
+  is_alum: false
 - sys:
     id: Wl8ZOG03MQkow6ucGqksk
-  firstName: Eric
-  lastName: Foster-Moore
+    created_at: !ruby/object:DateTime 2017-03-14 21:08:24.205000000 Z
+    updated_at: !ruby/object:DateTime 2018-07-17 17:08:26.185000000 Z
+    content_type_id: people
+    revision: 8
+  first_name: Eric
+  last_name: Foster-Moore
   degrees:
   - MS
   title:
@@ -168,17 +295,25 @@ people:
     dams on migration and agricultural productivity in China. He has a B.A. in Economics
     and Chinese from Colby College. A Ward 1 resident, Eric has lived in D.C. for
     five years and spends his free time rock climbing and whitewater kayaking.\n"
-  profileImage:
+  profile_image:
+    sys:
+      id: 6Pm8V8Axy00MQ08KcmmOgw
+      created_at: !ruby/object:DateTime 2017-03-14 21:07:47.710000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:07:47.710000000 Z
     title: FosterMoore formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/6Pm8V8Axy00MQ08KcmmOgw/1aaa215e2f48a70e30cb9cfec9e5aefc/FosterMoore_formal.jpg"
   email: eric.fostermoore@dc.gov
-  linkedIn: https://www.linkedin.com/in/efostermoore/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/efostermoore/
+  is_alum: true
 - sys:
     id: A4CAOAimrI2Gws24EgYUw
-  firstName: Katie
-  lastName: Gan
+    created_at: !ruby/object:DateTime 2017-03-14 21:10:12.051000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:58:16.936000000 Z
+    content_type_id: people
+    revision: 8
+  first_name: Katie
+  last_name: Gan
   degrees:
   - Ph.D.
   title:
@@ -201,17 +336,25 @@ people:
     and sociology from Trinity University and a Ph.D. in social policy and sociology
     from Harvard University. A Ward 2 resident, Katie can often be found with her
     husband and dog searching for their next good meal with friends."
-  profileImage:
+  profile_image:
+    sys:
+      id: 5DftuMACqcsUsgC4iqq6Yc
+      created_at: !ruby/object:DateTime 2017-03-14 21:09:31.349000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:09:31.349000000 Z
     title: Gan formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/5DftuMACqcsUsgC4iqq6Yc/56b93f7aa66e42aa42d368efbfb44cac/Gan_formal.jpg"
   email: katherine.gan@dc.gov
-  linkedIn: https://www.linkedin.com/in/katherinengan/
-  isAlum: true
+  linked_in: https://www.linkedin.com/in/katherinengan/
+  is_alum: false
 - sys:
     id: 5tu2p3lnmEWs6iAUIu0AoS
-  firstName: Chrysanthi
-  lastName: Hatzimasoura
+    created_at: !ruby/object:DateTime 2017-03-14 21:13:40.193000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:42:39.218000000 Z
+    content_type_id: people
+    revision: 5
+  first_name: Chrysanthi
+  last_name: Hatzimasoura
   degrees:
   - Ph.D.
   title:
@@ -238,22 +381,30 @@ people:
     she was unanimously awarded a distinction. She lives in Ward 2 with her lifelong
     partner Philip and their 3-year old Athona who thankfully is a great traveler
     and joins them in Greece every summer. "
-  profileImage:
+  profile_image:
+    sys:
+      id: Lz9U9hlMC2EO6kqYmqSyo
+      created_at: !ruby/object:DateTime 2017-03-14 21:13:15.562000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:13:15.562000000 Z
     title: Hatzimasoura formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/Lz9U9hlMC2EO6kqYmqSyo/bd0ff43735c064e4b7d5fe2b9d8effaa/Hatzimasoura_formal.jpg"
   email: chrysanthi.hatzimasoura@dc.gov
-  linkedIn: https://www.linkedin.com/in/chrysanthi-hatzimasoura-37997868/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/chrysanthi-hatzimasoura-37997868/
+  is_alum: false
 - sys:
     id: 6Augo08mGICo24MSiSM8kM
-  firstName: Ryan
-  lastName: Moore
+    created_at: !ruby/object:DateTime 2017-03-14 21:15:11.993000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-27 14:33:44.442000000 Z
+    content_type_id: people
+    revision: 8
+  first_name: Ryan
+  last_name: Moore
   degrees:
   - Ph.D.
   title:
   - Senior Social Scientist
-  bio: "Ryan T. Moore is a Senior Social Scientist in The Lab @ DC. He is also Assistant
+  bio: "Ryan T. Moore is a Senior Social Scientist in The Lab @ DC. He is also Associate
     Professor of Government at American University.  \n\nRyan’s research interests
     center around statistical political methodology, with applications in American
     social policy.  Substantively, he is interested in the intersection of direct
@@ -279,51 +430,68 @@ people:
     he earned an A.M. in statistics.  His B.A. is from Yale University in political
     science and mathematics.  Ryan lives in Ward 3 with his family, where he enjoys
     cycling the length of the Ward border on the Capital Crescent Trail. "
-  profileImage:
+  profile_image:
+    sys:
+      id: 4Jtmx1QSOkQ62OSO6SOqOW
+      created_at: !ruby/object:DateTime 2017-03-14 21:14:45.992000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:14:45.992000000 Z
     title: Moore formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/4Jtmx1QSOkQ62OSO6SOqOW/5aab1c673e63ce874b3deb85260d2325/Moore_formal.jpg"
   email: ryan.moore2@dc.gov
-  linkedIn: https://www.linkedin.com/in/ryan-moore-400ba54/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/ryan-moore-400ba54/
+  is_alum: false
 - sys:
     id: 1EObFZYvDiwakuYiesWYa0
-  firstName: Sam
-  lastName: Quinney
+    created_at: !ruby/object:DateTime 2017-03-14 21:17:18.357000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-27 14:39:34.802000000 Z
+    content_type_id: people
+    revision: 13
+  first_name: Sam
+  last_name: Quinney
   degrees:
   - MPP
-  bio: "Sam is part of the management and operations team in The Lab @ DC, shepherding
-    core functions such as data sharing, budgeting, personnel, and integration of
-    The Lab into the District policy making process. Sam also fulfills the responsibilities
-    of The Lab Director as needed. Sam also leads The Lab’s education portfolio in
-    addition to projects in the human services and government operations.\n \nPrior
-    to joining The Lab @ DC, Sam worked at the US Department of Education’s (ED) to
-    embed behavioral insights and rigorous testing into the Department’s outreach
-    to struggling student borrowers. In K-12 education, Sam informed the development
-    and analysis of numerous ED initiatives, including School Improvement Grants and
-    new regulations for teacher preparation programs.\n \nSam previously worked as
-    a Fellow under Chicago Mayor Rahm Emanuel, where he helped design a more cost-effective
-    use of commercial loading zones and a 311 data tool currently used to predict
-    and prevent outbreaks of rodent activity across the city. Prior to living in Chicago,
-    Sam was a 7th Grade U.S. History teacher in Philadelphia and a Coordinator for
-    a college readiness program serving low-income youth from neighborhood high schools.\n
-    \nSam was a 2013 Presidential Management Fellow and a 2007 Teach For America Corps
-    Member. Sam holds a B.A. in political science and writing from Villanova University,
-    a secondary teaching certification from University of Pennsylvania, and a Masters
-    of public policy from the University of Chicago. On the weekends you’ll find Sam
-    with his wife, Kelly, and dog, Nova, enjoying H Street NE, or exploring DC’s growing
-    craft beer and distilling industry."
-  profileImage:
+  title:
+  - Interim Director
+  bio: "Sam is the Interim Director of  The Lab @ DC. Under his leadership, The Lab
+    works to generate timely, relevant, and high-quality evidence to improve lives
+    in the District. \n\nSam joined the Lab in January 2016 as its first full-time
+    employee. Prior to joining The Lab @ DC, Sam worked at the US Department of Education
+    (ED) and White House Social and Behavioral Sciences Team. In behavioral science,
+    Sam worked to embed behavioral insights and rigorous testing within the department’s
+    outreach to struggling student borrowers. In K-12 education, Sam contributed to
+    the development and evaluation of many ED initiatives related to school turnaround,
+    high school graduation, teacher preparation, and college choice.\n \nSam previously
+    worked as a Fellow under Chicago Mayor Rahm Emanuel, where he helped design a
+    more cost-effective use of commercial loading zones and a 311 data tool used to
+    predict and prevent outbreaks of rodent activity across the city. Prior to living
+    in Chicago, Sam was a 7th Grade U.S. History teacher in Philadelphia and a Coordinator
+    for a college readiness program serving low-income youth from neighborhood high
+    schools.\n \nSam was a 2013 Presidential Management Fellow and a 2007 Teach For
+    America Corps Member. Sam holds a B.A. in political science and writing from Villanova
+    University, a secondary teaching certification from University of Pennsylvania,
+    and a Masters of Public Policy from the University of Chicago. Sam lives in Ward
+    6 in Capitol Hill East with his wife, Kelly, newborn son, Isaiah, and their dog,
+    Nova."
+  profile_image:
+    sys:
+      id: 3TpYOT8PNmyOayAoIos8M0
+      created_at: !ruby/object:DateTime 2017-03-14 21:16:30.355000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:16:30.355000000 Z
     title: Quinney formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/3TpYOT8PNmyOayAoIos8M0/4f2cd453bdb20660146b396652b35eb0/Quinney_formal.jpg"
   email: sam.quinney@dc.gov
-  linkedIn: https://www.linkedin.com/in/sam-quinney-8715553b/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/sam-quinney-8715553b/
+  is_alum: false
 - sys:
     id: 4yQLcOX0hWYGycWcQGGoYc
-  firstName: Anita
-  lastName: Ravishankar
+    created_at: !ruby/object:DateTime 2017-03-14 21:20:29.616000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-17 21:42:31.616000000 Z
+    content_type_id: people
+    revision: 4
+  first_name: Anita
+  last_name: Ravishankar
   title:
   - Fellow
   bio: "Anita is a Fellow in The Lab @ DC. She also serves as a member of the Metropolitan
@@ -349,77 +517,114 @@ people:
     of Foreign Service.\n\nBorn and raised in the DC area, Anita now lives in Ward
     6 with her husband, Clarence. In her free time, she enjoys hiking, traveling,
     and testing out new recipes on willing family and friends. "
-  profileImage:
+  profile_image:
+    sys:
+      id: 47gyS62TXikUS2082Gkyc8
+      created_at: !ruby/object:DateTime 2017-03-14 21:20:05.788000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:20:05.788000000 Z
     title: Ravishankar formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/47gyS62TXikUS2082Gkyc8/d6d343ce1aab29a28df9cd69aa542f08/Ravishankar_formal.jpg"
   email: anita.ravishankar@dc.gov
-  linkedIn: https://www.linkedin.com/in/anitaravishankar/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/anitaravishankar/
+  is_alum: false
 - sys:
     id: CwprNJHxFQ0ckAcU208qM
-  firstName: Kevin
-  lastName: Wilson
+    created_at: !ruby/object:DateTime 2017-03-14 21:21:57.865000000 Z
+    updated_at: !ruby/object:DateTime 2018-12-23 17:49:36.935000000 Z
+    content_type_id: people
+    revision: 10
+  first_name: Kevin
+  last_name: Wilson
   degrees:
   - Ph.D.
   title:
   - Senior Data Scientist
-  bio: |-
-    Kevin is a Senior Data Scientist in The Lab @ DC. He plays a leading role in envisioning and implementing The Lab’s data analytic standards and protocols, executing (and wherever possible automating) important data analytic tasks, and guiding the use of machine learning, as well as developing entirely novel uses of data that maximize how much we can learn from the District’s vast amount of administrative data.
-
-    Kevin brings years of experience in a wide array of data analytic topics, ranging from system and security architecture to advanced statistical techniques to the development of novel predictive models and commercial tools. As the Principal Data Scientist at Knewton -an education technology company- Kevin developed and implemented methods for drawing real time and retrospective insights from massive, complex datasets, and was especially involved in bridging the divide between classic techniques like psychometrics with the modern techniques of machine learning. Kevin also has experience explaining such complex topics to diverse audiences, ranging from small academic seminars to high school students. His work has appeared in such diverse venues as the *Journal of Combinatorial Theory and Educational Data Mining*, and some of his popular projects have been written up in the *Washington Post* and *Daily Kos*.
-
-    Kevin earned a B.S. in mathematics from University of Michigan and a Ph.D. in mathematics from Princeton University. He enjoys pondering the potential regression discontinuity experiments he could do near his home at the border of Wards 1 and 2.
-  profileImage:
+  bio: "Kevin is a Senior Data Scientist in The Lab @ DC. He plays a leading role
+    in envisioning and implementing The Lab’s data analytic standards and protocols,
+    executing (and wherever possible automating) important data analytic tasks, and
+    guiding the use of machine learning, as well as developing entirely novel uses
+    of data that maximize how much we can learn from the District’s vast amount of
+    administrative data.\n\nKevin brings years of experience in a wide array of data
+    analytic topics, ranging from system and security architecture to advanced statistical
+    techniques to the development of novel predictive models and commercial tools.
+    As the Principal Data Scientist at Knewton -an education technology company- Kevin
+    developed and implemented methods for drawing real time and retrospective insights
+    from massive, complex datasets, and was especially involved in bridging the divide
+    between classic techniques like psychometrics with the modern techniques of machine
+    learning. Kevin also has experience explaining such complex topics to diverse
+    audiences, ranging from small academic seminars to high school students. His work
+    has appeared in such diverse venues as the *Journal of Combinatorial Theory and
+    Educational Data Mining*, and some of his popular projects have been written up
+    in the *Washington Post* and *Daily Kos*. \n\nKevin earned a B.S. in mathematics
+    from University of Michigan and a Ph.D. in mathematics from Princeton University.
+    He enjoys pondering the potential regression discontinuity experiments he could
+    do near his home at the border of Wards 1 and 2."
+  profile_image:
+    sys:
+      id: zAWHvBvB3UCayk4Y6MgQe
+      created_at: !ruby/object:DateTime 2017-03-14 21:21:29.340000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:21:29.340000000 Z
     title: Wilson formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/zAWHvBvB3UCayk4Y6MgQe/64219ae398ded93892ffe50913f55bea/Wilson_formal.jpg"
   email: kevin.wilson@dc.gov
-  linkedIn: https://www.linkedin.com/in/kevinhayeswilson/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/kevinhayeswilson/
+  is_alum: true
 - sys:
     id: 14ZNE1Y5lmuoO00U6YiQ2W
-  firstName: David
-  lastName: Yokum
+    created_at: !ruby/object:DateTime 2017-03-14 21:23:50.538000000 Z
+    updated_at: !ruby/object:DateTime 2018-09-14 16:50:12.009000000 Z
+    content_type_id: people
+    revision: 12
+  first_name: David
+  last_name: Yokum
   degrees:
   - J.D.
   - Ph.D.
   title:
-  - Director
-  bio: "David Yokum is Director of The Lab @ DC. Under his leadership, The Lab conducts
-    applied research projects to generate timely, relevant, and high-quality evidence
-    that informs the District's most important decisions. He hosts The Podcast @ DC,
-    conversations that attempt to bridge the gap between research and practice in
-    government. \n\nDavid was previously a founding member of the White House’s Social
+  - Senior Advisor
+  bio: "David Yokum is Senior Advisor of The Lab @ DC. He is also its Founding Director.
+    Under his leadership, The Lab conducts applied research projects to generate timely,
+    relevant, and high-quality evidence that informs the District's most important
+    decisions. \nDavid was previously a founding member of the White House’s Social
     & Behavioral Sciences Team and Director of its scientific delivery unit housed
     at the U.S. General Services Administration. President Obama further institutionalized
     the work in Executive Order 13707, “Using Behavioral Science Insights to Better
-    Serve the American People.”\n\nDavid’s expertise draws on the cognitive foundations
+    Serve the American People.”\nDavid’s expertise draws on the cognitive foundations
     of judgment and decision making and, in particular, how that knowledge and associated
     methodologies can be extended into applied settings. His public speaking, teaching,
     and advocacy won the Excellence in Teaching Award from the University of Arizona
-    (UA) College of Science. His work has been published in journals such as *Health
-    Affairs, Journal of Empirical Legal Studies, American Journal of Law & Medicine*,
-    and *Law & Contemporary Problems* and received media coverage from outlets such
-    as *NPR, The New York Times, The New Yorker, The Wall Street Journal, Slate, USA
-    Today, Politico, Scientific American, Forbes, Huffington Post*, and elsewhere.
-    \n\nDavid earned a Ph.D. in psychology (with dual specialization in cognition
-    & neural systems and psychology, policy, & law) at UA, a law degree from the UA
+    (UA) College of Science. His work has been published in journals such as Health
+    Affairs, Journal of Empirical Legal Studies, American Journal of Law & Medicine,
+    and Law & Contemporary Problems and received media coverage from outlets such
+    as NPR, The New York Times, The New Yorker, The Wall Street Journal, Slate, USA
+    Today, Politico, Scientific American, Forbes, Huffington Post, and elsewhere.
+    \nDavid earned a Ph.D. in psychology (with dual specialization in cognition &
+    neural systems and psychology, policy, & law) at UA, a law degree from the UA
     James E. Rogers College of Law, a Masters degree in bioethics & medical humanities
     from the University of South Florida, and a B.S. in biology from Birmingham-Southern
-    College. He lives in Ward 6 with his wife Sara, son Ethan, dog Tieto, cats Philo
-    and Mouse, and bunny Mr. Bubbles."
-  profileImage:
+    College. He lives in Rhode Island with his wife Sara, sons Ethan and Aaron, dog
+    Tieto, and cats Philo and Mouse."
+  profile_image:
+    sys:
+      id: 1gDekhodBSuQKkqUYAkAUS
+      created_at: !ruby/object:DateTime 2017-03-14 21:23:20.248000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-14 21:23:20.248000000 Z
     title: Yokum formal
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/1gDekhodBSuQKkqUYAkAUS/ee29bd414f04cd8e101772b00a9ce169/Yokum_formal.jpg"
   email: david.yokum@dc.gov
-  linkedIn: https://www.linkedin.com/in/davidyokum/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/davidyokum/
+  is_alum: false
 - sys:
     id: 5EL6y66jPaUGUGOKamkGua
-  firstName: Pierre
-  lastName: Vigilance
+    created_at: !ruby/object:DateTime 2017-03-29 18:31:56.746000000 Z
+    updated_at: !ruby/object:DateTime 2018-07-02 21:13:40.530000000 Z
+    content_type_id: people
+    revision: 8
+  first_name: Pierre
+  last_name: Vigilance
   degrees:
   - M.D.
   - MPH
@@ -450,17 +655,25 @@ people:
     of Medicine, and a Masters in public health from the Bloomberg School of Public
     Health at Johns Hopkins University. Pierre is an is an avid soccer fan, promoter
     of physical activity, and a lover of the arts, music and travel."
-  profileImage:
+  profile_image:
+    sys:
+      id: 28v4V78gYMgKIq4CqeA0gu
+      created_at: !ruby/object:DateTime 2017-03-29 18:33:24.445000000 Z
+      updated_at: !ruby/object:DateTime 2017-04-04 18:58:14.970000000 Z
     title: Vigilance-Pierre
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/28v4V78gYMgKIq4CqeA0gu/d4ec30fb183013034f6db533e8cb7555/Pierre_formal.jpg"
   email: pierre.vigilance@dc.gov
-  linkedIn: https://www.linkedin.com/in/pierrevigilance/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/pierrevigilance/
+  is_alum: true
 - sys:
     id: 2qBAEp4yv60sUikGGeUSOo
-  firstName: Paul
-  lastName: Testa
+    created_at: !ruby/object:DateTime 2017-11-08 21:30:43.299000000 Z
+    updated_at: !ruby/object:DateTime 2018-07-02 21:13:23.995000000 Z
+    content_type_id: people
+    revision: 3
+  first_name: Paul
+  last_name: Testa
   degrees:
   - Ph.D.
   title:
@@ -483,10 +696,367 @@ people:
     Born in D.C., Paul last lived in Ward 6 before heading off to graduate school.
     He's run two marathons, very slowly, through D.C. and recommends declining the
     beer offered to you at mile 22."
-  profileImage:
+  profile_image:
+    sys:
+      id: EphDbsHgsKiGy8wO2ousu
+      created_at: !ruby/object:DateTime 2017-11-08 21:30:35.268000000 Z
+      updated_at: !ruby/object:DateTime 2017-11-08 21:30:35.268000000 Z
     title: Testa
     description: 
     url: "//images.ctfassets.net/jxa4vq5tep60/EphDbsHgsKiGy8wO2ousu/9dbea2f119dfc34b1eb60d7126361730/Testa_formal.jpg"
   email: paul.testa@dc.gov
-  linkedIn: https://www.linkedin.com/in/paul-testa-5b92a810/
-  isAlum: false
+  linked_in: https://www.linkedin.com/in/paul-testa-5b92a810/
+  is_alum: true
+- sys:
+    id: 1uVL2sWPuMy0YWOE6EuMai
+    created_at: !ruby/object:DateTime 2018-04-19 13:58:00.773000000 Z
+    updated_at: !ruby/object:DateTime 2018-04-19 13:58:00.773000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Amy
+  last_name: Batchelor
+  degrees:
+  - MSW
+  title:
+  - Presidential Management Fellow
+  bio: |-
+    Amy is a Presidential Management Fellow with The Lab @ DC for a developmental detail. She works on paid family leave and projects related to the Department of Employment Services.
+
+    Amy comes from the Office of Management and Budget where she is a Program Examiner covering a portfolio that includes the Wage and Hour Division of the Department of Labor, the Corporation for National and Community Service, and paid leave policy. She was responsible for the formulation of portions of the President’s Budget related to her portfolio, managing programs, and providing policy and regulatory analyses; particularly related to family and medical leave, minimum wage, and overtime policy. Prior to joining the Federal government, Amy was a Research Associate at the National Academies supporting a consensus study related to family caregiving for older adults.
+
+    Amy earned a B.A. in International Affairs from George Washington University and a Master’s of Social Work from Columbia University. Amy lives in Ward 2 and enjoys volunteering, yoga, and travel.
+  profile_image:
+    sys:
+      id: Y0upCvZgA0AgiIA2kI4mm
+      created_at: !ruby/object:DateTime 2018-04-17 22:04:28.300000000 Z
+      updated_at: !ruby/object:DateTime 2018-04-17 22:04:28.300000000 Z
+    title: Batchelor - Formal Photo
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/Y0upCvZgA0AgiIA2kI4mm/d6635604d91d991f23ad67c1f09b8fec/Batchelor_-_Formal_Photo.JPG"
+  linked_in: https://www.linkedin.com/in/amyebatchelor/
+  is_alum: true
+- sys:
+    id: 5jIFbruCGQEywIyWcoeeKu
+    created_at: !ruby/object:DateTime 2018-06-01 15:35:59.192000000 Z
+    updated_at: !ruby/object:DateTime 2018-06-01 15:35:59.192000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Nigist
+  last_name: Raru
+  degrees:
+  - MPH
+  - MA
+  title:
+  - Capital City Fellow
+  bio: "Nigist is a Capital City Fellow working with The Lab @ DC. She brings a diverse
+    set of experience working in project management, research, and communications.
+    Most recently, Nigist worked with AARP’s Livable Communities team where she coordinated
+    a national grant and an award winning annual publication that features ideas from
+    local leaders to improve their communities.\n\nPrior to moving to the District
+    of Columbia, Nigist worked with International Development Organizations. She specialized
+    in incorporating women’s rights into the planning and implementation of development
+    projects. She oversaw research, training, and policy development for nationally
+    implemented development programs. She was able to gain valuable experience working
+    with women in underprivileged communities in Eastern Africa. \n\nLocally, Nigist
+    worked with a private company based in Washington, DC where she was coordinating
+    a team of 20 clinicians delivering care for homebound patients. \n\nShe has a
+    Masters in Public Health from The George Washington University. She also earned
+    a Masters in Gender and Peace Building from the United Nations University for
+    Peace. Nigist enjoys reading, running, and travelling. She has lived in four countries
+    and speaks three languages. "
+  profile_image:
+    sys:
+      id: PM9VvHLn8sm0GI8gQUgmo
+      created_at: !ruby/object:DateTime 2018-06-01 15:29:21.162000000 Z
+      updated_at: !ruby/object:DateTime 2018-06-01 15:29:21.162000000 Z
+    title: Raru formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/PM9VvHLn8sm0GI8gQUgmo/981907b250a078daeae579ad6596eac8/Raru_formal.jpg"
+  email: nigist.raru@dc.gov
+  linked_in: https://www.linkedin.com/in/nigist-raru-0733b8116
+  is_alum: false
+- sys:
+    id: 1EGe2mL23S2WweO6QiMyqA
+    created_at: !ruby/object:DateTime 2018-06-04 19:50:57.261000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-10 14:57:24.008000000 Z
+    content_type_id: people
+    revision: 3
+  first_name: Theodore
+  last_name: Wilhite
+  title:
+  - Research Assistant
+  bio: "Theo Wilhite is a fourth generation Washingtonian and a leading student at
+    UDC Law. \n\nA rising 3L and Cafritz Foundation Scholar, Theo is the incoming
+    President of the UDC Law Student Bar Association for the 2018-2019 academic year.
+    Theo spent the 2017 summer as a Rauh Summer Fellow working in the office of DC
+    Councilmember Robert White researching policy in the areas of affordable housing,
+    receivership, and prisoner re-entry. Through the District Leadership Program,
+    Theo interned with DC’s Office of Planning, contributing to the Cultural Plan,
+    the Capital Improvement Plan and Smart Cities. While developing best practice
+    case studies of smart city technology, data privacy piqued Theo’s legal curiosity.
+    Theo has also recently worked as a student attorney in the UDC Housing and Consumer
+    Law Clinic, where he represented low-income District residents and advanced the
+    clinic mission to preserve and expand quality affordable housing. \n\nBefore joining
+    UDC Law, Theo earned his Bachelor’s Degree in Architecture from the University
+    the District of Columbia, where he served on the University of the District of
+    Columbia's Board of Trustees. Additionally, Theo worked for the Department of
+    Consumer and Regulatory Affair’s Green Building Program as a Residential Energy
+    Code Reviewer. "
+  profile_image:
+    sys:
+      id: o3oxHapHEG0yG6wWkI4Yg
+      created_at: !ruby/object:DateTime 2018-06-04 19:50:38.482000000 Z
+      updated_at: !ruby/object:DateTime 2018-06-04 19:50:38.482000000 Z
+    title: Wilhite formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/o3oxHapHEG0yG6wWkI4Yg/8954b6eb17d994476ee46c0f4c30767e/Wilhite_formal.jpg"
+  email: theodore.wilhite3@dc.gov
+  linked_in: https://www.linkedin.com/in/theowilhite/
+  is_alum: false
+- sys:
+    id: 18S4uHfHsm44aSi8giOAOs
+    created_at: !ruby/object:DateTime 2018-06-04 19:53:12.286000000 Z
+    updated_at: !ruby/object:DateTime 2018-08-27 14:48:23.218000000 Z
+    content_type_id: people
+    revision: 3
+  first_name: Clarice
+  last_name: Yang
+  title:
+  - District Leadership Intern
+  bio: |-
+    Clarice Yang is a District Leadership Program Intern at The Lab @ DC. She works with The Lab’s data science and operations teams to bring evidence-informed decision making to the government setting. Before that, she worked at a national IT consulting firm, where she managed and automated various reports using tools in data analytics. New to the government policy and operation, Clarice is excited to bring a fresh perspective to The Lab.
+
+    Clarice has a B.A. in Economics from University of Virginia. She is a graduate student in Data Analytics at CUNY Baruch College. She is a Certified Public Accountant licensed in Virginia. Originally from China, She speaks Mandarin and loves cooking and swimming.
+  profile_image:
+    sys:
+      id: 62bGmDXegwwMg08Ocs2gEi
+      created_at: !ruby/object:DateTime 2018-06-04 19:48:40.722000000 Z
+      updated_at: !ruby/object:DateTime 2018-06-04 19:48:40.722000000 Z
+    title: Yang formal
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/62bGmDXegwwMg08Ocs2gEi/dccb00eb031f8f5bd9e4c11648bdff66/Yang_formal.jpg"
+  email: clarice.yang@dc.gov
+  linked_in: https://www.linkedin.com/in/clariceyq/
+  is_alum: true
+- sys:
+    id: 3EG6zPMcIUYsWEOA48O48i
+    created_at: !ruby/object:DateTime 2018-09-05 16:31:33.493000000 Z
+    updated_at: !ruby/object:DateTime 2018-12-23 17:47:49.167000000 Z
+    content_type_id: people
+    revision: 2
+  first_name: Caroline
+  last_name: Nickerson
+  degrees:
+  - BA
+  title:
+  - Research Assistant
+  bio: |-
+    Caroline Nickerson is a Research Assistant at The Lab @ DC and a Master of Public Policy student at American University. Caroline works on various projects at The Lab and as a teaching assistant for Dr. Ryan Moore’s undergraduate course.
+
+    Caroline’s research interests include civic communication, especially regarding technical and science-based information, and all things local government. Before coming to The Lab, Caroline worked for the University of Florida Department of Psychiatry in textbook and curriculum development for the Christensen Project, creating materials focused on serving underserved and homeless populations.
+
+    As an undergraduate at the University of Florida, Caroline majored in both history and Chinese language, graduating with honors and with the College of Liberal Arts of Science Excellence Award given to only three exceptional students in the College. She serves on the board of the Commission on Local Debates, which plans and hosts debates for local elections in Orange County, Florida. She continues her affiliation with the University of Florida through membership in the UF-VA UNESCO Bioethics Unit and by serving on the board of the DC Gator Club.
+
+    Caroline lives in Ward 3 and in her spare time, she writes and edits articles for SciStarter, an organization that promotes citizen science (real, accessible science for everyone).
+  profile_image:
+    sys:
+      id: Te5fcJjIcKAmqame0McWE
+      created_at: !ruby/object:DateTime 2018-09-05 16:30:08.262000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-05 16:30:08.262000000 Z
+    title: Nickerson
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/Te5fcJjIcKAmqame0McWE/47e48d31b2d1ac20e31c1fd107268ca5/IMG_0568.jpg"
+  email: caroline.nickerson@dc.gov
+  linked_in: https://www.linkedin.com/in/caroline-nickerson-292a33102/
+  is_alum: true
+- sys:
+    id: 3NNvwfPYmIg0uCuGWmW2mW
+    created_at: !ruby/object:DateTime 2018-09-07 17:55:56.575000000 Z
+    updated_at: !ruby/object:DateTime 2018-09-07 17:55:56.575000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Tyler
+  last_name: Loewenstein
+  degrees:
+  - BA
+  title:
+  - Research Assistant
+  bio: |-
+    Tyler is a Research Assistant in The Lab @ DC. He is currently completing his Master of Public Administration at the School of Public Affairs at American University. Tyler works across several teams at The Lab to advance evidence-based practices and also serves as a teaching assistant to Dr. Ryan Moore.
+
+    Tyler brings along a diverse background in project management, state and federal politics, and policy analysis. Most recently, he worked with the New York State Energy Research & Development Authority (NYSERDA) to administer programs that advance New York State’s clean energy economy. In that capacity, Tyler worked on a team to oversee energy efficient building projects, conduct internal data analysis, and foster relationships among strategic partners in the energy sector. Previously, he has also represented non-profit organizations in the New York State legislature and interned for a member of the U.S. House of Representatives.
+
+    Tyler earned a B.A. in government from American University and is a member of Pi Sigma Alpha, the National Political Science Honor Society. He is also an Eagle Scout. A resident of Ward 3, Tyler enjoys trying out new local restaurants, eating hot peppers, and exploring the green spaces around DC.
+  profile_image:
+    sys:
+      id: lOPXMVNbAkyOumkMQMeKc
+      created_at: !ruby/object:DateTime 2018-09-07 17:55:38.106000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-07 17:55:38.106000000 Z
+    title: Loewenstein
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/lOPXMVNbAkyOumkMQMeKc/31715f784f4ea41857ae141845f26640/IMG_0579__1_.jpg"
+  email: tyler.loewenstein@dc.gov
+  linked_in: https://www.linkedin.com/in/tylerjloewenstein/
+  is_alum: false
+- sys:
+    id: 5dtfE8QbNCAGkwQgiOYuMO
+    created_at: !ruby/object:DateTime 2018-10-01 19:24:21.706000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-01 19:24:21.706000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Victoria
+  last_name: Bishop
+  title:
+  - Research Assistant
+  bio: "Victoria is a Research Assistant at The Lab @ DC. She assists The Lab in its
+    operations as well as the planning and coordination of projects. Her current project
+    is working in collaboration with the DC Department of Human Services’ Youth Services
+    Division on finding evidence-based ways to enhance Youth programs, specifically
+    their Alternatives to Court Experience (ACE) and Parent and Adolescent Support
+    Services (PASS) programs. Her research interests include public management, operation
+    and systems management, and social deviance.\n\nVictoria graduated summa cum laude
+    from University of South Alabama with a B.A. in Sociology and Statistics. Go Jags!
+    She is currently a master’s candidate in Public Administration at American University
+    and will graduate in May 2019. Her life’s quest is to find the perfect chocolate. "
+  profile_image:
+    sys:
+      id: 3KXDBGqjdeua6iY6Aygssw
+      created_at: !ruby/object:DateTime 2018-09-05 16:20:41.346000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-05 16:20:41.346000000 Z
+    title: Bishop
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/3KXDBGqjdeua6iY6Aygssw/2b426b885d695a44c551ad3956087b50/IMG_0566.jpg"
+  email: victoria.bishop@dc.gov
+  is_alum: false
+- sys:
+    id: 37cOxI1SvKU4kMmm6Ew6mE
+    created_at: !ruby/object:DateTime 2018-10-10 14:56:12.494000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-10 14:56:12.494000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Vivi
+  last_name: Besteman
+  title:
+  - Research Assistant
+  bio: |-
+    Vivi is a Research Assistant at The Lab @ DC and an undergraduate student in American University’s School of Public Affairs. Vivi will be graduating in May of 2019 with a BA in the interdisciplinary studies of communications, legal institutions, economics, and government as well as a minor in finance. Vivi works on various projects at The Lab to aid in advancing evidence-based practices and policies. Her research interests include education, community engagement, and economic development.
+
+    Aside from her studies and work at The Lab, Vivi is a swim coach with the Nation’s Capital Aquatics Program where she spends three days each week teaching children ages 3-8 the fundamentals of swimming. Vivi is a long time pianist and uses her free time to explore the many wonderful museums and art galleries DC has to offer. She is an avid lover of a good cup of coffee and hopes to one day perfect latte art.
+  profile_image:
+    sys:
+      id: 7qxP8CzsAMeeKaU0IWS0YU
+      created_at: !ruby/object:DateTime 2018-10-10 14:55:28.179000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-10 14:55:28.179000000 Z
+    title: Besteman
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/7qxP8CzsAMeeKaU0IWS0YU/715214052e5a80efce72e80b489b8dba/Besteman.jpg"
+  email: vivi.besteman@dc.gov
+  is_alum: false
+- sys:
+    id: 4KvVL8CLbGWmMCUaWmso2m
+    created_at: !ruby/object:DateTime 2018-11-27 18:03:49.050000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-27 23:18:46.281000000 Z
+    content_type_id: people
+    revision: 5
+  first_name: Vicky
+  last_name: Mei
+  degrees:
+  - MS
+  title:
+  - Data Scientist
+  bio: "Vicky is a Data Scientist in The Lab @ DC. She is currently working on developing
+    a predictive model of student absenteeism in the District. \n\nPrior to joining
+    The Lab, Vicky was a Tax Policy Analyst with the New York City Office of Management
+    and Budget. In this role, she was responsible for forecasting personal income
+    and sales tax revenues for the mayor’s quarterly budget modifications, as well
+    as analyzing the impact of tax credits and tax law changes on revenue and taxpayer
+    behavior. During an internship at the Port Authority of New York and New Jersey,
+    Vicky used E-ZPass transactions to analyze commuter driving patterns and researched
+    behavioral science strategies to nudge commuters to travel outside of peak periods.\n\nVicky
+    graduated with her master’s degree in public policy and data analytics from Carnegie
+    Mellon University, and her bachelor’s degree in economics and public policy from
+    Syracuse University. In her free time, she enjoys travelling, eating, and exploring
+    her new home in the DMV region. "
+  profile_image:
+    sys:
+      id: 2V37bwBGQE2wAuQQGq4cQK
+      created_at: !ruby/object:DateTime 2018-11-27 23:18:41.316000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-27 23:18:41.316000000 Z
+    title: new mei
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/2V37bwBGQE2wAuQQGq4cQK/a65f1421818a5e4144b5c0d23e97f519/new_mei.jpg"
+  email: vicky.mei@dc.gov
+  linked_in: https://www.linkedin.com/in/vickymei/
+  is_alum: false
+- sys:
+    id: Fr56nHt4UUYICkSqUMIY8
+    created_at: !ruby/object:DateTime 2018-12-06 15:58:07.684000000 Z
+    updated_at: !ruby/object:DateTime 2018-12-06 15:58:07.684000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: John
+  last_name: Irungu
+  degrees:
+  - MPA
+  title:
+  - Research Assistant
+  bio: |-
+    John Irungu is a Research Assistant at The Lab @ D.C with the Data Science team.
+
+    Prior to joining The Lab,John interned with the D.C Human Resource ,Benefits and Retirements Administration.At DCHR,John worked on Data Cleanup of the District Government’s union members commuter benefits and also did their monthly smartrip separations.
+
+    John’s research interests include regulatory policy,technology policy and public safety.In this pursuit,he has researched on a gun technology safety design(patent pending) and consulted a project with D.C Forensics Firearms Unit.
+
+    John is completing his Masters in Public Administration at The University of The District of Columbia and holds a B.A in political science from The University of Nairobi.He enjoys reading  Nat-Geo issues and  medium distance track laps.John considers D.C his second home.
+  profile_image:
+    sys:
+      id: 2iEe8buQJqwWg28MgeaC02
+      created_at: !ruby/object:DateTime 2018-12-06 15:57:58.892000000 Z
+      updated_at: !ruby/object:DateTime 2018-12-06 15:57:58.892000000 Z
+    title: Irungu
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/2iEe8buQJqwWg28MgeaC02/42cd41706a3a578c57ee0a7d119aee95/Irungu.jpg"
+  email: john.irungu2@dc.gov
+  is_alum: false
+- sys:
+    id: 3UwKpfA21WqAICeG4gWU8I
+    created_at: !ruby/object:DateTime 2019-01-02 20:52:45.359000000 Z
+    updated_at: !ruby/object:DateTime 2019-01-02 20:52:45.359000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Namita
+  last_name: Mody
+  degrees:
+  - MPP
+  title:
+  - Operations Analyst
+  bio: "Nami is an Operations Analyst in The Lab @ DC. She supports The Lab’s internal
+    and project operations, focused especially on data sharing, data acquisition,
+    and the team’s data science projects.\n\nNami joined OCA after spending three
+    years at nonprofit DoSomething.org, giving young people the tools and support
+    they need to make an impact on causes they care about. There, she developed and
+    managed national campaigns on poverty and homelessness, leading collaboration
+    between internal teams, nonprofit partners, international affiliates, corporate
+    sponsors, and tens of thousands of young members. After two years as a Campaigns
+    Manager, she joined the organization’s tech team as a Product Manager, specializing
+    in internal systems and analytics. In this role, she worked with the tech and
+    data teams to launch  automated dashboards and design internal processes managing
+    bug and feature prioritization, regular deployment, quality assurance, and content
+    optimization. \n\nWhile pursuing her master’s degree, Nami worked on issues of
+    gun violence at the Mayor’s Office in the City of Detroit, and on improving the
+    release of open data alongside Fellow Erie Meyer at Harvard’s Shorenstein Center.\n\nNami
+    earned a B.S. in Business Economics from New York University’s Stern School of
+    Business and a Master in Public Policy from Harvard University’s Kennedy School
+    of Government, concentrating in social and urban policy. A new Ward 5 resident,
+    Nami looks forward to exploring her neighborhood and adopting her first dog."
+  profile_image:
+    sys:
+      id: 1InvVak8YweCiEu4Wa82Oo
+      created_at: !ruby/object:DateTime 2019-01-02 20:52:41.802000000 Z
+      updated_at: !ruby/object:DateTime 2019-01-02 20:57:50.858000000 Z
+    title: Namita Mody
+    description: 
+    url: "//images.ctfassets.net/jxa4vq5tep60/1InvVak8YweCiEu4Wa82Oo/0c860bf35429aecf32704ca5acc094be/Mody.jpg"
+  email: namita.mody@dc.gov
+  linked_in: https://www.linkedin.com/in/namitamody
+  is_alum: false

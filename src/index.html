@@ -85,12 +85,12 @@ custom_js:
   <a id="team"></a>
   <h1 class="gallery__title">Team</h1>
   <div class="gallery__content">
-    {% assign team = site.data.people.people | sort: "lastName" %}
+    {% assign team = site.data.people.people | sort: "last_name" %}
     {% for i in team %}
-    {% unless i.isAlum %}
-    <a href="./{{i.firstName | slugify}}.html" class="gallery-item" style="background-image: url('{{i.profileImage.url}}')">
+    {% unless i.is_alum %}
+    <a href="./{{i.first_name | slugify}}.html" class="gallery-item" style="background-image: url('{{i.profile_image.url}}')">
       <div class="gallery-item__info">
-        <h4>{{i.firstName}} {{i.lastName}}</h4>
+        <h4>{{i.first_name}} {{i.last_name}}</h4>
         <p>{{i.title}} &nbsp;</p>
       </div>
     </a>
