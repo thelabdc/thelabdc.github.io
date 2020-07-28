@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - source
+  repository_dispatch:
+    types:
+      - contentful_push
 
 jobs:
   build-and-deploy:
