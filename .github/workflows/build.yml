@@ -17,15 +17,15 @@ jobs:
       - name: Setup Ruby
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.4.4'
+          ruby-version: '2.4'
 
       - name: Pull cache if available
         uses: actions/cache@v2
         with:
           path: vendor/bundle
-          key: bundle-use-ruby-2.4.4-${{ hashFiles('**/Gemfile.lock') }}
+          key: bundle-use-ruby-2.4-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
-            bundle-use-ruby-2.4.4-
+            bundle-use-ruby-2.4-
 
       - name: bundle install
         run: |
