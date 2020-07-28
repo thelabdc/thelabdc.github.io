@@ -3,19 +3,19 @@ jobPostings:
 - sys:
     id: 7z6H8GdzLq0w8Qs2OwGWGe
     created_at: !ruby/object:DateTime 2017-03-19 21:36:46.696000000 Z
-    updated_at: !ruby/object:DateTime 2018-08-30 15:32:10.548000000 Z
+    updated_at: !ruby/object:DateTime 2019-10-18 21:22:49.666000000 Z
     content_type_id: jobPostings
-    revision: 10
+    revision: 18
   job_title: Social Scientist
   job_type: Social Science
-  short_description: 'You have deep knowledge of a social science field as well as
-    technical expertise related to experimental design and analyses. You''re passionate
+  short_description: "You have deep knowledge of a social science field as well as
+    technical expertise related to experimental design and analyses. You're passionate
     about developing insights from the research literature into policy and program
     designs that improve lives; generating new ideas, theories, and products based
     on empirical tests that determine what works best; and, in general, always pushing
     to use what we know about people and societies to improve the world. You want
-    to be a leader in defining what it means for government to run on experiments.  '
-  application_url: http://thelabatdc.squarespace.com/connect/
+    to be a leader in defining what it means for government to run on experiments.
+    \ \n"
   job_image:
     sys:
       id: 2vJEL6TgJaKGiw84AoEYk8
@@ -27,17 +27,17 @@ jobPostings:
 - sys:
     id: 6ost8zhGlaGEQyCoyiE6oE
     created_at: !ruby/object:DateTime 2017-03-19 21:38:26.400000000 Z
-    updated_at: !ruby/object:DateTime 2018-08-30 15:32:18.443000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-27 18:50:56.908000000 Z
     content_type_id: jobPostings
-    revision: 8
+    revision: 16
   job_title: Data Scientist
   job_type: Data Science
-  short_description: You have advanced skill-sets in programming, statistics, and
-    scientific communication. You're passionate about generating actionable insights
-    from data; conveying those insights to others in compelling graphical, numerical,
-    and narrative forms;  and, in general, always pushing to learn and do more with
-    data to serve individuals and committees. You want to be leader in defining what
-    it means for government to run on data.
+  short_description: |+
+    You can use your expertise in machine learning and causal inference to make a positive, lasting difference for DC residents. Working within the Executive Office of the Mayor of the District of Columbia, you will use insights from large administrative datasets to affect a variety of policy decisions in areas like public safety, economic security, housing and homelessness, public health, and education. The Lab has the relationships and access to data in each of these policy areas to support this important work. Your contributions will directly inform decisions at the highest levels of DC government and allow you to see your impact on DC residents.
+
+    In short, you’ll do rigorous data  science that makes a difference for those that need it most.
+
+
   application_url: http://thelabatdc.squarespace.com/connect/
   job_image:
     sys:
