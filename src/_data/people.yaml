@@ -1607,3 +1607,36 @@ people:
   email: amanda.hermans@dc.gov
   linked_in: https://www.linkedin.com/in/amanda-hermans-918077135/
   is_alum: false
+- sys:
+    id: 4zzj1p3ncadnGxdQCGTdkb
+    created_at: !ruby/object:DateTime 2021-02-09 22:58:38.822000000 Z
+    updated_at: !ruby/object:DateTime 2021-02-09 22:58:38.822000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Aimee
+  last_name: Breaux
+  degrees:
+  - BS
+  title:
+  - Research Assistant
+  bio: "Aimee is a Research Assistant at The Lab @ DC and a graduate student at American
+    University, where she studies criminology. \n\nPrior to joining The Lab @ DC,
+    Aimee reported on education issues for newspapers in Iowa and Texas. As a education
+    reporter, Aimee wrote about persistent academic disparities, an increasing police
+    presence in schools, sexual harassment on campuses and the 2019 Iowa caucuses.
+    In her free time prior to graduate school, she volunteered as an advocate for
+    survivors of sexual assault. Her research interests include the school-to-prison
+    pipeline and policies surrounding reentry. \n\nAimee received her B.S. in Applied
+    Mathematical Sciences at Texas A&M University, where she served as editor-in-chief
+    of her campus newspaper. \n"
+  profile_image:
+    sys:
+      id: 7uHsSaw12M7g5Xk7xWfPIt
+      created_at: !ruby/object:DateTime 2021-02-09 22:58:03.715000000 Z
+      updated_at: !ruby/object:DateTime 2021-02-09 23:00:04.882000000 Z
+    title: Aimee
+    description:
+    url: "//images.ctfassets.net/jxa4vq5tep60/7uHsSaw12M7g5Xk7xWfPIt/a1b13701eb3ed6ae78f92b01f854e335/Breaux_-_Formal_photo.jpg"
+  email: aimee.breaux@dc.gov
+  linked_in: https://www.linkedin.com/in/aimee-breaux-301988105/
+  is_alum: false
