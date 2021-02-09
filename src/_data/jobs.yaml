@@ -22,7 +22,7 @@ jobPostings:
       created_at: !ruby/object:DateTime 2017-05-19 01:52:23.730000000 Z
       updated_at: !ruby/object:DateTime 2017-05-19 01:52:23.730000000 Z
     title: Senior Social Scientist Jop Posting
-    description: 
+    description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2vJEL6TgJaKGiw84AoEYk8/5276e8650af147a14f56e5981121db8b/syd-wachs-120737.jpg"
 - sys:
     id: 6ost8zhGlaGEQyCoyiE6oE
@@ -45,7 +45,7 @@ jobPostings:
       created_at: !ruby/object:DateTime 2017-05-19 01:51:27.976000000 Z
       updated_at: !ruby/object:DateTime 2017-05-19 01:51:27.976000000 Z
     title: Senior Data Scientist Job Posting
-    description: 
+    description:
     url: "//images.ctfassets.net/jxa4vq5tep60/6px0EdtYFqQ64mUgqW40mY/aeda91c4952a5729b9365463056c27d2/sai-kiran-anagani-61187.jpg"
 - sys:
     id: 6HmLT6Bo3Yya2SWqQk84GE
@@ -68,5 +68,6 @@ jobPostings:
       created_at: !ruby/object:DateTime 2017-05-19 01:50:47.480000000 Z
       updated_at: !ruby/object:DateTime 2017-05-19 01:50:47.480000000 Z
     title: Senior Ops Analyst Job Posting
-    description: 
+    description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2ebspMkr1eKeU84yqYw8qA/ea1c7c7fa2efd7a74b4ae9ce6fb0295e/oli-dale-139167.jpg"
+...
