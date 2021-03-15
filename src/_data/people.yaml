@@ -1640,3 +1640,45 @@ people:
   email: aimee.breaux@dc.gov
   linked_in: https://www.linkedin.com/in/aimee-breaux-301988105/
   is_alum: false
+- sys:
+    id: 5xdcaJtl0oTXg3qIYmRMSA
+    created_at: !ruby/object:DateTime 2021-03-15 21:55:20.060000000 Z
+    updated_at: !ruby/object:DateTime 2021-03-15 22:10:20.107000000 Z
+    content_type_id: people
+    revision: 2
+  first_name: Renzo (Ren)
+  last_name: Massari
+  degrees:
+  - Ph.D
+  title:
+  - Senior Data Scientist Manager
+  bio: "Ren is the Senior Data Scientist Manager of The Lab @ DC, where they and their
+    team try to bring together data science, statistics, and social science to serve
+    the District’s residents in a data-driven manner through impact evaluation and
+    predictive modeling. \n\nRen joined the Lab in March 2020. Prior to joining The
+    Lab @ DC, they worked in statistical research and analysis, and in machine learning
+    for international development organizations (World Bank and Inter American Development
+    Bank) and for private companies in the field of labor equity. In this process,
+    they have acquired expertise in small area estimation methods, complex survey
+    analysis, imputation methods, impact evaluation, machine learning, and data science
+    more generally. And statistics, statistics, statistics.\n\nRen holds a PhD in
+    Economics from Duke University. They have been living in the District since 2006
+    with their partner and (since much more recently!) with their kid. When not at
+    work, Ren can be found running or practicing yoga or walking endlessly (especially
+    on mountainsides); watching movies filmed decades ago in grainy black-and-white
+    and with subtitles; reading “serious” and “genre” fiction, and history, politics,
+    and astronomy in non-fiction. Their truly guilty pleasures are having maths and
+    statistics as hobbies; and mastering role-playing game systems they will never
+    have time to play. Ren dreams that, one day, they’ll be fully Bayesian, possibly
+    live on Mars, or be fully Bayesian while living on Mars.\n"
+  profile_image:
+    sys:
+      id: 7cmDTpYgdCJ6PiS0YH2bx4
+      created_at: !ruby/object:DateTime 2021-03-15 22:10:11.751000000 Z
+      updated_at: !ruby/object:DateTime 2021-03-15 22:10:11.751000000 Z
+    title: lab_north_grey
+    description:
+    url: "//images.ctfassets.net/jxa4vq5tep60/7cmDTpYgdCJ6PiS0YH2bx4/288245ec188a57c6c03e5743be0af6da/North-grey.png"
+  email: renzo.massari@dc.gov
+  linked_in: https://www.linkedin.com/in/renzomassari/
+  is_alum: false
