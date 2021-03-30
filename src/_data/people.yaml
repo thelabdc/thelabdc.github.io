@@ -1675,10 +1675,10 @@ people:
     sys:
       id: 7cmDTpYgdCJ6PiS0YH2bx4
       created_at: !ruby/object:DateTime 2021-03-15 22:10:11.751000000 Z
-      updated_at: !ruby/object:DateTime 2021-03-30 20:44:04.965000000 Z
+      updated_at: !ruby/object:DateTime 2021-03-30 21:22:50.624000000 Z
     title: renzo_headshot
     description:
-    url: "//images.ctfassets.net/jxa4vq5tep60/7cmDTpYgdCJ6PiS0YH2bx4/03df30432d74ab7a1ee1943c88828d9a/PXL_20210330_191056250.PORTRAIT.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/7cmDTpYgdCJ6PiS0YH2bx4/72656775d567d49ff6bdfb191107339f/PXL_20210330_191056250.PORTRAIT.jpg"
   email: renzo.massari@dc.gov
   linked_in: https://www.linkedin.com/in/renzomassari/
   is_alum: false
