@@ -1643,9 +1643,9 @@ people:
 - sys:
     id: 5xdcaJtl0oTXg3qIYmRMSA
     created_at: !ruby/object:DateTime 2021-03-15 21:55:20.060000000 Z
-    updated_at: !ruby/object:DateTime 2021-03-15 22:10:20.107000000 Z
+    updated_at: !ruby/object:DateTime 2021-06-01 13:54:15.384000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Renzo (Ren)
   last_name: Massari
   degrees:
@@ -1673,12 +1673,12 @@ people:
     live on Mars, or be fully Bayesian while living on Mars.\n"
   profile_image:
     sys:
-      id: 7cmDTpYgdCJ6PiS0YH2bx4
-      created_at: !ruby/object:DateTime 2021-03-15 22:10:11.751000000 Z
-      updated_at: !ruby/object:DateTime 2021-03-30 21:22:50.624000000 Z
-    title: renzo_headshot
+      id: 7tYS7uGdTqUiqksOOS5zTt
+      created_at: !ruby/object:DateTime 2021-06-01 12:51:15.682000000 Z
+      updated_at: !ruby/object:DateTime 2021-06-01 13:48:46.513000000 Z
+    title: ren_new_headshot
     description:
-    url: "//images.ctfassets.net/jxa4vq5tep60/7cmDTpYgdCJ6PiS0YH2bx4/72656775d567d49ff6bdfb191107339f/PXL_20210330_191056250.PORTRAIT.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/7tYS7uGdTqUiqksOOS5zTt/39a3533facc778e05ee557cd2e6e7c61/PXL_20210519_204440455.PORTRAIT.jpg"
   email: renzo.massari@dc.gov
   linked_in: https://www.linkedin.com/in/renzomassari/
   is_alum: false
