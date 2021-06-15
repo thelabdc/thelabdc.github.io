@@ -1682,3 +1682,37 @@ people:
   email: renzo.massari@dc.gov
   linked_in: https://www.linkedin.com/in/renzomassari/
   is_alum: false
+- sys:
+    id: 6xk1x8mIkA0VmuyDwJ1cQ9
+    created_at: !ruby/object:DateTime 2021-06-15 16:04:31.646000000 Z
+    updated_at: !ruby/object:DateTime 2021-06-15 16:04:31.646000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Emma
+  last_name: Vinella-Brusher
+  degrees:
+  - BA
+  title:
+  - Research Intern
+  bio: "Emma Vinella-Brusher is a Research Intern at The Lab @ DC and a graduate student
+    at The University of North Carolina at Chapel Hill, where she studies City & Regional
+    Planning and Public Health. She is particularly interested in how transportation
+    can improve health and well-being by providing equitable, multi-modal access to
+    food, healthcare, greenspace, and other resources. \n\nPrior to joining The Lab
+    @ DC, Emma worked for the U.S. Department of Transportation Volpe Center in Cambridge,
+    MA, where she co-founded the Transportation Equity Program and worked on projects
+    related to public lands, disaster recovery, accessibility, and more. \n\nEmma
+    received her B.A. in Environmental Studies at Carleton College, where she ran
+    track and led sustainability and hunger initiatives. In her free time, Emma enjoys
+    running, biking, live music, and gardening.\n"
+  profile_image:
+    sys:
+      id: 11MlMf96BzPvy870fmTfcW
+      created_at: !ruby/object:DateTime 2021-06-15 16:04:19.051000000 Z
+      updated_at: !ruby/object:DateTime 2021-06-15 16:04:19.051000000 Z
+    title: Vinella-Brusher - Headshot
+    description:
+    url: "//images.ctfassets.net/jxa4vq5tep60/11MlMf96BzPvy870fmTfcW/43a74e62a429b237e2332b025d06c255/Vinella-Brusher_-_Headshot.jpg"
+  email: emma.vinella-brusher@dc.gov
+  linked_in: https://www.linkedin.com/in/evinella/
+  is_alum: false
