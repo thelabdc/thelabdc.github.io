@@ -1685,9 +1685,9 @@ people:
 - sys:
     id: 6xk1x8mIkA0VmuyDwJ1cQ9
     created_at: !ruby/object:DateTime 2021-06-15 16:04:31.646000000 Z
-    updated_at: !ruby/object:DateTime 2021-06-15 16:04:31.646000000 Z
+    updated_at: !ruby/object:DateTime 2021-06-15 17:17:36.441000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Emma
   last_name: Vinella-Brusher
   degrees:
@@ -1709,10 +1709,10 @@ people:
     sys:
       id: 11MlMf96BzPvy870fmTfcW
       created_at: !ruby/object:DateTime 2021-06-15 16:04:19.051000000 Z
-      updated_at: !ruby/object:DateTime 2021-06-15 16:04:19.051000000 Z
+      updated_at: !ruby/object:DateTime 2021-06-15 17:17:24.790000000 Z
     title: Vinella-Brusher - Headshot
     description:
-    url: "//images.ctfassets.net/jxa4vq5tep60/11MlMf96BzPvy870fmTfcW/43a74e62a429b237e2332b025d06c255/Vinella-Brusher_-_Headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/11MlMf96BzPvy870fmTfcW/c3addb6b510bd064ec871bc80ae93028/Vinella-Brusher_-_Headshot.jpg"
   email: emma.vinella-brusher@dc.gov
   linked_in: https://www.linkedin.com/in/evinella/
   is_alum: false
