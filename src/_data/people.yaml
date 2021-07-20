@@ -1643,9 +1643,9 @@ people:
 - sys:
     id: 5xdcaJtl0oTXg3qIYmRMSA
     created_at: !ruby/object:DateTime 2021-03-15 21:55:20.060000000 Z
-    updated_at: !ruby/object:DateTime 2021-07-20 15:43:31.857000000 Z
+    updated_at: !ruby/object:DateTime 2021-07-20 15:55:41.519000000 Z
     content_type_id: people
-    revision: 4
+    revision: 6
   first_name: Renzo (Ren)
   last_name: Massari
   degrees:
@@ -1675,10 +1675,10 @@ people:
     sys:
       id: 7tYS7uGdTqUiqksOOS5zTt
       created_at: !ruby/object:DateTime 2021-06-01 12:51:15.682000000 Z
-      updated_at: !ruby/object:DateTime 2021-07-20 15:43:13.007000000 Z
+      updated_at: !ruby/object:DateTime 2021-07-20 15:55:33.644000000 Z
     title: ren_new_headshot
     description:
-    url: "//images.ctfassets.net/jxa4vq5tep60/7tYS7uGdTqUiqksOOS5zTt/5142a10777511ee50af3e79e93610790/IMG_0007.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/7tYS7uGdTqUiqksOOS5zTt/f2cd0babffc46f960eaaadfa3f08688d/IMG_0007.jpg"
   email: renzo.massari@dc.gov
   linked_in: https://www.linkedin.com/in/renzomassari/
   is_alum: false
