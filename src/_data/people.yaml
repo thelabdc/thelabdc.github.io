@@ -1643,9 +1643,9 @@ people:
 - sys:
     id: 5xdcaJtl0oTXg3qIYmRMSA
     created_at: !ruby/object:DateTime 2021-03-15 21:55:20.060000000 Z
-    updated_at: !ruby/object:DateTime 2021-06-01 13:54:15.384000000 Z
+    updated_at: !ruby/object:DateTime 2021-07-20 15:43:31.857000000 Z
     content_type_id: people
-    revision: 3
+    revision: 4
   first_name: Renzo (Ren)
   last_name: Massari
   degrees:
@@ -1675,10 +1675,10 @@ people:
     sys:
       id: 7tYS7uGdTqUiqksOOS5zTt
       created_at: !ruby/object:DateTime 2021-06-01 12:51:15.682000000 Z
-      updated_at: !ruby/object:DateTime 2021-06-01 13:48:46.513000000 Z
+      updated_at: !ruby/object:DateTime 2021-07-20 15:43:13.007000000 Z
     title: ren_new_headshot
     description:
-    url: "//images.ctfassets.net/jxa4vq5tep60/7tYS7uGdTqUiqksOOS5zTt/39a3533facc778e05ee557cd2e6e7c61/PXL_20210519_204440455.PORTRAIT.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/7tYS7uGdTqUiqksOOS5zTt/5142a10777511ee50af3e79e93610790/IMG_0007.jpg"
   email: renzo.massari@dc.gov
   linked_in: https://www.linkedin.com/in/renzomassari/
   is_alum: false
@@ -1715,4 +1715,43 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/11MlMf96BzPvy870fmTfcW/c3addb6b510bd064ec871bc80ae93028/Vinella-Brusher_-_Headshot.jpg"
   email: emma.vinella-brusher@dc.gov
   linked_in: https://www.linkedin.com/in/evinella/
+  is_alum: false
+- sys:
+    id: 6PsQm94YX6v9IEkKnIT2qs
+    created_at: !ruby/object:DateTime 2021-07-20 15:31:31.014000000 Z
+    updated_at: !ruby/object:DateTime 2021-07-20 15:42:26.179000000 Z
+    content_type_id: people
+    revision: 2
+  first_name: Sylvie
+  last_name: Abookire
+  degrees:
+  - MPH
+  title:
+  - Civic Design Researcher
+  bio: "Sylvie is a Civic Design Researcher in The Lab @ DC. She is working to make
+    DC a safer, healthier, and happier place to live, work, and play through resident-centered
+    design. Some of her current projects are focused on gun violence, risky driving,
+    and racial equity. \n\nPrior to joining the Lab, Sylvie was an Independent Consultant
+    specializing in Design Research, Process Optimization, and Innovation Education.
+    She has also served as Director of Systems & Operations at Onboard Health, an
+    Innovation Strategist at the Children’s Hospital of Philadelphia, and a Home-Based
+    Family Therapy Provider at North Suffolk Mental Health Association. In these roles
+    she applied her passions for systems thinking, public health, and service-oriented
+    creativity to improve quality of life and wellbeing for people and populations,
+    primarily in health and health-influencing environments.\n\nSylvie holds a BS
+    in Cognitive Science from Tufts University and a Master of Public Health from
+    Thomas Jefferson University. A new resident of DC, she is living in and exploring
+    Ward 1. In her spare time, she can most often be found rock climbing, hiking,
+    crocheting a scarf, or trying to convince someone to play a board game (Catan
+    anyone?)."
+  profile_image:
+    sys:
+      id: 4e140Vszq3kMOmMarhJQgE
+      created_at: !ruby/object:DateTime 2021-07-20 15:31:21.810000000 Z
+      updated_at: !ruby/object:DateTime 2021-07-20 15:42:02.305000000 Z
+    title: sylvie
+    description:
+    url: "//images.ctfassets.net/jxa4vq5tep60/4e140Vszq3kMOmMarhJQgE/6abab3850596c20a32bc0117be2ecac4/sylvie_headshot.jpg"
+  email: sylvie.abookire@dc.gov
+  linked_in: https://www.linkedin.com/in/sylvieabookire/
   is_alum: false
