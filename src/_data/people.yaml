@@ -1043,9 +1043,9 @@ people:
 - sys:
     id: 3TxagY1IA4wFseuuiqv8ej
     created_at: !ruby/object:DateTime 2019-03-19 22:45:46.427000000 Z
-    updated_at: !ruby/object:DateTime 2019-03-19 22:45:46.427000000 Z
+    updated_at: !ruby/object:DateTime 2021-07-28 17:15:47.248000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Nat
   last_name: Mammo
   degrees:
@@ -1067,7 +1067,7 @@ people:
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2bbMFtjRo8SGNNnyapFC05/170dc552155b2475ae7a603cb88e7af9/Nat_Headshot.jpeg"
   email: nat.mammo@dc.gov
-  is_alum: false
+  is_alum: true
 - sys:
     id: 1Cm8NoFLlAbC71x06irSPk
     created_at: !ruby/object:DateTime 2019-06-20 21:52:34.490000000 Z
