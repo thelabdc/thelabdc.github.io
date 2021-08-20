@@ -450,11 +450,11 @@ people:
 - sys:
     id: 4yQLcOX0hWYGycWcQGGoYc
     created_at: !ruby/object:DateTime 2017-03-14 21:20:29.616000000 Z
-    updated_at: !ruby/object:DateTime 2021-01-28 22:44:40.038000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:53:24.547000000 Z
     content_type_id: people
-    revision: 9
+    revision: 10
   first_name: Anita
-  last_name: Ravishankar
+  last_name: Ravishankar (Alumni Volunteer)
   degrees:
   - ABD
   title:
@@ -1043,21 +1043,21 @@ people:
 - sys:
     id: 3TxagY1IA4wFseuuiqv8ej
     created_at: !ruby/object:DateTime 2019-03-19 22:45:46.427000000 Z
-    updated_at: !ruby/object:DateTime 2021-07-28 17:15:47.248000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:52:08.259000000 Z
     content_type_id: people
-    revision: 2
+    revision: 6
   first_name: Nat
   last_name: Mammo
   degrees:
   - MS
   title:
-  - Data Scientist
+  - Data Scientist (Alumni Volunteer)
   bio: |-
-    Nat Mammo is a Data Scientist at The Lab @ DC.
+    Nat Mammo is a volunteer Data Scientist with The Lab @ DC. Nat is currently a Data Scientist with the Consumer Financial Protection Bureau (CFPB).
 
-    Prior to joining The Lab, Nat worked as an Applied Data Scientist at Civis Analytics. In this role, he used predictive models to guide FEMA’s strategy in persuading more homeowners to invest in flood insurance. In addition, he has worked with a State Treasurer’s Office to design outreach strategies that would encourage more residents to open a college savings account. Nat also used predictive models to help major political campaigns identify targets for outreach and persuasion. Previously, he was the research manager at the Greater Washington Partnership, working on initiatives to improve the region’s competitiveness particularly in transportation and workforce development. During this time, he used spatial tools to measure how well the region’s transportation system served local residents.
+    Prior to joining CFPB, Nat worked as a Data Scientist with The Lab and as an Applied Data Scientist at Civis Analytics. While at The Lab, Nat worked on several projects that included randomized evaluations, predictive modeling, and exploratory data analysis, with a particular focus on housing, homelessness, and education. At Civis Analytics, he used predictive models to guide FEMA’s strategy in persuading more homeowners to invest in flood insurance. In addition, he has worked with a State Treasurer’s Office to design outreach strategies that would encourage more residents to open a college savings account. Nat also used predictive models to help major political campaigns identify targets for outreach and persuasion.
 
-    Nat graduated with an M.S. in Computational Analysis and Public Policy from the University of Chicago and a B.S. in Economics from the University of Pennsylvania. While pursuing his master’s degree, Nat worked at the Crime Lab in New York as a data science research assistant. He was also a Teach For America corps member in DC, teaching high school math. After having lived and taught in Ward 1, he is now a Ward 5 resident along with his brother.
+    Nat graduated with an M.S. in Computational Analysis and Public Policy from the University of Chicago and a B.S. in Economics from the University of Pennsylvania. While pursuing his master’s degree, Nat worked at the Crime Lab in New York as a data science research assistant. He was also a Teach For America corps member in DC, teaching high school math.
   profile_image:
     sys:
       id: 2bbMFtjRo8SGNNnyapFC05
@@ -1067,7 +1067,7 @@ people:
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2bbMFtjRo8SGNNnyapFC05/170dc552155b2475ae7a603cb88e7af9/Nat_Headshot.jpeg"
   email: nat.mammo@dc.gov
-  is_alum: true
+  is_alum: false
 - sys:
     id: 1Cm8NoFLlAbC71x06irSPk
     created_at: !ruby/object:DateTime 2019-06-20 21:52:34.490000000 Z
@@ -1214,11 +1214,11 @@ people:
 - sys:
     id: 544ClihYofoMLYazGDYcAV
     created_at: !ruby/object:DateTime 2019-08-01 13:48:02.803000000 Z
-    updated_at: !ruby/object:DateTime 2021-01-28 22:49:12.544000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:53:49.409000000 Z
     content_type_id: people
-    revision: 4
+    revision: 5
   first_name: Felix
-  last_name: Owusu
+  last_name: Owusu (Alumni Volunteer)
   degrees:
   - MPP
   title:
@@ -1547,9 +1547,9 @@ people:
 - sys:
     id: 2OaBJlWG7L7eMfe2VJKLQ
     created_at: !ruby/object:DateTime 2021-02-05 14:41:56.759000000 Z
-    updated_at: !ruby/object:DateTime 2021-02-05 14:41:56.759000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:52:50.838000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Jacob
   last_name: Henkels
   degrees:
@@ -1577,7 +1577,7 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/1nFSWxfUTla6XgMhdjbxW0/a9699e7c0df2b1fc6012ea164832face/Henkels_-_Formal_Photo.jpg"
   email: jacob.henkels@dc.gov
   linked_in: https://www.linkedin.com/in/jacob-henkels-2619b7149/
-  is_alum: false
+  is_alum: true
 - sys:
     id: muFdvHAzwN7EVVE8ELocw
     created_at: !ruby/object:DateTime 2021-02-05 14:53:06.173000000 Z
@@ -1610,9 +1610,9 @@ people:
 - sys:
     id: 4zzj1p3ncadnGxdQCGTdkb
     created_at: !ruby/object:DateTime 2021-02-09 22:58:38.822000000 Z
-    updated_at: !ruby/object:DateTime 2021-02-09 22:58:38.822000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:52:43.909000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Aimee
   last_name: Breaux
   degrees:
@@ -1639,7 +1639,7 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/7uHsSaw12M7g5Xk7xWfPIt/47273481d2eae17157123f39828951fe/Breaux_-_Formal_photo.jpg"
   email: aimee.breaux@dc.gov
   linked_in: https://www.linkedin.com/in/aimee-breaux-301988105/
-  is_alum: false
+  is_alum: true
 - sys:
     id: 5xdcaJtl0oTXg3qIYmRMSA
     created_at: !ruby/object:DateTime 2021-03-15 21:55:20.060000000 Z
@@ -1685,9 +1685,9 @@ people:
 - sys:
     id: 6xk1x8mIkA0VmuyDwJ1cQ9
     created_at: !ruby/object:DateTime 2021-06-15 16:04:31.646000000 Z
-    updated_at: !ruby/object:DateTime 2021-06-15 17:17:36.441000000 Z
+    updated_at: !ruby/object:DateTime 2021-08-20 19:52:23.787000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Emma
   last_name: Vinella-Brusher
   degrees:
@@ -1715,7 +1715,7 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/11MlMf96BzPvy870fmTfcW/c3addb6b510bd064ec871bc80ae93028/Vinella-Brusher_-_Headshot.jpg"
   email: emma.vinella-brusher@dc.gov
   linked_in: https://www.linkedin.com/in/evinella/
-  is_alum: false
+  is_alum: true
 - sys:
     id: 6PsQm94YX6v9IEkKnIT2qs
     created_at: !ruby/object:DateTime 2021-07-20 15:31:31.014000000 Z
