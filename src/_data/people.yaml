@@ -450,15 +450,15 @@ people:
 - sys:
     id: 4yQLcOX0hWYGycWcQGGoYc
     created_at: !ruby/object:DateTime 2017-03-14 21:20:29.616000000 Z
-    updated_at: !ruby/object:DateTime 2021-08-20 19:53:24.547000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:01:00.640000000 Z
     content_type_id: people
-    revision: 10
+    revision: 12
   first_name: Anita
-  last_name: Ravishankar (Alumni Volunteer)
+  last_name: 'Ravishankar '
   degrees:
   - ABD
   title:
-  - Senior Fellow
+  - Senior Fellow (Alumni Fellow)
   bio: "Anita is a Senior Fellow at The Lab @ DC. She also serves as a research scientist
     on the Metropolitan Police Department (MPD) team. In this capacity, she manages
     several research initiatives for MPD, including the evaluation of a new training
@@ -1043,15 +1043,15 @@ people:
 - sys:
     id: 3TxagY1IA4wFseuuiqv8ej
     created_at: !ruby/object:DateTime 2019-03-19 22:45:46.427000000 Z
-    updated_at: !ruby/object:DateTime 2021-08-20 19:52:08.259000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 14:56:53.686000000 Z
     content_type_id: people
-    revision: 6
+    revision: 7
   first_name: Nat
   last_name: Mammo
   degrees:
   - MS
   title:
-  - Data Scientist (Alumni Volunteer)
+  - Data Scientist (Alumni Fellow)
   bio: |-
     Nat Mammo is a volunteer Data Scientist with The Lab @ DC. Nat is currently a Data Scientist with the Consumer Financial Protection Bureau (CFPB).
 
@@ -1214,17 +1214,17 @@ people:
 - sys:
     id: 544ClihYofoMLYazGDYcAV
     created_at: !ruby/object:DateTime 2019-08-01 13:48:02.803000000 Z
-    updated_at: !ruby/object:DateTime 2021-08-20 19:53:49.409000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:02:13.610000000 Z
     content_type_id: people
-    revision: 5
+    revision: 8
   first_name: Felix
-  last_name: Owusu (Alumni Volunteer)
+  last_name: 'Owusu '
   degrees:
   - MPP
   title:
-  - Fellow
+  - Fellow (Alumni Fellow)
   bio: |-
-    Felix Owusu was a Fellow at The Lab @ DC as well as a Data Scientist at the Metropolitan Police Department (MPD). In this capacity, Felix worked to develop MPD’s work in research, policy evaluation, and innovation.
+    Felix Owusu is a volunteer with The Lab @ DC. He was formerly a Data Scientist at the Metropolitan Police Department (MPD) and a fellow with The Lab. In this capacity, Felix worked to develop MPD’s work in research, policy evaluation, and innovation.
 
     Felix is also a doctoral candidate in Public Policy at the Harvard Kennedy School of Government, a Research Fellow at Harvard Law School’s Criminal Justice Policy Program, and a Doctoral Fellow in the Multidisciplinary Program in Inequality and Social Policy at Harvard University. His research agenda focuses on the relationships between criminal justice involvement, education, and labor market outcomes across race and class.
 
@@ -1238,7 +1238,7 @@ people:
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/3GtzQ47SgEYkrUzolUHmU3/6027bc17c2431d16c4f3da38508da631/Felix_Owusu.jpeg"
   linked_in: https://www.linkedin.com/in/felix-owusu-0629/
-  is_alum: true
+  is_alum: false
 - sys:
     id: 462Q23sm7Dt7mdgEei72aJ
     created_at: !ruby/object:DateTime 2019-08-01 13:53:08.522000000 Z
@@ -1444,17 +1444,17 @@ people:
 - sys:
     id: qpkTcQD3bpg3YsXVqtELw
     created_at: !ruby/object:DateTime 2020-03-02 04:14:27.921000000 Z
-    updated_at: !ruby/object:DateTime 2020-03-04 15:52:06.986000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 14:56:38.964000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Maria
-  last_name: Alva
+  last_name: 'Alva '
   degrees:
   - DPhil
   title:
-  - Senior Social Scientist
+  - Senior Social Scientist (Alumni Fellow)
   bio: |-
-    Maria is a Senior Social Scientist in The Lab @ DC. She is also a Research Professor at the Massive Data Institute at Georgetown University’s McCourt School of Public Policy where she works on evaluations related to health care innovations.
+    Maria is a volunteer with The Lab @ DC and a Research Professor at the Massive Data Institute at Georgetown University’s McCourt School of Public Policy where she works on evaluations related to health care innovations. Maria was formerly a Senior Social Scientist with The Lab @ DC.
 
     Maria started her career in health economics at the University of Oxford, where her research focused on economic analyses of the United Kingdom Prospective Diabetes Study—a landmark trial of policies to improve type 2 diabetes management.
 
@@ -1754,4 +1754,66 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/4e140Vszq3kMOmMarhJQgE/6abab3850596c20a32bc0117be2ecac4/sylvie_headshot.jpg"
   email: sylvie.abookire@dc.gov
   linked_in: https://www.linkedin.com/in/sylvieabookire/
+  is_alum: false
+- sys:
+    id: 4FwmToySZy7FcRIrEO8rrA
+    created_at: !ruby/object:DateTime 2021-10-04 14:47:52.244000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:00:46.682000000 Z
+    content_type_id: people
+    revision: 3
+  first_name: Danielle
+  last_name: Corcoran
+  degrees:
+  - MA
+  title:
+  - Research Assistant
+  bio: |-
+    Danielle is a Research Assistant in The Lab @ DC and a graduate student in data science at American University, where she focuses on putting data to use for the public good.
+
+    Prior to joining The Lab, Danielle worked at the International Rescue Committee, where she coordinated a post-arrival educational program for refugees while contributing to projects related to food security and COVID-19 vaccine access. Prior to that, she provided career-development services at Saint Vincent de Paul of Baltimore to participants in a rapid-rehousing program. In addition to her nonprofit work, Danielle has been a journalist and a teacher.
+
+    Danielle holds a Bachelor’s degree in Japanese, Asian studies, political science, and international relations from the University of Wisconsin, as well as a Master’s degree in anthropology from the University of Michigan. When she is not working, she is usually planning her next hiking trip, dabbling in a new language, or perusing the Little Free Libraries in her Ward 6 neighborhood.
+  profile_image:
+    sys:
+      id: 60fDBsBI4LTjI9MaKPQaZ2
+      created_at: !ruby/object:DateTime 2021-10-04 15:00:19.086000000 Z
+      updated_at: !ruby/object:DateTime 2021-10-04 15:00:19.086000000 Z
+    title: danielle headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/60fDBsBI4LTjI9MaKPQaZ2/1bef82f44d0a2260d2314198576bd993/IMG_6754.JPG"
+  email: danielle.corcoran@dc.gov
+  is_alum: false
+- sys:
+    id: 5AbcZ1MWcMcbkbxeSRk9yu
+    created_at: !ruby/object:DateTime 2021-10-04 14:49:39.446000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 14:49:39.446000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Spencer
+  last_name: Wagner
+  degrees:
+  - BA
+  title:
+  - Research Assistant
+  bio: "Spencer is a Research Assistant in The Lab @ DC and a Masters of Public Administration
+    candidate at American University. His work at The Lab includes analyzing the District’s
+    housing assistance programs and providing support to various policy evaluations.
+    \n\nPrior to joining The Lab, Spencer served as a Senior Specialist in Local Democracy
+    at the National League of Cities. His portfolio included assisting municipalities
+    with the 2020 Census, researching state preemption of local actions, and studying
+    municipal finance. His publications include several NLC reports and an article
+    in the State and Local Government Review examining the impact of COVID-19 on local
+    governance. \n\nSpencer received a B.A. in Political Science & Policy Studies
+    from Elon University. When he’s not studying or working, Spencer enjoys exploring
+    the District from his neighborhood in Ward 6. He especially enjoys reading, running,
+    biking, and hanging out in Rock Creek Park. \n"
+  profile_image:
+    sys:
+      id: 5GyKwNYf63b00arjNjcqp0
+      created_at: !ruby/object:DateTime 2021-10-04 14:49:14.778000000 Z
+      updated_at: !ruby/object:DateTime 2021-10-04 14:49:14.778000000 Z
+    title: spencer headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/5GyKwNYf63b00arjNjcqp0/e4b868914f044d0c8a87aa1fe73771bb/spencer_wagner_headshot.jpg"
+  email: spencer.wagner@dc.gov
   is_alum: false
