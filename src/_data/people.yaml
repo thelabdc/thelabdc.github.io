@@ -41,16 +41,16 @@ people:
 - sys:
     id: 9u45ZvFE2s8WWGsAe2AiM
     created_at: !ruby/object:DateTime 2017-03-14 20:28:29.800000000 Z
-    updated_at: !ruby/object:DateTime 2018-04-17 21:42:14.656000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:19:31.324000000 Z
     content_type_id: people
-    revision: 7
+    revision: 8
   first_name: Donald
   last_name: Braman
   degrees:
   - Ph.D.
   - J.D.
   title:
-  - Senior Social Scientist
+  - Senior Social Scientist (Alumni Fellow)
   bio: "Don is a Senior Social Scientist in The Lab @ DC. He is also an Associate
     Professor of Law at The George Washington Law School and a member of the District
     of Columbia Criminal Code Reform Commission.  Don conducts research on criminal
@@ -1758,9 +1758,9 @@ people:
 - sys:
     id: 4FwmToySZy7FcRIrEO8rrA
     created_at: !ruby/object:DateTime 2021-10-04 14:47:52.244000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 15:00:46.682000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:18:42.738000000 Z
     content_type_id: people
-    revision: 3
+    revision: 4
   first_name: Danielle
   last_name: Corcoran
   degrees:
@@ -1777,18 +1777,18 @@ people:
     sys:
       id: 60fDBsBI4LTjI9MaKPQaZ2
       created_at: !ruby/object:DateTime 2021-10-04 15:00:19.086000000 Z
-      updated_at: !ruby/object:DateTime 2021-10-04 15:00:19.086000000 Z
+      updated_at: !ruby/object:DateTime 2021-10-04 15:17:43.846000000 Z
     title: danielle headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/60fDBsBI4LTjI9MaKPQaZ2/1bef82f44d0a2260d2314198576bd993/IMG_6754.JPG"
+    url: "//images.ctfassets.net/jxa4vq5tep60/60fDBsBI4LTjI9MaKPQaZ2/8f0bfb12fbf55c7596d9b6cb8927370f/IMG_6754.JPG"
   email: danielle.corcoran@dc.gov
   is_alum: false
 - sys:
     id: 5AbcZ1MWcMcbkbxeSRk9yu
     created_at: !ruby/object:DateTime 2021-10-04 14:49:39.446000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 14:49:39.446000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-04 15:18:55.977000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Spencer
   last_name: Wagner
   degrees:
@@ -1806,14 +1806,14 @@ people:
     governance. \n\nSpencer received a B.A. in Political Science & Policy Studies
     from Elon University. When he’s not studying or working, Spencer enjoys exploring
     the District from his neighborhood in Ward 6. He especially enjoys reading, running,
-    biking, and hanging out in Rock Creek Park. \n"
+    biking, and hanging out in Rock Creek Park.\n"
   profile_image:
     sys:
       id: 5GyKwNYf63b00arjNjcqp0
       created_at: !ruby/object:DateTime 2021-10-04 14:49:14.778000000 Z
-      updated_at: !ruby/object:DateTime 2021-10-04 14:49:14.778000000 Z
+      updated_at: !ruby/object:DateTime 2021-10-04 15:16:43.664000000 Z
     title: spencer headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5GyKwNYf63b00arjNjcqp0/e4b868914f044d0c8a87aa1fe73771bb/spencer_wagner_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5GyKwNYf63b00arjNjcqp0/f85642e016b1fbd691c2357910321580/spencer_wagner_headshot.jpg"
   email: spencer.wagner@dc.gov
   is_alum: false
