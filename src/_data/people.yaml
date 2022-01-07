@@ -41,30 +41,31 @@ people:
 - sys:
     id: 9u45ZvFE2s8WWGsAe2AiM
     created_at: !ruby/object:DateTime 2017-03-14 20:28:29.800000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 15:19:31.324000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 18:57:31.369000000 Z
     content_type_id: people
-    revision: 8
+    revision: 9
   first_name: Donald
   last_name: Braman
   degrees:
   - Ph.D.
   - J.D.
   title:
-  - Senior Social Scientist (Alumni Fellow)
-  bio: "Don is a Senior Social Scientist in The Lab @ DC. He is also an Associate
+  - Senior Social Scientist
+  bio: "Don was a Senior Social Scientist with The Lab @ DC. He is currently an Associate
     Professor of Law at The George Washington Law School and a member of the District
     of Columbia Criminal Code Reform Commission.  Don conducts research on criminal
     law, trust in government, and science communication.  He has conducted several
     large-scale randomized control studies of public perceptions related to crime,
     guns, policing, and trust in government.  He teaches classes on policing, public
-    safety policy, and criminal law.  Prior to joining The Lab, he co-lead the DC
-    Policy Labs Cross-Disciplinary Seminar, connecting researchers with public policy
-    evaluation in the District of Columbia.\n\nIn addition to journal articles, book
-    chapters, and commentaries, he is the author of *Doing Time on the Outside: Incarceration
-    and Family Life in Urban America*. \n\nDon holds a J.D. in law and Ph.D. in anthropology
-    from Yale University and a B.A. from Columbia University. He lives in Ward One
-    with his wife, Kitty, their two sons, Gabe and Liam, and approximately 300 ladybugs.
-    They enjoy trying to keep the plants in their garden alive."
+    safety policy, and criminal law.  Prior to working at The Lab, he co-lead the
+    DC Policy Labs Cross-Disciplinary Seminar, connecting researchers with public
+    policy evaluation in the District of Columbia.\n\nIn addition to journal articles,
+    book chapters, and commentaries, he is the author of *Doing Time on the Outside:
+    Incarceration and Family Life in Urban America*. \n\nDon holds a J.D. in law and
+    Ph.D. in anthropology from Yale University and a B.A. from Columbia University.
+    He lives in Ward One with his wife, Kitty, their two sons, Gabe and Liam, and
+    approximately 300 ladybugs. They enjoy trying to keep the plants in their garden
+    alive."
   profile_image:
     sys:
       id: 3M30Ols7m02K8weKESaSgm
@@ -75,7 +76,7 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/3M30Ols7m02K8weKESaSgm/019e404792591631faac5503195878da/Braman_formal.jpg"
   email: donald.braman@dc.gov
   linked_in: https://www.linkedin.com/in/donaldbraman/
-  is_alum: false
+  is_alum: true
 - sys:
     id: 3Y7ol6OyFayKYKUO8eKQk2
     created_at: !ruby/object:DateTime 2017-03-14 20:30:27.011000000 Z
@@ -230,9 +231,9 @@ people:
 - sys:
     id: 1Mw0697eLGQqqwIG2CGqwQ
     created_at: !ruby/object:DateTime 2017-03-14 21:06:41.825000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-28 14:55:02.508000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 19:05:03.212000000 Z
     content_type_id: people
-    revision: 12
+    revision: 13
   first_name: Karissa
   last_name: Minnich
   degrees:
@@ -251,7 +252,7 @@ people:
     served as the Director of Operations. Karissa earned a B.A. in sociology and political
     science from Muhlenberg College and a Masters of Public Administration from The
     George Washington University. In her free time, she enjoys knitting, yoga, and
-    exploring her Ward 2 neighborhood with her husband."
+    exploring her Ward 2 neighborhood with her husband and son."
   profile_image:
     sys:
       id: IRurI8Co6sAAmkAi4uIwU
@@ -334,35 +335,40 @@ people:
 - sys:
     id: 5tu2p3lnmEWs6iAUIu0AoS
     created_at: !ruby/object:DateTime 2017-03-14 21:13:40.193000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-03 23:47:10.799000000 Z
+    updated_at: !ruby/object:DateTime 2021-11-22 15:04:10.955000000 Z
     content_type_id: people
-    revision: 7
+    revision: 8
   first_name: Chrysanthi
   last_name: Hatzimasoura
   degrees:
   - Ph.D.
   title:
   - Senior Social Scientist
-  bio: "Chrysanthi is a Senior Social Scientist, and an original member of The Lab
-    @ DC. She is currently leading evaluations related to vulnerable youth, returning
-    citizen programs, school attendance for students experiencing homelessness, attendance
-    technology for positive parent engagement, and care coordination for the Medicaid
-    population through 911 emergency medical services. Chrysanthi is also an Assistant
-    Research Professor at the George Washington Institute for Public Policy at the
-    George Washington University. \n\nBefore joining The Lab, she was a Senior Research
-    Associate at the Institute for International Economic Policy. Her areas of expertise
-    lie in measurement theory with applications to randomized evaluations. She has
-    developed measurement methodologies for ordinal information in health economics.
-    Chrysanthi has also worked at the World Bank, where she led the evaluation of
-    employment training programs in Nicaragua with a focus on women’s economic empowerment.
-    Her previous experience includes work on DC’s vulnerable youth's aspirations and
+  bio: "Chrysanthi is a volunteer with The Lab @ DC. She formerly served as a Senior
+    Social Scientist in The Lab @ DC and an Assistant Research Professor at the GW
+    Institute of Public Policy at The George Washington University. As one of The
+    Lab’s original members she supported the team’s development and led several of
+    The Lab’s public safety, education, justice, and human services projects. Chrysanthi
+    oversaw The Lab’s evaluation of DC’s 911 reform through which nurses were added
+    to the 911 call center, one of the first randomized control trials of its kind
+    in the country.  \n\nPrior to joining The Lab, she co-directed an interdisciplinary
+    university seminar that brought together top researchers who are engaged in the
+    experimental design of policy both in the US and internationally. She is the co-founder
+    of the Washington Area Development Economics Symposium (WADES). She was a Senior
+    Research Associate at the Institute for International Economic Policy. Her areas
+    of expertise lie in measurement theory with applications to randomized evaluations.
+    She has developed measurement methodologies for ordinal information in health
+    economics. Chrysanthi has worked at the World Bank, where she led the evaluation
+    of a randomized controlled trial in Nicaragua on women’s economic empowerment.
+    Her previous experience includes work on DC’s vulnerable youth’s aspirations and
     economic decision making, for which she was awarded the Philip M. Dearborn Fellowship.
-    She is the co-founder of the Washington Area Development Economics Symposium (WADES).
-    She teaches courses in econometrics, development economics, and microeconomics.
-    \n\nShe earned a Ph.D. in economics from The George Washington University and
-    a B.Sc. in statistics and economics from the University of London, Birkbeck College.
-    Chrysanthi also trained as a concert pianist and holds a BMus. She is a proud
-    DCPS parent and enjoys DC’s community with her 5 year old son, Athona!"
+    As a professor she teaches courses in econometrics, development economics, and
+    microeconomics.\n\nShe earned a Ph.D. in economics from The George Washington
+    University and a B.S. in statistics and economics from the University of London,
+    Birkbeck College. Chrysanthi also trained as a concert pianist and holds a B.Mus.
+    in piano performance. She lives in Ward 1 with her son Athona. These days she’s
+    thinking about the role of social enterprise in addressing racial, ethnic, and
+    health disparities. "
   profile_image:
     sys:
       id: Lz9U9hlMC2EO6kqYmqSyo
@@ -373,7 +379,7 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/Lz9U9hlMC2EO6kqYmqSyo/bd0ff43735c064e4b7d5fe2b9d8effaa/Hatzimasoura_formal.jpg"
   email: chrysanthi.hatzimasoura@dc.gov
   linked_in: https://www.linkedin.com/in/chrysanthi-hatzimasoura-37997868/
-  is_alum: false
+  is_alum: true
 - sys:
     id: 6Augo08mGICo24MSiSM8kM
     created_at: !ruby/object:DateTime 2017-03-14 21:15:11.993000000 Z
@@ -450,41 +456,39 @@ people:
 - sys:
     id: 4yQLcOX0hWYGycWcQGGoYc
     created_at: !ruby/object:DateTime 2017-03-14 21:20:29.616000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 15:01:00.640000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 18:56:04.423000000 Z
     content_type_id: people
-    revision: 12
+    revision: 14
   first_name: Anita
   last_name: 'Ravishankar '
   degrees:
   - ABD
   title:
-  - Senior Fellow (Alumni Fellow)
-  bio: "Anita is a Senior Fellow at The Lab @ DC. She also serves as a research scientist
-    on the Metropolitan Police Department (MPD) team. In this capacity, she manages
+  - Research Scientist
+  bio: "Anita is a volunteer with The Lab @ DC. She formerly served as research scientist
+    on the Metropolitan Police Department (MPD) team. In this capacity, she managed
     several research initiatives for MPD, including the evaluation of a new training
     program that equips officers with knowledge of the historical and cultural context
     of policing in DC. Anita also oversaw The Lab’s first project: a body-worn camera
     (BWC) randomized controlled trial (RCT), one of the largest of its kind in the
     country. Anita led data collection efforts and supported the design, implementation,
-    and public rollout of the BWC RCT. She continues to work on further developing
-    MPD’s research and innovation efforts and advises on other public safety projects
-    at The Lab.\n\nAnita comes to The Lab @ DC with a background in policy-relevant
+    and public rollout of the BWC RCT.\n\nAnita has a background in policy-relevant
     research and program evaluation. While at CNA’s Institute for Public Research,
     she served as a primary evaluator for the Federal Emergency Management Agency’s
     National Exercise Program, a contract team lead for multiple strategic requirements
     planning efforts for the Department of Homeland Security, and a researcher on
     regional catastrophic planning efforts. Over the course of these assignments,
     Anita worked on efforts requiring coordination across multiple federal departments
-    and agencies and at multiple levels of government.   \n\nAnita is currently a
-    doctoral candidate in political science and public policy at the University of
-    Michigan. Her research addresses political trust and state legitimacy, public
-    safety and policing, and civilian attitudinal and behavioral responses to state
-    violence. Her work takes a multi-method approach, combining analyses of administrative
-    data with survey experiments. She also holds a B.S. in Foreign Service in Science,
-    Technology, and International Security from Georgetown University’s School of
-    Foreign Service.\n\nBorn and raised in the DC area, Anita now lives in Ward 6
-    with her husband, Clarence, and son, Dhilan. In her free time, she enjoys hiking,
-    traveling, and testing out new recipes on willing family and friends. "
+    and agencies and at multiple levels of government.   \n\nAnita holds her Ph.D
+    in political science and public policy at the University of Michigan. Her research
+    addresses political trust and state legitimacy, public safety and policing, and
+    civilian attitudinal and behavioral responses to state violence. Her work takes
+    a multi-method approach, combining analyses of administrative data with survey
+    experiments. She also holds a B.S. in Foreign Service in Science, Technology,
+    and International Security from Georgetown University’s School of Foreign Service.\n\nBorn
+    and raised in the DC area, Anita now lives in Ward 6 with her husband, Clarence,
+    and son, Dhilan. In her free time, she enjoys hiking, traveling, and testing out
+    new recipes on willing family and friends. "
   profile_image:
     sys:
       id: 47gyS62TXikUS2082Gkyc8
@@ -493,9 +497,8 @@ people:
     title: Ravishankar formal
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/47gyS62TXikUS2082Gkyc8/d6d343ce1aab29a28df9cd69aa542f08/Ravishankar_formal.jpg"
-  email: anita.ravishankar@dc.gov
   linked_in: https://www.linkedin.com/in/anitaravishankar/
-  is_alum: false
+  is_alum: true
 - sys:
     id: CwprNJHxFQ0ckAcU208qM
     created_at: !ruby/object:DateTime 2017-03-14 21:21:57.865000000 Z
@@ -1005,30 +1008,21 @@ people:
 - sys:
     id: 7pVRW0GdpUWZOaXqvuY7cG
     created_at: !ruby/object:DateTime 2019-01-14 21:05:58.378000000 Z
-    updated_at: !ruby/object:DateTime 2019-08-01 13:54:49.076000000 Z
+    updated_at: !ruby/object:DateTime 2021-11-22 15:05:29.972000000 Z
     content_type_id: people
-    revision: 6
+    revision: 8
   first_name: Nellie
   last_name: Moore
   degrees:
   - MDP
   title:
-  - Operations Analyst
-  bio: "Nellie is an Operations Analyst in The Lab @ DC. She works on the planning,
-    coordination, and execution of a suite of Lab projects, as well as public event
-    programming, external communications, and operational efficiency for the Lab.\n
-    \nNellie joined the Lab from Innovations for Poverty Action (IPA), an international
-    nonprofit, where she served as the Research Manager in Lusaka, Zambia and as the
-    Financial Inclusion Program Manager in Washington, DC. In these roles, Nellie
-    managed studies focused on health, finances, and girls’ education, and oversaw
-    a $4 million competitive research fund for studies on financial inclusion. In
-    addition, Nellie spent three years in Vietnam monitoring and evaluating road safety
-    projects and volunteers for Collective Action for Safe Spaces in DC.\n \nShe earned
-    a Master of Development Practice from Sciences Po Paris School of International
-    Affairs, and a Bachelor of Arts in Human Services and International Affairs from
-    Northeastern University. Outside of work, Nellie can be found in her Brookland
-    kitchen finding creative ways to cook, bake, and store her weekly produce share
-    from a local urban farm."
+  - Civic Design Researcher
+  bio: |-
+    Nellie is a Civic Design Researcher with The Lab @ DC. She brings her experience in evaluations and passion for plain language and user-testing to make government services work better for residents. Nellie has led projects to pilot flexible transportation resources for families experiencing homelessness, to create one-stop-shop for 50+ homeownership resources, to test reduced bus and metro fares for low-income residents, and to launch an emergency small business grants program.
+
+    Prior to joining The Lab, Nellie led teams to pilot and evaluate new initiatives across sectors, from transit to housing and financial inclusion. In her previous role at Innovations for Poverty Action (IPA), an international nonprofit, Nellie served as the Research Manager in Lusaka, Zambia and as the Financial Inclusion Program Manager in Washington, DC. In these roles, shemanaged studies focused on public health, resilience, and gender equity and oversaw a $4 million competitive research fund for studies on financial inclusion. In addition, Nellie spent three years in Vietnam monitoring and evaluating road safety projects.
+
+    She earned a Master of Development Practice from Sciences Po Paris School of International Affairs, and a Bachelor of Arts in Human Services and International Affairs from Northeastern University. Outside of work, Nellie can be found in her Brookland kitchen finding creative ways to cook, bake, and preserve her weekly produce share from a local urban farm.
   profile_image:
     sys:
       id: 3mpf8d4vVgq88sme7fWeyG
@@ -1043,15 +1037,15 @@ people:
 - sys:
     id: 3TxagY1IA4wFseuuiqv8ej
     created_at: !ruby/object:DateTime 2019-03-19 22:45:46.427000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 14:56:53.686000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 18:58:00.173000000 Z
     content_type_id: people
-    revision: 7
+    revision: 8
   first_name: Nat
   last_name: Mammo
   degrees:
   - MS
   title:
-  - Data Scientist (Alumni Fellow)
+  - Data Scientist
   bio: |-
     Nat Mammo is a volunteer Data Scientist with The Lab @ DC. Nat is currently a Data Scientist with the Consumer Financial Protection Bureau (CFPB).
 
@@ -1066,8 +1060,7 @@ people:
     title: Nat Headshot
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2bbMFtjRo8SGNNnyapFC05/170dc552155b2475ae7a603cb88e7af9/Nat_Headshot.jpeg"
-  email: nat.mammo@dc.gov
-  is_alum: false
+  is_alum: true
 - sys:
     id: 1Cm8NoFLlAbC71x06irSPk
     created_at: !ruby/object:DateTime 2019-06-20 21:52:34.490000000 Z
@@ -1214,15 +1207,15 @@ people:
 - sys:
     id: 544ClihYofoMLYazGDYcAV
     created_at: !ruby/object:DateTime 2019-08-01 13:48:02.803000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 15:02:13.610000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 18:52:25.050000000 Z
     content_type_id: people
-    revision: 8
+    revision: 10
   first_name: Felix
   last_name: 'Owusu '
   degrees:
   - MPP
   title:
-  - Fellow (Alumni Fellow)
+  - Data Scientist
   bio: |-
     Felix Owusu is a volunteer with The Lab @ DC. He was formerly a Data Scientist at the Metropolitan Police Department (MPD) and a fellow with The Lab. In this capacity, Felix worked to develop MPD’s work in research, policy evaluation, and innovation.
 
@@ -1238,7 +1231,7 @@ people:
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/3GtzQ47SgEYkrUzolUHmU3/6027bc17c2431d16c4f3da38508da631/Felix_Owusu.jpeg"
   linked_in: https://www.linkedin.com/in/felix-owusu-0629/
-  is_alum: false
+  is_alum: true
 - sys:
     id: 462Q23sm7Dt7mdgEei72aJ
     created_at: !ruby/object:DateTime 2019-08-01 13:53:08.522000000 Z
@@ -1444,15 +1437,15 @@ people:
 - sys:
     id: qpkTcQD3bpg3YsXVqtELw
     created_at: !ruby/object:DateTime 2020-03-02 04:14:27.921000000 Z
-    updated_at: !ruby/object:DateTime 2021-10-04 14:56:38.964000000 Z
+    updated_at: !ruby/object:DateTime 2021-10-13 18:58:42.641000000 Z
     content_type_id: people
-    revision: 3
+    revision: 4
   first_name: Maria
   last_name: 'Alva '
   degrees:
   - DPhil
   title:
-  - Senior Social Scientist (Alumni Fellow)
+  - Senior Social Scientist
   bio: |-
     Maria is a volunteer with The Lab @ DC and a Research Professor at the Massive Data Institute at Georgetown University’s McCourt School of Public Policy where she works on evaluations related to health care innovations. Maria was formerly a Senior Social Scientist with The Lab @ DC.
 
@@ -1469,9 +1462,8 @@ people:
     title: Alva - Formal
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/4mAZcYuhz2ReHzpVwLvDhf/0db12458568f7069e485eec26ff1cfa1/Alva_-_Formal_Photo__1_.JPG"
-  email: maria.alva@dc.gov
   linked_in: https://www.linkedin.com/in/maria-liliana-alva-74236a7b
-  is_alum: false
+  is_alum: true
 - sys:
     id: 12ZfhT7a9x7s7LLus9bJEO
     created_at: !ruby/object:DateTime 2020-03-02 04:24:16.596000000 Z
@@ -1816,4 +1808,59 @@ people:
     description: ''
     url: "//images.ctfassets.net/jxa4vq5tep60/5GyKwNYf63b00arjNjcqp0/f85642e016b1fbd691c2357910321580/spencer_wagner_headshot.jpg"
   email: spencer.wagner@dc.gov
+  is_alum: false
+- sys:
+    id: 4zpld05br30gV1kBYLw2EV
+    created_at: !ruby/object:DateTime 2022-01-06 23:51:53.589000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-06 23:52:13.141000000 Z
+    content_type_id: people
+    revision: 2
+  first_name: Sweta
+  last_name: Maturu
+  degrees:
+  - MS
+  title:
+  - Civic Design Researcher
+  bio: |
+    Sweta is a Civic Design Researcher with The Lab @ DC. To this role, she brings experience in applying business strategy, behavioral science, and design thinking to solve complex problems and communicate opportunities in a compelling way.
+
+    Before The Lab @ DC, Sweta was a Senior Strategist at Blue State, where she led research projects for non-profits, political advocacy organizations, and brands to understand audience needs and motivations, and crafted engagement strategies to reach organizational objectives. She also led Blue State's facilitation practice group, where she leveraged design thinking frameworks to run customized sessions that helped teams think strategically, and generate fresh and new ideas. Sweta was also a management consultant for Deloitte's global & public sector, where she supported federal government agencies in addressing major business challenges relating to process improvement, change management, organizational design, and strategic planning.
+
+    Sweta earned a Master of Science in International Conflict Studies from the London School of Economics & Political Science, and a Bachelors of Arts in International Studies from Emory University. Outside of work, Sweta lives in Ward 1, where she can be found wandering around Rock Creek Park, finding new records for her record collection, and perfecting her pour-over coffee method.
+  profile_image:
+    sys:
+      id: 5Zgxk3aIaHMZ95V72VcgQx
+      created_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
+    title: Maturu headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/089f203f99ca8435fc03b0957ec34da9/Maturu_headshot.jpg"
+  email: sweta.maturu@dc.gov
+  is_alum: false
+- sys:
+    id: 2VJuxmGB3megb6k5FTHkIJ
+    created_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Ryan
+  last_name: Flynn
+  title:
+  - Civic Design Researcher
+  bio: |
+    Ryan is a Civic Design Researcher at The Lab @ DC. He is working with residents and government agencies to assure that DC’s federal recovery funds have the greatest possible impact on the wellbeing of District residents.
+
+    Before joining The Lab in 2021, Ryan worked in operational and research roles at the World Bank and on policy evaluation and advocacy in the non-profit and private sectors. He has mobilized business advocacy for more equitable K-12 funding in Massachusetts, helped an East African government co-create a national plan for post-secondary educational investment, and consulted for public agencies in Southeast Asia seeking to close strategic skills gaps. The common thread through this work is a commitment to working with governments to set clear goals and treat residents as partners in designing and evaluating public investments. Ryan holds degrees from the London School of Economics and Villanova University.
+
+    Excited by novelty and averse to hobby commitment, Ryan has never been known for his pastime prowess. He excels at becoming just okay at a variety of activities and is excited about his current slate: candle making, sailboat racing, and tango. But he also just learned how to knit… Ryan lives in Ward 6 with his wife.
+  profile_image:
+    sys:
+      id: 6a1IJ54oU3oAP2S2GbH2fg
+      created_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
+    title: Flynn - Headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/d2c376f3466417baf43743a5e364f752/Flynn_-_Headshot.jpg"
+  email: Ryan.Flynn@dc.gov
+  linked_in: www.linkedin.com/in/connect-with-ryan
   is_alum: false
