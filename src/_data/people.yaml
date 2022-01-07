@@ -1498,9 +1498,9 @@ people:
 - sys:
     id: xhsvj0bwVnYPpiEMvKCEt
     created_at: !ruby/object:DateTime 2020-03-02 04:41:16.625000000 Z
-    updated_at: !ruby/object:DateTime 2020-03-02 04:42:23.179000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 20:58:54.428000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Christian
   last_name: Gineste
   degrees:
@@ -1535,7 +1535,7 @@ people:
     description:
     url: "//images.ctfassets.net/jxa4vq5tep60/2eRVzicqLsF8wyvrFn1sgz/f1c2ea6e9e070e6b2b6b79d5ddbc4207/Gineste_-_Formal_Photo.JPG"
   email: christian.gineste@dc.gov
-  is_alum: false
+  is_alum: true
 - sys:
     id: 2OaBJlWG7L7eMfe2VJKLQ
     created_at: !ruby/object:DateTime 2021-02-05 14:41:56.759000000 Z
