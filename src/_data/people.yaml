@@ -1812,9 +1812,9 @@ people:
 - sys:
     id: 4zpld05br30gV1kBYLw2EV
     created_at: !ruby/object:DateTime 2022-01-06 23:51:53.589000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-07 00:44:17.534000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 14:44:41.981000000 Z
     content_type_id: people
-    revision: 4
+    revision: 5
   first_name: Sweta
   last_name: Maturu
   degrees:
@@ -1831,25 +1831,25 @@ people:
     sys:
       id: 5Zgxk3aIaHMZ95V72VcgQx
       created_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-07 00:44:10.437000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 14:44:18.550000000 Z
     title: Maturu headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/11a806c350845f69ade42adefe97f7fb/Maturu_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/b0093b8bc224ee58cb94bbd508c71647/Maturu_headshot.jpg"
   email: sweta.maturu@dc.gov
   is_alum: false
 - sys:
     id: 2VJuxmGB3megb6k5FTHkIJ
     created_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-07 00:46:25.293000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 14:46:46.223000000 Z
     content_type_id: people
-    revision: 4
+    revision: 7
   first_name: Ryan
   last_name: Flynn
   degrees:
   - MS
   title:
   - Civic Design Researcher
-  bio: |
+  bio: |-
     Ryan is a Civic Design Researcher at The Lab @ DC. He is working with residents and government agencies to assure that DC’s federal recovery funds have the greatest possible impact on the wellbeing of District residents.
 
     Before joining The Lab in 2021, Ryan worked in operational and research roles at the World Bank and on policy evaluation and advocacy in the non-profit and private sectors. He has mobilized business advocacy for more equitable K-12 funding in Massachusetts, helped an East African government co-create a national plan for post-secondary educational investment, and consulted for public agencies in Southeast Asia seeking to close strategic skills gaps. The common thread through this work is a commitment to working with governments to set clear goals and treat residents as partners in designing and evaluating public investments. Ryan holds degrees from the London School of Economics and Villanova University.
@@ -1859,7 +1859,7 @@ people:
     sys:
       id: 6a1IJ54oU3oAP2S2GbH2fg
       created_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-07 00:44:53.352000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 14:45:29.076000000 Z
     title: Flynn - Headshot
     description: ''
     url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/258cb040862d46c958090eca7f4e5d83/Flynn_-_Headshot.jpg"
