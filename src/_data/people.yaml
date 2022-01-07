@@ -1812,16 +1812,16 @@ people:
 - sys:
     id: 4zpld05br30gV1kBYLw2EV
     created_at: !ruby/object:DateTime 2022-01-06 23:51:53.589000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-06 23:52:13.141000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 00:07:47.900000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Sweta
   last_name: Maturu
   degrees:
   - MS
   title:
   - Civic Design Researcher
-  bio: |
+  bio: |-
     Sweta is a Civic Design Researcher with The Lab @ DC. To this role, she brings experience in applying business strategy, behavioral science, and design thinking to solve complex problems and communicate opportunities in a compelling way.
 
     Before The Lab @ DC, Sweta was a Senior Strategist at Blue State, where she led research projects for non-profits, political advocacy organizations, and brands to understand audience needs and motivations, and crafted engagement strategies to reach organizational objectives. She also led Blue State's facilitation practice group, where she leveraged design thinking frameworks to run customized sessions that helped teams think strategically, and generate fresh and new ideas. Sweta was also a management consultant for Deloitte's global & public sector, where she supported federal government agencies in addressing major business challenges relating to process improvement, change management, organizational design, and strategic planning.
@@ -1831,18 +1831,18 @@ people:
     sys:
       id: 5Zgxk3aIaHMZ95V72VcgQx
       created_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 00:07:41.759000000 Z
     title: Maturu headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/089f203f99ca8435fc03b0957ec34da9/Maturu_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/52cf885263a108eb7b593da0b28ce885/Maturu_headshot.jpg"
   email: sweta.maturu@dc.gov
   is_alum: false
 - sys:
     id: 2VJuxmGB3megb6k5FTHkIJ
     created_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 00:07:15.839000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Ryan
   last_name: Flynn
   title:
@@ -1857,10 +1857,10 @@ people:
     sys:
       id: 6a1IJ54oU3oAP2S2GbH2fg
       created_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 00:07:04.332000000 Z
     title: Flynn - Headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/d2c376f3466417baf43743a5e364f752/Flynn_-_Headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/d4ac5e393c26de4e458c214fd284561f/Flynn_-_Headshot.jpg"
   email: Ryan.Flynn@dc.gov
   linked_in: www.linkedin.com/in/connect-with-ryan
   is_alum: false
