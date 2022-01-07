@@ -1812,9 +1812,9 @@ people:
 - sys:
     id: 4zpld05br30gV1kBYLw2EV
     created_at: !ruby/object:DateTime 2022-01-06 23:51:53.589000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-07 00:07:47.900000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 00:44:17.534000000 Z
     content_type_id: people
-    revision: 3
+    revision: 4
   first_name: Sweta
   last_name: Maturu
   degrees:
@@ -1831,20 +1831,22 @@ people:
     sys:
       id: 5Zgxk3aIaHMZ95V72VcgQx
       created_at: !ruby/object:DateTime 2022-01-06 23:51:24.261000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-07 00:07:41.759000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 00:44:10.437000000 Z
     title: Maturu headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/52cf885263a108eb7b593da0b28ce885/Maturu_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5Zgxk3aIaHMZ95V72VcgQx/11a806c350845f69ade42adefe97f7fb/Maturu_headshot.jpg"
   email: sweta.maturu@dc.gov
   is_alum: false
 - sys:
     id: 2VJuxmGB3megb6k5FTHkIJ
     created_at: !ruby/object:DateTime 2022-01-06 23:55:48.544000000 Z
-    updated_at: !ruby/object:DateTime 2022-01-07 00:07:15.839000000 Z
+    updated_at: !ruby/object:DateTime 2022-01-07 00:46:25.293000000 Z
     content_type_id: people
-    revision: 2
+    revision: 4
   first_name: Ryan
   last_name: Flynn
+  degrees:
+  - MS
   title:
   - Civic Design Researcher
   bio: |
@@ -1857,10 +1859,10 @@ people:
     sys:
       id: 6a1IJ54oU3oAP2S2GbH2fg
       created_at: !ruby/object:DateTime 2022-01-06 23:54:49.236000000 Z
-      updated_at: !ruby/object:DateTime 2022-01-07 00:07:04.332000000 Z
+      updated_at: !ruby/object:DateTime 2022-01-07 00:44:53.352000000 Z
     title: Flynn - Headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/d4ac5e393c26de4e458c214fd284561f/Flynn_-_Headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/6a1IJ54oU3oAP2S2GbH2fg/258cb040862d46c958090eca7f4e5d83/Flynn_-_Headshot.jpg"
   email: Ryan.Flynn@dc.gov
   linked_in: www.linkedin.com/in/connect-with-ryan
   is_alum: false
