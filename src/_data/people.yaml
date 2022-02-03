@@ -1866,3 +1866,34 @@ people:
   email: Ryan.Flynn@dc.gov
   linked_in: www.linkedin.com/in/connect-with-ryan
   is_alum: false
+- sys:
+    id: 6h3NqlJWOS45RvDKyxxvE6
+    created_at: !ruby/object:DateTime 2022-02-03 21:08:03.931000000 Z
+    updated_at: !ruby/object:DateTime 2022-02-03 22:53:48.256000000 Z
+    content_type_id: people
+    revision: 2
+  first_name: 'Emma '
+  last_name: Farber
+  degrees:
+  - MS
+  title:
+  - Fellow
+  bio: 'Emma Farber joins The Lab as a Fellow at MPD. She is a recent graduate of
+    Georgetown University''s McCourt School of Public Policy, where she obtained an
+    MS in Data Science for Public Policy. Through her work at Georgetown''s Massive
+    Data Institute, Emma has learned innovative ways to leverage data science in the
+    public sector: her project work includes text-mining congressional candidate websites
+    and, through a partnership with The Justice Innovation Lab, using statistics to
+    examine racial bias in prosecutorial records. Prior to attending The McCourt School,
+    she worked as a data analyst in the insurance industry. She originally hails from
+    Connecticut and has a BA in Economics and Business from Brandeis University.'
+  profile_image:
+    sys:
+      id: 4fkyMhZiUjgfjc1w3e4Rhe
+      created_at: !ruby/object:DateTime 2022-02-03 21:06:59.172000000 Z
+      updated_at: !ruby/object:DateTime 2022-02-03 22:53:41.242000000 Z
+    title: Farber - headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/4fkyMhZiUjgfjc1w3e4Rhe/3a9bfd7b9c79e28e10b83cfdf19da09d/Farber_-_headshot.jpg"
+  email: emma.farber@dc.gov
+  is_alum: false
