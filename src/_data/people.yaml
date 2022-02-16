@@ -383,10 +383,10 @@ people:
 - sys:
     id: 6Augo08mGICo24MSiSM8kM
     created_at: !ruby/object:DateTime 2017-03-14 21:15:11.993000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-03 23:41:41.638000000 Z
+    updated_at: !ruby/object:DateTime 2022-02-16 17:46:56.457000000 Z
     content_type_id: people
-    revision: 9
-  first_name: Ryan
+    revision: 13
+  first_name: Ryan T.
   last_name: Moore
   degrees:
   - Ph.D.
