@@ -1967,9 +1967,9 @@ people:
 - sys:
     id: 5AxWrxbavVCN7VMNBBfo9e
     created_at: !ruby/object:DateTime 2022-04-20 20:41:48.865000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-20 20:41:48.865000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-20 20:54:04.736000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Nathan
   last_name: Dignazio
   degrees:
@@ -1986,9 +1986,9 @@ people:
     sys:
       id: 5zaL2FMVkcuR0AOzGVALP
       created_at: !ruby/object:DateTime 2022-04-20 20:40:47.406000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:40:47.406000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:53:48.490000000 Z
     title: dignazio headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/b1a46762bc099d9f797a5c45f43cdb00/dignazio_headshot.jpeg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/22ecdad4455d5725df146e0ee70d2e59/dignazio_headshot.jpeg"
   email: nathan.dignazio@dc.gov
   is_alum: false
