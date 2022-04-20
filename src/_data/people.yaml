@@ -1911,9 +1911,9 @@ people:
 - sys:
     id: 1jjbUrzH6yW0rKFlVOt52i
     created_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-20 20:19:14.347000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Anamita
   last_name: 'Gall '
   degrees:
@@ -1930,10 +1930,10 @@ people:
     sys:
       id: 5zlUK1S4zAN6O6rMHnWnJ5
       created_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:19:05.840000000 Z
     title: agall_headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/d12c2b3a2ac87e64de7a2d8f00b398f4/anamita_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/4e2918bc82313b1748d8bb65c68f61da/anamita_headshot.jpg"
   email: anamita.gall@dc.gov
   is_alum: false
 - sys:
@@ -1958,9 +1958,9 @@ people:
     sys:
       id: 2jH0GNuRnL4VoCNUXwmrOC
       created_at: !ruby/object:DateTime 2022-04-20 20:08:18.298000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:08:21.519000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:18:24.536000000 Z
     title: Oroxom - Headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/3a24b50ad92ea1feb3302e3c2d856039/Oroxom_-_Headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/8578a23aba1c9d3c7f086ab5e2517fdc/Oroxom_-_Headshot.jpg"
   email: roxanne.oroxom@dc.gov
   is_alum: false
