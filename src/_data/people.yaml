@@ -1838,9 +1838,9 @@ people:
 - sys:
     id: 6h3NqlJWOS45RvDKyxxvE6
     created_at: !ruby/object:DateTime 2022-02-03 21:08:03.931000000 Z
-    updated_at: !ruby/object:DateTime 2022-02-03 22:53:48.256000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-14 16:19:41.714000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: 'Emma '
   last_name: Farber
   degrees:
@@ -1865,7 +1865,7 @@ people:
     description: ''
     url: "//images.ctfassets.net/jxa4vq5tep60/4fkyMhZiUjgfjc1w3e4Rhe/3a9bfd7b9c79e28e10b83cfdf19da09d/Farber_-_headshot.jpg"
   email: emma.farber@dc.gov
-  is_alum: false
+  is_alum: true
 - sys:
     id: 1AWuziPL4jonoDI1nZ6xnR
     created_at: !ruby/object:DateTime 2022-02-25 18:33:35.783000000 Z
@@ -1907,4 +1907,60 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/GnvTwg7NzpNo10VwJ5MbN/6a96577685cc1bb0ba7873f29eb7c1fe/Moore_formal.jpeg"
   email: ryan.moore2@dc.gov
   linked_in: https://www.linkedin.com/in/ryan-moore-400ba54/
+  is_alum: false
+- sys:
+    id: 1jjbUrzH6yW0rKFlVOt52i
+    created_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Anamita
+  last_name: 'Gall '
+  degrees:
+  - MPA
+  title:
+  - Operations Analyst
+  bio: |
+    Anamita is an Operations Analyst in the Lab @ DC. Her current projects are focused on civic design and evaluation projects on human services, job training, and education programs.
+
+    Prior to joining the Lab, Anamita was an analyst with the DC Department of Housing and Community Development (DHCD) where she recently implemented affordable housing preservation policies and programs, as well as emergency rental assistance programs. She also served as a grant manager overseeing a portfolio of community based organizations that provided housing counseling services and small business technical assistance services to low income residents. She strove to find creative ways to create connections between the CBOs and other agencies to improve resources for District residents. Before joining the District, Anamita was a senior research associate with ICF and worked on a variety of job training evaluation and technical assistance projects for the U.S. Department of Health and Human Service, the U.S. Department of Labor, and various state and local government agencies.
+
+    Anamita earned her B.A. in film from Bowling Green State University and a Masters of Public Administration from The George Washington University. She lives in Ward 6 with her husband and son.
+  profile_image:
+    sys:
+      id: 5zlUK1S4zAN6O6rMHnWnJ5
+      created_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
+    title: agall_headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/d12c2b3a2ac87e64de7a2d8f00b398f4/anamita_headshot.jpg"
+  email: anamita.gall@dc.gov
+  is_alum: false
+- sys:
+    id: 5BiZ2PUlxVwBZks3Onff3b
+    created_at: !ruby/object:DateTime 2022-04-20 20:08:24.867000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-20 20:08:24.867000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: 'Roxanne '
+  last_name: Oroxom
+  degrees:
+  - MPP
+  title:
+  - Social Scientist
+  bio: |-
+    Roxanne is a Social Scientist with The Lab @ DC. She helps design and carry out evaluations of local policies and programs. Her current projects focus on education and public health.
+
+    Prior to joining the Lab, Roxanne supported health research at the World Health Organization, the World Bank, and the Center for Global Development. She also supported education research as a Research Assistant for the Georgetown University Initiative on Innovation, Development and Evaluation. Roxanne earned a Master of Public Policy degree from Georgetown University and a Bachelor of Arts degree in Economics from the University of Maryland, College Park.
+
+    Outside of work, Roxanne enjoys playing Scrabble and spending time with her family.
+  profile_image:
+    sys:
+      id: 2jH0GNuRnL4VoCNUXwmrOC
+      created_at: !ruby/object:DateTime 2022-04-20 20:08:18.298000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:08:21.519000000 Z
+    title: Oroxom - Headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/3a24b50ad92ea1feb3302e3c2d856039/Oroxom_-_Headshot.jpg"
+  email: roxanne.oroxom@dc.gov
   is_alum: false
