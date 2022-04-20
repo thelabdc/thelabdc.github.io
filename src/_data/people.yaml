@@ -1911,9 +1911,9 @@ people:
 - sys:
     id: 1jjbUrzH6yW0rKFlVOt52i
     created_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-20 20:19:14.347000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-20 20:25:13.612000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Anamita
   last_name: 'Gall '
   degrees:
@@ -1930,10 +1930,10 @@ people:
     sys:
       id: 5zlUK1S4zAN6O6rMHnWnJ5
       created_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:19:05.840000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:25:05.327000000 Z
     title: agall_headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/4e2918bc82313b1748d8bb65c68f61da/anamita_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/771bb698c28ed8253bc9b34b41bea89b/anamita_headshot.jpg"
   email: anamita.gall@dc.gov
   is_alum: false
 - sys:
@@ -1963,4 +1963,32 @@ people:
     description: ''
     url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/8578a23aba1c9d3c7f086ab5e2517fdc/Oroxom_-_Headshot.jpg"
   email: roxanne.oroxom@dc.gov
+  is_alum: false
+- sys:
+    id: 5AxWrxbavVCN7VMNBBfo9e
+    created_at: !ruby/object:DateTime 2022-04-20 20:41:48.865000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-20 20:41:48.865000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Nathan
+  last_name: Dignazio
+  degrees:
+  - MS
+  title:
+  - Data Scientist
+  bio: |-
+    Nathan is a Data Scientist with The Lab @ DC, where he works on randomized evaluations of policy interventions and applications of predictive modeling to policy questions of interest to residents and government agencies.
+
+    Prior to joining The Lab, Nathan was an analyst at the Center for American Progress Action Fund, where he helped build up the digital team’s social analytics program to provide strategic insights to internal and external stakeholders in the progressive digital space. During his time with the data team at the Cook County Assessor’s Office, he helped rebuild the county’s residential appraisal model to create a more equitable property tax system by wrangling geospatial data, contributing to the office’s open-source packages, and creating and evaluating model features.
+
+    Nathan holds a Master of Science in Computational Analysis and Public Policy from the University of Chicago and a Bachelor of Arts from St. John’s College, Annapolis. When not working, he equally enjoys finding new spots to eat around DC with friends and having them over to try a new recipe and play board games. He also enjoys reading, biking, taking long walks with no particular destination in mind, and trying to stick with new hobbies.
+  profile_image:
+    sys:
+      id: 5zaL2FMVkcuR0AOzGVALP
+      created_at: !ruby/object:DateTime 2022-04-20 20:40:47.406000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-20 20:40:47.406000000 Z
+    title: dignazio headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/b1a46762bc099d9f797a5c45f43cdb00/dignazio_headshot.jpeg"
+  email: nathan.dignazio@dc.gov
   is_alum: false
