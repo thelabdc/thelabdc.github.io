@@ -1992,3 +1992,69 @@ people:
     url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/22ecdad4455d5725df146e0ee70d2e59/dignazio_headshot.jpeg"
   email: nathan.dignazio@dc.gov
   is_alum: false
+- sys:
+    id: 3rXbP9i6lV7uoaK77pPVfk
+    created_at: !ruby/object:DateTime 2022-04-21 13:20:48.230000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 13:20:48.230000000 Z
+    content_type_id: people
+    revision: 1
+  first_name: Marlyn
+  last_name: Bruno
+  degrees:
+  - BA
+  title:
+  - Research Assistant
+  bio: |-
+    Marlyn (“Mar-leen”) is a Research Assistant in The Lab @ DC and a Master of Public Policy candidate at Georgetown University.
+
+    Prior to joining The Lab, Marlyn was a Senior Program Analyst at the Vera Institute of Justice, where she helped implement DOJ immigration programs for noncitizens appearing pro se in immigration court. Prior to that, Marlyn was an immigration paralegal for deportation defense cases in New York City. She has volunteered for various immigration advocacy organizations throughout the years and comes from a community organizing background. Beyond her interests in criminal justice, immigration, and social urban policies, Marlyn is interested in how public policy processes can evolve to center and involve impacted communities every step of the way.
+
+    Marlyn holds a Bachelor of Arts in Psychology with minors in Neuroscience and Spanish language and cultures from Princeton University. Outside of work and school, she is usually reading a novel, fawning over her nieces and nephews, or trying to keep her (many) plants alive.
+  profile_image:
+    sys:
+      id: 7iVooAK3o09FCCL5RAVjEe
+      created_at: !ruby/object:DateTime 2022-04-21 13:19:35.487000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 13:19:35.487000000 Z
+    title: Bruno headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/7iVooAK3o09FCCL5RAVjEe/d3f86988acc43f0610cd17a3677a8784/Bruno_headshot.jpg"
+  email: marlyn.bruno@dc.gov
+  is_alum: false
+- sys:
+    id: 2reH6MCUweUCZYFKU22gSm
+    created_at: !ruby/object:DateTime 2022-04-21 13:24:49.703000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:10:23.896000000 Z
+    content_type_id: people
+    revision: 4
+  first_name: Jack
+  last_name: Crum
+  degrees:
+  - MS
+  title:
+  - Data Scientist
+  bio: "Jack Crum is a  Data Scientist at the Lab @ DC, joining in April 2022. A new
+    member to the team, he is excited to apply his data science background to bringing
+    new insights and solutions to District programs and improve the lives of District
+    residents. \n\nPrior to joining the Lab, Jack was a Pricing Analyst at GEICO in
+    Chevy Chase, MD. In this role, he was primarily responsible for building predictive
+    models and developing rating factors for new rating products released nationwide.
+    During his time with GEICO, Jack worked on a variety of projects, including analyzing
+    and removing weather impact from losses, developing loss predictions with the
+    new generation of vehicles, and identifying and addressing potential socio-economic
+    bias in the rating models. \n\nJack received his M.S. in Data Science from George
+    Washington University and B.A. in History from the College of William and Mary.
+    A DC area native and current resident of Ward 1, he enjoys visiting the DC sites
+    he’s known since childhood while also discovering places he does not yet know.
+    In his free time, Jack is an avid cook and baker of all cuisines, soccer player
+    (goalie if you need a sub), major history buff, self-proclaimed Jeopardy master,
+    and a new acrylic painter. "
+  profile_image:
+    sys:
+      id: 5pYs3J2DAPsiIP7vThbhxg
+      created_at: !ruby/object:DateTime 2022-04-21 13:26:43.898000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 13:26:43.898000000 Z
+    title: jack headshot
+    description: ''
+    url: "//images.ctfassets.net/jxa4vq5tep60/5pYs3J2DAPsiIP7vThbhxg/7db2688dac0f70f1e3d47eed67f87bc6/jack_headshot.jpg"
+  email: jack.crum@dc.gov
+  is_alum: false
