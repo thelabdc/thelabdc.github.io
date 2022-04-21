@@ -1911,9 +1911,9 @@ people:
 - sys:
     id: 1jjbUrzH6yW0rKFlVOt52i
     created_at: !ruby/object:DateTime 2022-04-14 16:19:25.105000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-20 20:25:13.612000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:41:46.216000000 Z
     content_type_id: people
-    revision: 3
+    revision: 4
   first_name: Anamita
   last_name: 'Gall '
   degrees:
@@ -1930,18 +1930,18 @@ people:
     sys:
       id: 5zlUK1S4zAN6O6rMHnWnJ5
       created_at: !ruby/object:DateTime 2022-04-14 15:55:47.017000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:25:05.327000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 14:41:39.861000000 Z
     title: agall_headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/771bb698c28ed8253bc9b34b41bea89b/anamita_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zlUK1S4zAN6O6rMHnWnJ5/1e432c03109cf9363bd9491aeeb6a0bc/anamita_headshot.jpg"
   email: anamita.gall@dc.gov
   is_alum: false
 - sys:
     id: 5BiZ2PUlxVwBZks3Onff3b
     created_at: !ruby/object:DateTime 2022-04-20 20:08:24.867000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-20 20:08:24.867000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:42:18.714000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: 'Roxanne '
   last_name: Oroxom
   degrees:
@@ -1958,18 +1958,18 @@ people:
     sys:
       id: 2jH0GNuRnL4VoCNUXwmrOC
       created_at: !ruby/object:DateTime 2022-04-20 20:08:18.298000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:18:24.536000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 14:42:12.908000000 Z
     title: Oroxom - Headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/8578a23aba1c9d3c7f086ab5e2517fdc/Oroxom_-_Headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/2jH0GNuRnL4VoCNUXwmrOC/e43e3cbebc14b1ca1c25fb139074f5d0/Oroxom_-_Headshot.jpg"
   email: roxanne.oroxom@dc.gov
   is_alum: false
 - sys:
     id: 5AxWrxbavVCN7VMNBBfo9e
     created_at: !ruby/object:DateTime 2022-04-20 20:41:48.865000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-20 20:54:04.736000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:41:15.678000000 Z
     content_type_id: people
-    revision: 2
+    revision: 3
   first_name: Nathan
   last_name: Dignazio
   degrees:
@@ -1986,18 +1986,18 @@ people:
     sys:
       id: 5zaL2FMVkcuR0AOzGVALP
       created_at: !ruby/object:DateTime 2022-04-20 20:40:47.406000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-20 20:53:48.490000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 14:41:06.682000000 Z
     title: dignazio headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/22ecdad4455d5725df146e0ee70d2e59/dignazio_headshot.jpeg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5zaL2FMVkcuR0AOzGVALP/60f34285be2647ae8a4a97bc8640a902/dignazio_headshot.jpeg"
   email: nathan.dignazio@dc.gov
   is_alum: false
 - sys:
     id: 3rXbP9i6lV7uoaK77pPVfk
     created_at: !ruby/object:DateTime 2022-04-21 13:20:48.230000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-21 13:20:48.230000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:39:57.732000000 Z
     content_type_id: people
-    revision: 1
+    revision: 2
   first_name: Marlyn
   last_name: Bruno
   degrees:
@@ -2014,18 +2014,18 @@ people:
     sys:
       id: 7iVooAK3o09FCCL5RAVjEe
       created_at: !ruby/object:DateTime 2022-04-21 13:19:35.487000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-21 13:19:35.487000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 14:39:52.406000000 Z
     title: Bruno headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/7iVooAK3o09FCCL5RAVjEe/d3f86988acc43f0610cd17a3677a8784/Bruno_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/7iVooAK3o09FCCL5RAVjEe/3ce8391575d91ec8b956c7c8945f9931/Bruno_headshot.jpg"
   email: marlyn.bruno@dc.gov
   is_alum: false
 - sys:
     id: 2reH6MCUweUCZYFKU22gSm
     created_at: !ruby/object:DateTime 2022-04-21 13:24:49.703000000 Z
-    updated_at: !ruby/object:DateTime 2022-04-21 14:10:23.896000000 Z
+    updated_at: !ruby/object:DateTime 2022-04-21 14:40:37.721000000 Z
     content_type_id: people
-    revision: 4
+    revision: 5
   first_name: Jack
   last_name: Crum
   degrees:
@@ -2052,9 +2052,9 @@ people:
     sys:
       id: 5pYs3J2DAPsiIP7vThbhxg
       created_at: !ruby/object:DateTime 2022-04-21 13:26:43.898000000 Z
-      updated_at: !ruby/object:DateTime 2022-04-21 13:26:43.898000000 Z
+      updated_at: !ruby/object:DateTime 2022-04-21 14:40:27.635000000 Z
     title: jack headshot
     description: ''
-    url: "//images.ctfassets.net/jxa4vq5tep60/5pYs3J2DAPsiIP7vThbhxg/7db2688dac0f70f1e3d47eed67f87bc6/jack_headshot.jpg"
+    url: "//images.ctfassets.net/jxa4vq5tep60/5pYs3J2DAPsiIP7vThbhxg/20f7028fb0509a84803029276933cdd5/jack_headshot.jpg"
   email: jack.crum@dc.gov
   is_alum: false
